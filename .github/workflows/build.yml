@@ -1,8 +1,11 @@
 name: Build Repo Package
 on:
+  schedule:
+    - cron: '0 * * * *'
   push:
     branches:
       - main
+      - master
   workflow_dispatch:
 
 jobs:
