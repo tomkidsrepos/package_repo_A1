@@ -1,0 +1,26 @@
+name: Build Repo Package
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Generate Packages
+        run: |
+          rm -f Packages Packages.bz2
+          dpkg-scanpackages -m . /dev/null > Packages
+          bzip2 -fks Packages
+          
+      - name: Commit and Push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-generate Packages"
+          file_pattern: "Packages Packages.bz2"

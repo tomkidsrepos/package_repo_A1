@@ -1,0 +1,19 @@
+Package: vn.gsm.videopane
+Version: 2.0.6k
+Architecture: iphoneos-arm
+Maintainer: Cydia.vn <repo@cydia.vn>
+Depends: mobilesubstrate (>= 0.9.5001), firmware (>= 5.0), preferenceloader (>= 2.2.2), libactivator (>= 1.9.5), applist (>= 1.5.9), com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
+Filename: debs/vn.gsm.videopane_2.0.6k_iphoneos-arm.deb
+Size: 451816
+MD5sum: 8a837524460d52048af0c852fc59de89
+SHA1: 169be2d5dcc8c46d4421c5893021adf5cfe421cb
+SHA256: 23ff7c1648fcfe1dc4c0f821768513a35119c3991081c1f3833284caca68e367
+Section: !CydiaVn-Tools
+Homepage: http://cydia.vn/
+Description: Picture-in-picture for video; multitask while playing movies
+Author: Ryan Petrich
+Depiction: http://cydia.vn/depic/t4582/
+Icon: file:///System/Library/PreferenceLoader/Preferences/VideoPane/VideoPane@2x.png
+Name: VideoPane
+Sponsor: Cydia.vn Blog's <http://cydia.vn/>
+
