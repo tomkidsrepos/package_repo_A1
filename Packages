@@ -3154,6 +3154,26 @@ Description: Cai Fackebook da gop cac tweaks fix cho ios 6
 Author: Tomkids
 Name: Facebook Fix For IOS6
 
+Package: tomkids.book.Steve Jobs
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./tomkids.book.Steve Jobs_1.0_iphoneos-arm.deb
+Size: 6214660
+MD5sum: 4ec7116369ac06470146a9ae7f516cbb
+SHA1: c899d4e662fac1ce6b8d4139154473e4589c5870
+SHA256: 4c3108bc43319480f3b39de99891a863e3a8f109a5437185afaf0cab6bbb69fa
+Section: Books
+Description: Huong dan:
+ Huong dan:
+ - Dien thoai can cai iBooks va iFiles
+ - Cai xong sach se duoc chep vao thu muc /private/var/mobile/Media/Books
+ - Dung iFiles truy cap thu muc tren roi chon file truyen, chon mo bang iBooks
+ .
+ Converted by Tomkids
+Author: Converted by Tomkids
+Name: Steve Jobs - Sức mạnh của sự khác biệt
+
 Package: tomkids.contra
 Version: 1.2.3
 Architecture: iphoneos-arm
