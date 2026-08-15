@@ -3174,6 +3174,26 @@ Description: Huong dan:
 Author: Converted by Tomkids
 Name: Steve Jobs - Sức mạnh của sự khác biệt
 
+Package: tomkids.book.caubesieunangluc01
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./tomkids.book.caubesieunangluc01_1.0_iphoneos-arm.deb
+Size: 35426114
+MD5sum: 3f6246d4fd8083dbc10dc899d5b1093e
+SHA1: e1b91e0cd2a701eeacc2fc5ad5b51a5f830c4a49
+SHA256: 0813aa6a79f9fe826cd853a9e1fe6b0233ee5fe2bf36ff56b636e3fcf681ff87
+Section: Books
+Description: Huong dan:
+ Huong dan:
+ - Dien thoai can cai iBooks va iFiles
+ - Cai xong sach se duoc chep vao thu muc /private/var/mobile/Media/Books
+ - Dung iFiles truy cap thu muc tren roi chon file truyen, chon mo bang iBooks
+ .
+ Converted by Tomkids
+Author: Converted by Tomkids
+Name: Cậu bé siêu năng lực - Tập 01
+
 Package: tomkids.contra
 Version: 1.2.3
 Architecture: iphoneos-arm
