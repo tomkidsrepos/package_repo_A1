@@ -1,9 +1,4039 @@
+Package: Tom.Sach.ChuThong15
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./Tom.Sach.ChuThong15_1.0_iphoneos-arm.deb
+Size: 9002332
+MD5sum: 7070e411940e1b3898cd133685667f0c
+SHA1: dfdcd9a4d961da49c6da9e3ceadac06ca5b36bc9
+SHA256: c734f29bd38ecc52bd8d61011999771a86df93be2d7ba83b5d68dbfee6f535ab
+Section: Books
+Description: Chu Thoong - T 15
+ .
+ Converted by Tomkids
+Author: Converted Book by Tomkids
+Name: Chu Thoong - T 15
+
+Package: Tom.Sach.Doraemon1
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./Tom.Sach.Doraemon1_1.0_iphoneos-arm.deb
+Size: 28018346
+MD5sum: cd15c744ae19698110a0de69cdd9dc8f
+SHA1: d36b3f6c9aa197eda3bf2dd646167d62ba8e5d24
+SHA256: 59d1a322ae110a9b15d27d47b59838095cd92aa4a51e2270c0c11e33f6519639
+Section: Books
+Description: Mô tả sách...
+ .
+ Converted by Tomkids
+Author: Converted Book by Tomkids
+Name: DORAEMON - DU HANH BIEN PHUONG NAM
+
+Package: Tomkids.2010FIFAWORLDCUP
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./Tomkids..Game.FIFAWORLDCUP2010_1.0.2_iphoneos-arm.deb
+Size: 40382830
+MD5sum: e07376ac14abc0ed8d74ceb2f92b1992
+SHA1: 50a98dc83ebcc898d167b698e604e89b1fc03302
+SHA256: 51fa1d5456d3a06f363bf23876320c376619fece5ec92be77ac6e3fac959ef46
+Section: Applications
+Description: Mô tả ngắn gọn về app/tweak
+ .
+ Repackaged via Tomkids' Cydia Repo Manager
+Author: FIFA WORLD CUP
+Name: 2010 FIFA WORLD CUP SOUTH AFRICA™
+
+Package: Tomkids.AirHockey
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./Tomkids..Game.AirHockey_1.1_iphoneos-arm.deb
+Size: 1309656
+MD5sum: e50646eb95d99f9ff66296e79b197cb6
+SHA1: 4e841b5f0d43fcb4b2f2f347a74bde35f12a7e2b
+SHA256: e05ce95f676f1851f6032f4e6fc3a7de2b991bd95108b1443ff75b8928733ed5
+Section: Applications
+Description: Mô tả ngắn gọn về app/tweak
+ .
+ Repackaged via Tomkids' Cydia Repo Manager
+Author: Air Hockey
+Name: Air Hockey
+
+Package: Tomkids.AvatarOfWar
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./Tomkids..Game.AvatarOfWar_1.0_iphoneos-arm.deb
+Size: 9128096
+MD5sum: e2cdd32af9316fd40df186e25d391204
+SHA1: 1600e130d5384027354ad38c15ef61dcfc5fb51b
+SHA256: 333a8165b6269bea12ee2a2dd0b4ad682cf169e8197a0119fed661a23607f015
+Section: Applications
+Description: Game Avatar Of War 1.0 for low IOS
+ Let's go
+Author: AvatarOfWar_1.0
+Name: AvatarOfWar_1.0
+
+Package: Tomkids.Bricks4.2.1
+Version: 4.2.1
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./Tomkids..Game.Bricks4.2.1_4.2.1_iphoneos-arm.deb
+Size: 18886330
+MD5sum: 971730c2557d95008f6880ef497e63c9
+SHA1: fd309a429810e76f532cda363089470f3c3d78c7
+SHA256: d98b3f32f95cabee13ec6dc37824dfb0bff12374e7de13feed4a64156cdfb364
+Section: Applications
+Description: Bricks_4.2.1 for IOS 32bit
+Author: Bricks_4.2.1
+Name: Bricks_4.2.1
+
+Package: Tomkids.Caro1.0
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./Tomkids..Game.Caro1.0_1.0_iphoneos-arm.deb
+Size: 10020954
+MD5sum: 9c17dc373c4308414ce9fb6c80f18441
+SHA1: cd96093ca7ef57cd3f5bca489eb17ec9a30b1bfe
+SHA256: 7d6fcf7d93fc4be45b511b5ff22aa12b9f989b64f54861f625bbb209020c2188
+Section: Applications
+Description: Cài đặt app chơi cờ Caro
+Author: Caro_1.0
+Name: Caro1.0
+
+Package: Tomkids.Chrome
+Version: 29.1547.11
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./Tomkids.App.Chrome_29.1547.11_iphoneos-arm.deb
+Size: 16016282
+MD5sum: 0d9b486b7d3b7b125ccc1fdc74fea6a1
+SHA1: cfb1462fe8963f9f10dd040a8eab424c63706dc1
+SHA256: 74e8b19e89b17c44fe6b5bea88bff07ed1a265c105cf88b3282fd7f4437dbe1c
+Section: Applications
+Description: Google Chrome for low ios
+ .
+ Converted by Tomkids
+Author: Converted ipa to deb by Tomkids's tool
+Name: Chrome
+
+Package: Tomkids.DaoVang
+Version: 2.2
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./Tomkids..Game.DaoVang_2.2_iphoneos-arm.deb
+Size: 11376764
+MD5sum: 5c44ee9d8fc4a37dcc936e2a6549f9a3
+SHA1: 53661a84ae3276be60dff9168c540840ae5bbff4
+SHA256: 73d175b44b15fba4233f435eaf67ccd311a79db5ca90143cd330715e054269cb
+Section: Applications
+Description: Game Đào vàng dành cho IOS thấp
+ Converted from ipa to deb by Tomkids
+ .
+ Converted by Tomkids
+Author: Converted ipa to deb by Tomkids's tool
+Name: Đào vàng
+
+Package: Tomkids.DoVuiNgayTet
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./Tomkids.Game.DoVuiNgayTet_1.0_iphoneos-arm.deb
+Size: 16030940
+MD5sum: 358e3271f46293e3fd8e10d8cf3a9393
+SHA1: 66cf00f75e8eae2f2fa9c7079293debe52e50ff9
+SHA256: 826f6900d92a54df67ef576392ba4d3d13142bfeb6503c0006674f4655dcac56
+Section: Applications
+Description: App vui
+ .
+ Converted by Tomkids
+Author: Converted by Tomkids
+Name: Do vui ngay tet
+
+Package: Tomkids.FLACPlayer
+Version: 1.8
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./tomkids.App.Flacplayer_1.8_iphoneos-arm.deb
+Size: 3370982
+MD5sum: 47185f9e85bd58206666a2fc87bc63d3
+SHA1: f3ec1ed39b970ee41696a341558399224b66a2c2
+SHA256: c7cdeee16de8e5c4cd75eadcfd86982548ecbe413e48c4542f609d1a1c3412d8
+Section: Applications
+Description: Music App for low ios
+ .
+ Converted by Tomkids
+Author: Converted ipa to deb by Tomkids's tool
+Name: FLAC Player
+
+Package: Tomkids.Fifa10
+Version: 1
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./Tomkids..Game.Fifa10_1_iphoneos-arm.deb
+Size: 63782036
+MD5sum: f517769ff82b536d8e7164cf8d329552
+SHA1: 9887ac75670f91f20e8b3f1fa4e709cd10283f9c
+SHA256: a96b09e22283a68eb86cdacd1eb8f587c117d3049612c192006487892a4614f3
+Section: Applications
+Description: Mô tả ngắn gọn về app/tweak
+ .
+ Converted by Tomkids
+Author: Converted ipa to deb by Tomkids's tool
+Name: FIFA 1O
+
+Package: Tomkids.GoTV
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Converted ipa to deb by Tomkids's tool
+Filename: ./Tomkids.App.GoTV_1.3_iphoneos-arm.deb
+Size: 20212024
+MD5sum: eeb3360d6a3fcd8ea0c68b3cc398dfde
+SHA1: b61d818c643b7d46e4235153b89322942a0bbbe2
+SHA256: 3a41793a657ad33da904234fdf01f45d41da18a5dbcbc9de99f2bb5d265fc334
+Section: Applications
+Description: Hay them cac nguon sau de xem tivi:
+ Hay them cac nguon sau de xem tivi:
+ https://iptv-org.github.io/iptv/languages/vie.m3u
+ https://rg.com.vn/coban
+Author: Converted ipa to deb by Tomkids's tool
+Icon: https://github.com/tomkidss/cydia/blob/main/CydiaIcon.png
+Name: GoTV
+
+Package: Tomkids.Messenger
+Version: 2.7.2
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./Tomkids.App.Messenger_2.7.2_iphoneos-arm.deb
+Size: 15391120
+MD5sum: c6d6b23876e18ae74b43ff0dffcb565c
+SHA1: 5e26a81411b4fee8167d568e866b3763c89e6864
+SHA256: 3923af30b4608c05d54138c64e108f1c2016989e95d713c6b469672c951c486a
+Section: Applications
+Description: App for low ios
+ .
+ Converted by Tomkids
+Author: Converted ipa to deb by Tomkids's tool
+Name: Messenger
+
+Package: Tomkids.NhacChuong.BonChuLam
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./Tomkids.NhacChuong.BonChuLam_iphoneos-arm.deb
+Size: 1035242
+MD5sum: c3aebb22900bc75b78f3102f1569f247
+SHA1: f22f42a9a61a70568273f5497f2440c48c30461a
+SHA256: 73cc4609c7ce4a36a46221628fb738eaf932236b47bd22b5ffca24f5587a2165
+Section: Ringtones
+Description: Nhạc chuông cho iOS
+Author: Unknown
+Name: Bốn Chữ Lắm
+
+Package: Tomkids.NhacChuong.Bonghoachangtontai
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./Tomkids.NhacChuong.Bonghoachangtontai_iphoneos-arm.deb
+Size: 605316
+MD5sum: 56641361ee5d86d490683c09afad1fa2
+SHA1: ebef41482319258cfc2bedfc41c5302f68f9ee1f
+SHA256: 00f5d2e0bd92f422246524aa3da6fccb6263a32bfa54ff013fc4654ff5e8f617
+Section: Ringtones
+Description: Nhạc chuông cho iOS
+Author: Unknown
+Name: Bông hoa chẳng tồn tại
+
+Package: Tomkids.NhacChuong.CungVeTayBac
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./Tomkids.NhacChuong.CungVeTayBac_iphoneos-arm.deb
+Size: 579738
+MD5sum: 4bc46081b4861d8eb32544264f5e6b02
+SHA1: 8c58edee823485076077406e9ca9806cb4523e6f
+SHA256: dae6c7f34711f1be887aafe49a9f869a1abbb5bf8788ad1136a0a629d2090f0b
+Section: Ringtones
+Description: Nhạc chuông cho iOS
+Author: Unknown
+Name: Cùng về Tây Bắc
+
+Package: Tomkids.NhacChuong.GaiNghe
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./Tomkids.NhacChuong.GaiNghe_iphoneos-arm.deb
+Size: 1227530
+MD5sum: 3bfccdbdad589ca5aa57e1b71d49053c
+SHA1: c2d5efff1f060d849847651b134a930426692e75
+SHA256: e3f6c856ac0f107e7f13a374f5fae7eee0a2e7c4cbace3b5bbd202e692b18bf0
+Section: Ringtones
+Description: Nhạc chuông cho iOS
+Author: Unknown
+Name: Gái Nghệ
+
+Package: Tomkids.NhacChuong.GioLonDangThoi
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./Tomkids.NhacChuong.GioLonDangThoi_iphoneos-arm.deb
+Size: 684778
+MD5sum: b6ec997427da41eeb786343f5d18dd2f
+SHA1: 6681f2aeda5bfd50ec659ea308533da3a6a5bdb4
+SHA256: 5cd8ee72ac3f7be310bc99ec2f9d6dcdf27012c24d49e42aab2a37ab2e9e2ada
+Section: Ringtones
+Description: Nhạc chuông cho iOS
+Author: Unknown
+Name: Gió Lớn Đang Thổi Tuyết Lớn Đang Rơi
+
+Package: Tomkids.NhacChuong.KeSayTinh2
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./Tomkids.NhacChuong.KeSayTinh2_iphoneos-arm.deb
+Size: 536822
+MD5sum: e8b3bfe9e9f2080ae8d9feb2e790595b
+SHA1: 9e2b065c0e61c72c55ccf5132a85487fb635d344
+SHA256: ddf01235dbff526574cfcd13508b8698e542933234f746aa3f02cf98a7f58f24
+Section: Ringtones
+Description: Nhạc chuông cho iOS
+Author: Unknown
+Name: Kẻ Say Tình 2 Remix – Quốc Thiên
+
+Package: Tomkids.NhacChuong.ThamVienNgoai
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./Tomkids.NhacChuong.ThamVienNgoai_iphoneos-arm.deb
+Size: 857980
+MD5sum: d574eae34fe80e7a446844e329025a41
+SHA1: b4b03807405f7fdb96cc139528b1dbd81ac04eb5
+SHA256: ab4bcaca72d8472d4d52c54fe850180b541f8e504ff23f163d2df6eec1f7a364
+Section: Ringtones
+Description: Nhạc chuông cho iOS
+Author: Unknown
+Name: Thẩm Viên Ngoại
+
+Package: Tomkids.NhacChuong.XoXoMB
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./Tomkids.NhacChuong.XoXoMB_iphoneos-arm.deb
+Size: 938942
+MD5sum: 77e95b3caf943a4ea414139db8a897e9
+SHA1: 7ba2c548ad50a4aec813a593565c940982d05c8c
+SHA256: 41362d399349bbb8890bdf74005ecdae9412726cb8625a3cf872a76d865313b1
+Section: Ringtones
+Description: Nhạc chuông cho iOS
+Author: Unknown
+Name: Xổ xố Miền Bắc
+
+Package: Tomkids.Nhacchuong.ChapNiemTrongEm
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./Tomkids.Nhacchuong.ChapNiemTrongEm_iphoneos-arm.deb
+Size: 492180
+MD5sum: ec326066b2bf0a75add06cbdc00bd038
+SHA1: 8ac399e0040e85a14d0cc993adf565c7e3886fc5
+SHA256: 3230de6e9a9d8f6685bd154f77b3636bcf1541e8d834ef0fd5ffa46cacbc467b
+Section: Ringtones
+Description: Nhạc chuông cho iOS
+Author: Unknown
+Name: Chấp niệm trong em
+
+Package: Tomkids.OperaMini
+Version: 7.0.3.40701
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./Tomkids.App.OperaMini_7.0.3.40701_iphoneos-arm.deb
+Size: 2907252
+MD5sum: 56a3c16721b2630ce62a12374952ea29
+SHA1: 2c8da56c3eb788c5fbe75d670da0c733236204a9
+SHA256: 9cb0bc23cb03c5102b281101462acce832c6f8d6e9dbd5ac3a0860377584f972
+Section: Applications
+Description: Opera mini for low ios
+ .
+ Converted by Tomkids
+Author: Converted ipa to deb by Tomkids's tool
+Name: Opera Mini
+
+Package: Tomkids.PvZ
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./Tomkids..Game.PvZ_1.0_iphoneos-arm.deb
+Size: 35085114
+MD5sum: e438f49642e9f337ea3882f34b304f41
+SHA1: 583fc3ba23f0ad94d77e7d353fc164a1217689f5
+SHA256: bf4438d09786c302ee4e6364e8640fc1279677c5853a1ed4348351f424552d53
+Section: Applications
+Description: Game for low ios
+ .
+ Converted by Tomkids
+Author: Converted ipa to deb by Tomkids's tool
+Name: PvZ
+
+Package: Tomkids.Snake
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./Tomkids.Snake_2.0_iphoneos-arm.deb
+Size: 266354
+MD5sum: 5ce5a193ed173ef2ab79c55ab42cbcd4
+SHA1: b09e07e9ba41c0a15efd2d6cf9d3b6427c0288d1
+SHA256: f89376293d2ada64857725e8de21fc2b52a46948dc983a0d93cf37cc2240fd7b
+Section: Applications
+Description: Mô tả ngắn gọn về app/tweak
+ .
+ Repackaged via Tomkids' Cydia Repo Manager
+Author: Converted by Tomkids
+Name: Snake
+
+Package: Tomkids.TruyenVN
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./Tomkids.App.TruyenVN_1.0_iphoneos-arm.deb
+Size: 13267852
+MD5sum: a0ef111a7c8a20d112316bc1e77adc6b
+SHA1: 64574a6496381cb9e31034462abaf4951427101c
+SHA256: 4a3dcd06e5b090b8c5a8f7ce0f5b0b1d88ed02658c56b7f14dd6130856634487
+Section: Applications
+Description: Mô tả ngắn gọn về app/tweak
+ .
+ Converted by Tomkids
+Author: Unknown
+Name: Truyện Việt Nam
+
+Package: Tomkids.ZingMp3
+Version: 3.2.1
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./Tomkids.App.ZingMp3_3.2.1_iphoneos-arm.deb
+Size: 4808154
+MD5sum: 07955071d6cce838743a1993aba25314
+SHA1: dab26e4b71b188565cfae4578d20bdf0a00e38c7
+SHA256: 9083e9f9875ffe867e8cf756fb9d69bf1c4494f1e5d47b0f5251b582551faccc
+Section: Applications
+Description: Zing Mp3 for low ios
+ .
+ Converted by Tomkids
+Author: Converted ipa to deb by Tomkids's tool
+Name: Zing Mp3
+
+Package: Tomkids.bowman
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./Tomkids..Game.Bowman_1.2_iphoneos-arm.deb
+Size: 384952
+MD5sum: 478e71ff6cb983aab58525ec2836f33a
+SHA1: a1c0817618432cedfec649f0fae3fd5d90b4183e
+SHA256: c419ded8cfe9754cdf5dd44e3571e070b15b05326a76838cdfb0c4cf2793e6e8
+Section: Applications
+Description: Game for low ios
+ .
+ Repackaged via Tomkids' Cydia Repo Manager
+Author: Bowman
+Name: Bowman
+
+Package: Tomkids.dacnhantam
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./Tomkids.App.Dacnhantam_1.0_iphoneos-arm.deb
+Size: 180724
+MD5sum: 9a450784644b1b8c90f6cf12858e4000
+SHA1: e9f6f851becd1b1fbf237254d76cc914554112c3
+SHA256: 41b84e45d346efffc3234e2e4300b5d3b6f37bd044b2d6eb0e4a9ed6df4fdd69
+Section: Applications
+Description: Game for low ios
+ .
+ Repackaged via Tomkids' Cydia Repo Manager
+Author: Dale Carnegie
+Name: Dac Nhan Tam
+
+Package: Tomkids.iGangster
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./Tomkids..Game.iGangster_1.1_iphoneos-arm.deb
+Size: 280884
+MD5sum: 46e00c8ecb856c17cb9f194fdf936efc
+SHA1: 171838c5e7ac2d25f7435d7a4d11afafa5cf8a0a
+SHA256: e7c981a7e7c611fe479627dc4d257504087232750e39303517fcbf01440bcf19
+Section: Applications
+Description: Mô tả ngắn gọn về app/tweak
+ .
+ Repackaged via Tomkids' Cydia Repo Manager
+Author: iGangster
+Name: iGangster
+
+Package: ai.akemi.appsyncunified
+Version: 110.0
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 700
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 16.3.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, technology.goated.appsync, technology.goated.appsyncunified, vaginalfisting.appsynctool, science.xnu.substitute
+Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
+Provides: appsync, net.angelxwind.appsyncunified
+Filename: ./nodelete-ai.akemi.appsyncunified_110.deb
+Size: 58440
+MD5sum: 26f898f0b80f3bd842527aa9a9859bb1
+SHA1: f0392e1c1992789ac92c17dc7db3718fca6df899
+SHA256: fa97d20ecaab914c7d07fc17ff2f31c15d34b33a5eebc158cb2c83e8a7ec2abc
+Section: Tweaks
+Homepage: https://cydia.akemi.ai/
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
+Name: AppSync Unified
+
+Package: applist
+Version: 1.5.16
+Architecture: iphoneos-arm
+Maintainer: Ryan Petrich <rpetrich@gmail.com>
+Installed-Size: 780
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3) | firmware (<< 7.0)
+Conflicts: com.a3tweaks.polus (<< 2.0.7)
+Filename: ./tomkids.applist_1.5.16_iphoneos-arm.deb
+Size: 319702
+MD5sum: 7d54d283f0b8552fc18e3608e9a1cd53
+SHA1: deb8ec1f1a3f68e37719b8dc9faa5fa5d4e1041e
+SHA256: ee67e0c7c56c82a47d86336a94fe2c4e24a122ff94825be1a3c67c5563e42041
+Section: System
+Description: Allow extensions to read the list of installed apps
+Author: Ryan Petrich <rpetrich@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
+Dev: rpetrich
+Name: AppList
+Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
+
+Package: apr-lib
+Version: 1.3.3-2
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 176
+Pre-Depends: dpkg (>= 1.14.25-8)
+Replaces: apr (<< 1.3.3-4)
+Filename: ./tomkids.apr-lib_1.3.3-2_iphoneos-arm.deb
+Size: 225476
+MD5sum: 3d5ce3f469c541b42ab8834320f53463
+SHA1: d74d132f82cf2bb60356346b9eebbe3aaa3305b4
+SHA256: d9060e0c0c17e1f83664c8f33d3a443bbc547838fd07907bb93d928c5a79a8ef
+Section: Development
+Priority: standard
+Homepage: http://apr.apache.org/
+Description: just the /usr/lib folder from APR
+Name: APR (/usr/lib)
+
+Package: apt
+Version: 1:0-23
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 12
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: apt7
+Conflicts: cydia (<< 1.0.2843-1)
+Filename: ./tomkids.apt_0-23_iphoneos-arm.deb
+Size: 686
+MD5sum: 6169745f3aee41ff8edcbbc60566d8f0
+SHA1: 5194c21811c2fdd6ef6e97edf905e687eddcddc8
+SHA256: e17e8b33dc22f15400f77d6cef4d3f6dd72835068fd5abec309fa18a8b0bbd5c
+Section: Packaging
+Priority: required
+Description: any advanced packaging tool from Debian
+Name: APT 0.6 Transitional
+
+Package: apt7
+Version: 0.7.25.3-9
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 1152
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: apt7-key, apt7-lib (>= 0.7.25.3-7), berkeleydb
+Replaces: apt (<< 1:0-1)
+Filename: ./tomkids.apt7_0.7.25.3-9_iphoneos-arm.deb
+Size: 347760
+MD5sum: de427b01fb48257f377aa008e2c3b538
+SHA1: 8420d5a2a8b4edd269ff9f225764a32f3dcfe98e
+SHA256: 835060dcd849c3c9a87c791981c5f7e2c02d041f3884c667ef5ea4dd8f5da630
+Section: Packaging
+Priority: standard
+Description: the advanced packaging tool from Debian
+Name: APT 0.7 Strict
+
+Package: apt7-key
+Version: 0.7.25.3-3
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 28
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: apt7-lib (>= 0.7.25.3-7)
+Replaces: apt (<< 1:0-1), apt7 (<< 0.7.20.2-4)
+Filename: ./tomkids.apt7-key_0.7.25.3-3_iphoneos-arm.deb
+Size: 3022
+MD5sum: 9438f8cdf3e8863c416f1e4523c0d676
+SHA1: a0bbcd9e4b345dd97161073c8e0b1b9065d51054
+SHA256: c464f4fee8e1fc38759396f3aac050ca0e936d28a953ae2d61e52b56f9b2fac5
+Section: Packaging
+Priority: standard
+Description: repository encryption key management tool
+Name: APT 0.7 (apt-key)
+
+Package: apt7-lib
+Version: 0.7.25.3-16
+Architecture: iphoneos-arm
+Essential: yes
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 1660
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: bzip2, dpkg (>= 1.14.25-9), gnupg, gzip, lzma
+Conflicts: apt7-ssl
+Breaks: cydia (<< 1.1.10), apt7 (<< 0.7.25.3-7), aptitude (<< 0.4.11.11-6)
+Replaces: apt (<< 1:0-1), apt7 (<< 0.7.20.2-3), apt7-ssl
+Provides: apt7-ssl
+Filename: ./tomkids.apt7-lib_0.7.25.3-16_iphoneos-arm.deb
+Size: 1773210
+MD5sum: 877e25e4b2708449dc1d608b622eeba0
+SHA1: 6e8d17687746d9760cee7c650a5f25f8c9632948
+SHA256: 2c2785ff613f07aa503c06baebb843deaa530efcf52aabfe1db03fb8a4402cfe
+Section: Packaging
+Priority: required
+Description: the advanced packaging library from Debian
+Name: APT 0.7 Strict (lib)
+
+Package: bag.skyglow.bluetweety
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Requis, bag.xml
+Installed-Size: 948
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./bag.skyglow.bluetweety_1.0_iphoneos-arm.deb
+Size: 111010
+MD5sum: f32c4f1b3f728762ccb997ef62e4656e
+SHA1: 24d850223ca9966304324344d5c33164bc237c1e
+SHA256: baadc0ab0c67762ee605068e111e87776dffa05ea6e8209315b0d7a4fd3faa72
+Section: Tweaks
+Description: Fix the iOS integration with Twitter across the system, as well as the Twitter app.
+Author: Requis, bag.xml
+Depiction: http://cydia.skyglow.es/depictions/bag.skyglow.bluetweety/depictions/index.html
+Icon: file:///Library/Application%20Support/bag.skyglow.bluetweety/BlueTweety-Icon.png
+Name: BlueTweety
+
+Package: bag.skyglow.bluetweety
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Requis, bag.xml
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./BlueTweety-Legacy.deb
+Size: 164540
+MD5sum: 2d8fa86eacc3b3422bff62dd514a92b6
+SHA1: ca89f3be01fe0c35980aa4ab2d769a728a1a1429
+SHA256: 436a4555e15c037f2b999d3c0ef67caf5c9ed63d9d4cad22f4350d3c7a3ac6ca
+Section: Tweaks
+Description: Fix the iOS integration with Twitter across the system, as well as the Twitter app.
+Author: Requis, bag.xml
+Depiction: http://cydia.skyglow.es/depictions/bag.skyglow.bluetweety/depictions/index.html
+Icon: file:///Library/Application%20Support/bag.skyglow.bluetweety/BlueTweety-Icon.png
+Name: BlueTweety
+
+Package: bag.xml.tuberepair
+Version: 1.2-Beta-1
+Architecture: iphoneos-arm
+Maintainer: bag.xml, Requis
+Installed-Size: 216
+Depends: mobilesubstrate, preferenceloader
+Filename: ./tomkids.tuberepair_1.2-Beta-1_iphoneos-arm.deb
+Size: 100100
+MD5sum: 7e87abbb71e53e4b7c343c10e3f7492b
+SHA1: 18ec40d4ff566617d697c380e402775b3cc9d028
+SHA256: 1cad9baca3f52a1cf6b7b8e8272aa3c704a07224fdd5fcb32eb62731decf77f2
+Section: Tweaks
+Description: TubeRepair is a tweak that redirects YouTube API traffic from the classic YouTube app, and the App Store YouTube app to a designated custom server. You could also just say that it fixes both applications. For assistance refer to the guide (https://tuberepair.bag-xml.com/guide/)
+Author: bag.xml, Requis
+Depiction: http://cydia.skyglow.es/depictions/com.skyglow.tuberepair/depictions/index.html
+Icon: file:///Library/Application%20Support/bag.xml.tuberepair/TubeRepair-Icon.png
+Name: TubeRepair [BETA]
+
+Package: ca-certificates
+Version: 0.0.1-1
+Architecture: all
+Maintainer: Sam Bingner
+Depends: firmware (>= 2.0)
+Conflicts: org.thebigboss.cacerts
+Replaces: org.thebigboss.cacerts
+Provides: org.thebigboss.cacerts
+Filename: ./ca-certificates_0-1_all.deb
+Size: 134436
+MD5sum: 5d4744afecd3bd84d9921bfa8755f70e
+SHA1: 2887452fc6e3007ead9053e9afbcd5d6dc3ebf99
+SHA256: 1c90511fd002151b274c28e50adb8654ecf210a305a891557dcd7d235dd95cf1
+Section: Utilities
+Priority: optional
+Multi-Arch: foreign
+Description: CA certs for curl, wget, git.
+Tag: purpose::console, role::hacker
+Name: CA Certs
+
+Package: ca-certificates
+Version: 0.0.2
+Architecture: all
+Maintainer: Sam Bingner
+Depends: firmware (>= 2.0)
+Conflicts: org.thebigboss.cacerts, openssl (<< 1.0.2r)
+Replaces: org.thebigboss.cacerts
+Provides: org.thebigboss.cacerts
+Filename: ./ca-certificates_0.0.2_all.deb
+Size: 125710
+MD5sum: c9e280b321aba40459c988eac9625957
+SHA1: 878696ce1037a53c58d3d75dfcf39507a942f18c
+SHA256: 29d3d0d5b09686f117a0402796f3f99224e30168e44178a49a78f504f3c84ba2
+Section: Utilities
+Priority: optional
+Multi-Arch: foreign
+Description: CA certs for curl, wget, git.
+Tag: purpose::console, role::hacker
+Name: CA Certs
+
+Package: ca-certificates
+Version: 20231103-1
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 472
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: firmware (>= 2.0)
+Filename: ./ca-certificates_20231103-1_iphoneos-arm.deb
+Size: 124184
+MD5sum: a94018ea68b836fe5b059e4d6a705663
+SHA1: 73404bd7cfb76fb0b0d97b9b14b86a8a77c0a70e
+SHA256: 0ad2ad987e7336ff37285a533a2404de7c3963123794d79e4adbebf44d22e2de
+Section: Security
+Priority: important
+Description: Common CA certificates
+ Contains the certificate authorities shipped with Mozilla's browser to
+ allow SSL-based applications to check for the authenticity of SSL
+ connections.
+ .
+ Please note that Elucubratus can neither confirm nor deny whether the
+ certificate authorities whose certificates are included in this package
+ have in any way been audited for trustworthiness or RFC 3647
+ compliance.  Full responsibility to assess them belongs to the local
+ system administrator.
+
+Package: ca.adrien.appdrop
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Adrien Ruest-Lorquet
+Installed-Size: 2428
+Depends: firmware (>= 5.0), net.angelxwind.appsyncunified | com.linusyang.appsync, com.autopear.installipa | ai.akemi.appinst
+Filename: ./tomkids.ca.adrien.appdrop_2.0_iphoneos-arm.deb
+Size: 1562812
+MD5sum: 2c002d0d9578bfde9c587d06fb514022
+SHA1: 27e1f1c34092d8f3b94f12d8965703eadcde35c1
+SHA256: 8419111a0c661249d7b476dd9773dda25fce21757687cbbca5b1e5c71e555592
+Section: Utilities
+Homepage: https://github.com/AdrienRL1/AppDrop
+Description: Browse, search and install vintage iOS apps (iOS 5-10 era) from the IPA Archive (157k apps). Grounded AI assistant, device-aware suggestions, multilingual.
+Tag: compatible_min::ios5.0
+Author: Adrien Ruest-Lorquet
+Depiction: https://adrienrl1.github.io/cydia/depiction.html
+Icon: https://adrienrl1.github.io/cydia/PackageIcon.png
+Name: AppDrop
+
+Package: com.aoi.storefix
+Version: 1.0-6
+Architecture: iphoneos-arm
+Maintainer: aoi_satou
+Depends: firmware (<= 6.1.6)
+Conflicts: com.aoi.storefix
+Filename: ./tomkids.storefix_1.0-6_iphoneos-arm.deb
+Size: 826
+MD5sum: 99d656a1e43ffd43f150ddc2feff4dac
+SHA1: 8774dd1e42157ff0fdaad42ac779921b1b86d2b8
+SHA256: f01e99b661c4b7693f5939c12fd14cc49010843889df28a026042be6ac9a912e
+Section: System
+Description: Fixed an issue where iOS 6 and earlier could not connect to the App Store. (Only the host file is rewritten. A restart may be required after installation.) If you applied the patch in the previous version, you may not be able to log in with your Apple ID, so we recommend initializing it.
+Tag: purpose::extension
+Author: aoi_satou
+Depiction: http://aoiblog.jp/appstorefix_history.html
+Dev: aoi_satou
+Name: AppStoreFix
+
+Package: com.aoi.storefix6
+Version: 1.0-8
+Architecture: iphoneos-arm
+Maintainer: satou@aoiblog.jp
+Depends: firmware (>= 6.0), firmware (<< 7.0), net.nekokawa.appstorefix, uk.invoxiplaygames.checkmatestore, com.innoying.sbutils
+Conflicts: com.aoi.storefix6
+Filename: ./tomkids.storefix6_1.0-8_iphoneos-arm.deb
+Size: 892
+MD5sum: 6516b706e0d839c85e6405ba64696bc7
+SHA1: 15c40d6495eae17e4ac30a68b856d51557337e60
+SHA256: 2f7e76eaea56daa8cdfdaf92f1f5864c2f7503ffac25a4dbbef8a41a81b5d858
+Section: System
+Description: Fixed an issue where iOS 6 and earlier could not connect to the App Store. (Only the host file is rewritten. A restart may be required after installation.) If you applied the patch in the previous version, you may not be able to log in with your Apple ID, so we recommend initializing it.
+Tag: purpose::extension
+Author: satou@aoiblog.jp
+Depiction: http://aoiblog.jp/repo/index_ios6.html
+Dev: aoi_satou
+Name: AppStoreFix(ios6)
+
+Package: com.arichardson.weepreferenceloader
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./tomkids.weepreferenceloader_1.1_iphoneos-arm.deb
+Size: 34568
+MD5sum: cef1b082bc028c22ae0eda383df0e491
+SHA1: f7e773071127ebc8910ca86b1f69b01301aa9f6e
+SHA256: 7ed9065b10acfd0d58c7ac01b69cd921639dc881f4b7087970d9f44ee455117a
+Section: Tweaks
+Priority: extra
+Homepage: http://modmyi.com/info/weepreferenceloader.php
+Description: A framework to easily add preferences to the Notifications settings.
+Author: Andrew Richardson <andrewr114@gmail.com>
+Depiction: http://modmyi.com/info/weepreferenceloader.d.php
+Name: WeePreferenceLoader
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.arichardson.weepreferenceloader
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./com.arichardson.weepreferenceloader_1.1_iphoneos-arm.deb
+Size: 34562
+MD5sum: 1deaeb81dd1dcd9fe7f9521fa8be6524
+SHA1: 10b0ecae5a95031c1f7485e6e735ba64779fcf79
+SHA256: 4971aec5462de7fba3593fb18bf6091d9c40ef59e48d57725eedea95bb71cb7d
+Section: Tweaks
+Priority: extra
+Homepage: http://modmyi.com/info/weepreferenceloader.php
+Description: A framework to easily add preferences to the Notifications settings.
+Author: Andrew Richardson <andrewr114@gmail.com>
+Depiction: http://modmyi.com/info/weepreferenceloader.d.php
+Name: WeePreferenceLoader
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.autopear.installipa
+Version: 3.4.1-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 238
+Depends: firmware (>= 4.0)
+Filename: ./com.autopear.installipa_3.4.1-1_iphoneos-arm.deb
+Size: 151630
+MD5sum: 4d4941448d74d531e0b25fc53efbc9ed
+SHA1: 86fa2801be6a76cdb5d2f91980124914cb789d52
+SHA256: 98724f95b177a47ee1143d13990d5c2bcafde53056cc4f46b77126d2bea1db41
+Section: Utilities
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ipainstallerconsoleDp
+Description: Install IPA from the command line
+Tag: purpose::console, role::enduser, compatible::ios7, compatible::ios8
+Author: Merlin <lonelystars@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ipainstallerconsoleDp
+Dev: lonelystars
+Name: IPA Installer Console
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.autopear.lunarcalendar
+Version: 1.8-2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1015
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), firmware (<< 8.0) | com.chpwn.weeloader (>= 1.4-3)
+Conflicts: com.autopear.lunarcalendar-beta
+Replaces: com.autopear.lunarcalendar-beta
+Filename: ./tomkids.lunarcalendar_1.8-2_iphoneos-arm.deb
+Size: 281852
+MD5sum: a1ceeeac3df5701abb8e03b2d2b91c69
+SHA1: 4a3b6e0dd1d5ca909b711cb763cae447e5a7a76d
+SHA256: 7b7c9cc7dd5b64d1184572938af233054da4b109ebc8933e3f4ad1d54e44b425
+Section: Addons (NotificationCenter)
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=lunarcalendarweeappDp
+Description: simple lunar calendar, zodiac, solar term, etc. for NotificationCenter
+Tag: purpose::extension, ios7support1::1, ios8support::1
+Author: Merlin <lonelystars@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=lunarcalendarweeappDp
+Dev: lonelystars
+Icon: file:///Library/PreferenceBundles/LunarCalendar.bundle/LunarCalendar@2x.png
+Name: Lunar Calendar for Notification Center
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.blackcrafter.slidemyname
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 12
+Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader
+Filename: ./com.blackcrafter.slidemyname_1.1_iphoneos-arm.deb
+Size: 3484
+MD5sum: 0d2a5775b956c448361187d93222fa8c
+SHA1: 1f21c5461662ecc53095fd867cb4cd8b804738fc
+SHA256: b0abc8b3353aa96f5db377432fab9ea466cd82600b49c74b86894ef97937660c
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=slidemynameDp
+Description: device name shown on unlock slider
+Tag: purpose::extension, role::enduser
+Author: c0d3 <blackcrafter@me.com
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=slidemynameDp
+Dev: blackcrafter
+Name: SlideMyName
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.burbn.instagram
+Version: 361522
+Architecture: iphoneos-arm
+Maintainer: Admin <admin@localhost>
+Depends: firmware (>= 5.0), uikittools, appsync
+Filename: ./com.burbn.instagram-361522-iOS-5.0.deb
+Size: 11864200
+MD5sum: 64581aa00a85acc04e1b5467de4f2692
+SHA1: 1ea8bda0e465560c74925833523de97640fb539e
+SHA256: 9bec7891f3c18032ca67da4c49e82faa1b0c6375f64aa037282e67868f779ac8
+Section: AppStore Apps
+Homepage: https://github.com/tomkidss/cydia
+Description: The decrypted ipa file: gdrive_app_1nWkpE0KMsjIkG5hKT_gv6H-7UZU3ezbA.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: Admin <admin@localhost>
+Depiction: https://github.com/tomkidss/cydia
+Name: Instagram v361522 (iOS 5.0)
+Sponsor: Admin <admin@localhost>
+
+Package: com.chillingo.cuttherope
+Version: 2.3.2
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 4.3), uikittools, appsync
+Filename: ./com.chillingo.cuttherope-2.3.2-iOS-4.3.deb
+Size: 28653188
+MD5sum: 474b016c53457a550f91ea0e5ea35bcb
+SHA1: a3e96bae16eaaf35fd12bbaaaa92dd689ac0cb3f
+SHA256: d3c746ff03f6fab9c7cc201cc43aaf29bb7b2262a78b7ca529681dc9fff9796e
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: 21%20Cut%20the%20Rope%202.3.2%20(186342633).ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: Cut the Rope v2.3.2 (iOS 4.3)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+Package: com.chillingo.cuttherope
+Version: 2.5
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 5.0), uikittools, appsync
+Filename: ./com.chillingo.cuttherope-2.5-iOS-5.0.deb
+Size: 42212512
+MD5sum: 77b5fdeccc1d42c6b919b3347eb7eea4
+SHA1: ca7f8c35253c736eb55bb541b39d51238091949e
+SHA256: 706dc9f260659b61c159155225bed78320793bdc11de0fbb61241839a00d59e9
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: 26%20Cut%20the%20Rope%202.5%20(811729051).ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: Cut the Rope v2.5 (iOS 5.0)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+Package: com.chillingo.cuttherope
+Version: 2.6
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 6.0), uikittools, appsync
+Filename: ./com.chillingo.cuttherope-2.6-iOS-6.0.deb
+Size: 43284172
+MD5sum: 039a473760a6a23eb08aefd18f68ed77
+SHA1: 736002aed434cae0326cdc8f65387c00c48f44d9
+SHA256: a019e14729d2a842b3be8ee7960554caedb9a15cc6b8cf6ed2a74a56250f1d52
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: 28%20Cut%20the%20Rope%202.6%20(838565593).ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: Cut the Rope v2.6 (iOS 6.0)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+Package: com.chpwn.weeloader
+Version: 1.4-4
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 99
+Pre-Depends: firmware (>= 5.0)
+Depends: mobilesubstrate
+Filename: ./tomkids.weeloader_1.4-4_iphoneos-arm.deb
+Size: 19432
+MD5sum: d7c86813a2f70b5e249cfdc386881623
+SHA1: 0214ae8331e0f5535f35a17c46036d05968d8288
+SHA256: a32ae1426b929a44d1471c9d0fad784da340992f9a323b342c3729685d58e8f0
+Section: Development
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=weeloaderDp
+Description: Weeeeeeeeeee! Load Wee apps safely.
+Tag: role::developer, purpose::extension, ios7support::1, ios8support::1
+Author: joedj <weeloader@joedj.net>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=weeloaderDp
+Dev: joejordan
+Name: WeeLoader
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.coolbooter.cbuntether
+Version: 1.0-release
+Architecture: iphoneos-arm
+Maintainer: CoolBooter <coolbooterios@gmail.com>
+Depends: mobilesubstrate
+Filename: ./tomkids.coolbooter.cbuntether_1.0-release_iphoneos-arm.deb
+Size: 51752
+MD5sum: e5e5125feee6add2998ed40074ee9a8a
+SHA1: b6510cb2f88a5b288f2ac10d2f9c38476ce324f0
+SHA256: cee993c84decb15efb8b1e0dbbbd9cea816890b92634be8d880c6ecefcaf0e0c
+Section: System
+Description: "Untethers" an existing CoolBooter install
+ CoolBooter Untetherer is an extension for CoolBooter that allows the user to boot into their second OS automatically.
+ To disable the untether, hold volume down during boot.
+Author: CoolBooter <coolbooterios@gmail.com>
+Name: CoolBooter Untetherer
+
+Package: com.coolbooter.coolbooter
+Version: 1.5-release
+Architecture: iphoneos-arm
+Maintainer: CoolBooter <coolbooterios@gmail.com>
+Depends: xpwn, zip, unzip, ldid, diskdev-cmds, firmware (>= 7.0)
+Filename: ./tomkids.coolbooter.coolbooter_1.5-release_iphoneos-arm.deb
+Size: 28622358
+MD5sum: 27803f19dbaa1d2c7ac15f8fb64c6b08
+SHA1: 8ce01f29de10087f9f12bc942d57281568f98c01
+SHA256: 1a65c19bdae1627de6fd5ec281ca72bbe13de47dc9f66a3d89018af3abc24786
+Section: System
+Description: CoolBooter is an all-in-one dual booting utility for jailbroken 32 bit iOS devices.
+Author: CoolBooter <coolbooterios@gmail.com>
+Name: CoolBooter
+
+Package: com.dba-tech.forecast
+Version: 2.0.2-12
+Architecture: iphoneos-arm
+Maintainer: dba Technologies, LLC <support@dba-technologies.com>
+Depends: mobilesubstrate, com.arichardson.weepreferenceloader, firmware (>= 5.0)
+Conflicts: com.ashman.clockhide, gsc.ipad
+Filename: ./tomkids.forecast_2.0.2-12_iphoneos-arm.deb
+Size: 23108
+MD5sum: 5b01a999f795d60ea23bb9ebdde90716
+SHA1: 0a373efc0fa7877c7f667054d28e2ea34543ecdf
+SHA256: b178f4b588cb97e6d0f9c4691474f851e9ad6f6a2074af5665d856f2559be59a
+Section: Tweaks
+Priority: extra
+Homepage: http://modmyi.com/info/forecast.php
+Description: Replaces the standard lock clock with the native iOS5 weather widget.
+Tag: cydia::commercial
+Author: dba Technologies, LLC <support@dba-technologies.com>
+Depiction: http://modmyi.com/info/forecast.d.php
+Name: Forecast
+
+Package: com.ea.simcitydeluxe.inc
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Admin <admin@localhost>
+Depends: firmware (>= 3.0), uikittools, appsync
+Filename: ./com.ea.simcitydeluxe.inc-1.0.1-iOS-3.0.deb
+Size: 79724104
+MD5sum: 48e2a2ce72ea6781a37418b4865ec771
+SHA1: b696256dd2a3a7af86d09bc2b190097779de4fc9
+SHA256: b5abd1653f7bb4a20fb264deccfeac35795744df47452b83dc3b76c192a346c0
+Section: AppStore Apps
+Homepage: https://github.com/tomkidss/cydia
+Description: The decrypted ipa file: SimCity%E2%84%A2%20Deluxe%20v1.0.1.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: Admin <admin@localhost>
+Depiction: https://github.com/tomkidss/cydia
+Name: SimCity DLX v1.0.1 (iOS 3.0)
+Sponsor: Admin <admin@localhost>
+
+Package: com.ea.sims3wa.inc
+Version: 1.1.22
+Architecture: iphoneos-arm
+Maintainer: Admin <admin@localhost>
+Depends: firmware (>= 4.0), uikittools, appsync
+Filename: ./com.ea.sims3wa.inc-1.1.22-iOS-4.0.deb
+Size: 101512084
+MD5sum: 1e285e20bb161c9a1c1230bed3cb169e
+SHA1: 16918d0580de814de3806055a48acdfbf8c1a1a0
+SHA256: 67d09dc82df4b834be379723f180de70dd19ba6ea8c57dc33163ada8ccf8f399
+Section: AppStore Apps
+Homepage: https://github.com/tomkidss/cydia
+Description: The decrypted ipa file: The_Sims_3_World_Adventures__Electronic_Arts___v1.1.22_os40_-kOtyara.rc318.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: Admin <admin@localhost>
+Depiction: https://github.com/tomkidss/cydia
+Name: TheSims3WA v1.1.22 (iOS 4.0)
+Sponsor: Admin <admin@localhost>
+
+Package: com.gameloft.ASPHALT4
+Version: 1.3.8
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 2.1), uikittools, appsync
+Filename: ./com.gameloft.ASPHALT4-1.3.8-iOS-2.1.deb
+Size: 91251554
+MD5sum: 0f5e3a1b3cf6bd71c009601f830dbeb4
+SHA1: 012e2dba9894aa153a77a5a6a1d709edd570f261
+SHA256: 16b9a1e1db5b5190eb6372e59a10c95d0529570c53d16262661ec1c51f802181
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: ASPHALT4.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: ASPHALT4 v1.3.8 (iOS 2.1)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+Package: com.gameloft.BIA
+Version: 1.3.5
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 3.1.2), uikittools, appsync
+Filename: ./com.gameloft.BIA-1.3.5-iOS-3.1.2.deb
+Size: 91113258
+MD5sum: cfc87b0a173c4039ea5d1023955ed020
+SHA1: 623ef467c90f149f8a7dc2f32a367a78eb2735eb
+SHA256: d3fc58e0e180b6f11f6756970c36053381c3afc7dce57675c38f253c186734e9
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: Brothers%20In%20Arms%20-%20Hour%20of%20Heroes%201.3.5.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: BIA v1.3.5 (iOS 3.1.2)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+Package: com.gameloft.OneVsHundred
+Version: 1.1.4
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 2.2.1), uikittools, appsync
+Filename: ./com.gameloft.OneVsHundred-1.1.4-iOS-2.2.1.deb
+Size: 102797208
+MD5sum: c0f36f450c4eaa06e0673c57ebc6ca27
+SHA1: c193fbd0c13b8a0956546e91fc835f6b6fb79938
+SHA256: bd1c50b0d302c6c53ca9b1a07729a961d275acf0bd800f50babb3be0150801f6
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: 1%20vs%20100™_v.1.1.4.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: 1 vs 100 v1.1.4 (iOS 2.2.1)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+Package: com.hackyouriphone.classiclockscreen
+Version: 3.3.1k
+Architecture: iphoneos-arm
+Maintainer: iLeoLion <repo@hackyouriphone.org>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), curl, firmware(<< 8.0) | org.coolstar.libclassictelephonyui (>= 1.1-1)
+Filename: ./tomkids.classiclockscreen_3.3.1_iphoneos-arm.deb
+Size: 736186
+MD5sum: 7d5da71444883fec6d4273860d981ca3
+SHA1: 3959241070d7b0a0cd41b21a733aaa70351962e1
+SHA256: 225d085f3b8af7bd9b3f1b479efa56c9804c87e7afa322689dc676ffe83ff2ef
+Section: HYI - Tweaks
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=classiclockscreen
+Description: Hate the iOS 7 Lock Screen?
+Author: CoolStar, Jeremy Goulet, Phillip Tennen <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=classiclockscreen
+Name: ClassicLockScreen
+
+Package: com.hackyouriphone.cracktool2
+Version: 2.3~beta9
+Architecture: iphoneos-arm
+Maintainer: iLeoLion <repo@hackyouriphone.org>
+Depends: ldid (>= 1:1.2.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
+Filename: ./com.hackyouriphone.cracktool2_2.3~beta9_iphoneos-arm.deb
+Size: 356412
+MD5sum: 2464ae1d77413c69b79668bbd61dd041
+SHA1: f88ebaa9bdd3b0aacb06bd1e2aa2e4f82a94ac82
+SHA256: 68e41ce7a2710da9bee1692e52c8764e07480b0489d900f8ec1f184c8e3cc9d4
+Section: Tweaks (HYI)
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=cracktool2
+Description: Crack Tweaks on one click
+Author: julioverne <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=cracktool2
+Name: CrackTool2
+
+Package: com.hackyouriphone.fontss
+Version: 1.0.8~Beta3
+Architecture: iphoneos-arm
+Maintainer: HackYouriPhone <repo@hackyouriphone.org>
+Depends: mobilesubstrate, com.spark.snowboard | com.hackyouriphone.snowboard
+Conflicts: com.ipr.bytafont, com.bytafont.bytafont3
+Replaces: com.ipr.bytafont, com.bytafont.bytafont3
+Provides: com.ipr.bytafont, com.bytafont.bytafont3
+Filename: ./com.hackyouriphone.fontss_1.0.8~Beta3_iphoneos-arm.deb
+Size: 17368
+MD5sum: 7e4ff2d011c3511206182a7b0430aa08
+SHA1: 7869843f96cc3d57177e088f1729251fd8785475
+SHA256: 037dad94ddb0a7d657e02c5d9234e82fe06f2df34433b858be7b1c5a6a89742d
+Section: Tweaks (HYI)
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=fontss
+Description: Fonts for SnowBoard
+Author: Spark <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=fontss
+Name: SnowBoard Fonts Extension
+Sileodepiction: https://depiction.hackyouriphone.org/sileoDepiction.php?filename=fontss
+
+Package: com.hackyouriphone.sleepfx
+Version: 2.4-1
+Architecture: iphoneos-arm
+Maintainer: iLeoLion <repo@hackyouriphone.org>
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), firmware (>= 5.1)
+Filename: ./com.hackyouriphone.sleepfx_2.4-1_iphoneos-arm.deb
+Size: 841688
+MD5sum: 8b35216f6c479106b03a123c9ea02b93
+SHA1: 89f085a15082f506fb5b3a63544848b3a81acc41
+SHA256: 3b645e9ceb016cfb6db56db3c1471e9bb9b8320e5640fd0a726b9cb4b84fa078
+Section: Tweaks (HYI)
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=sleepfx
+Description: Enjoy stunning FX when entering sleep
+Author: Malcolm Hall <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=sleepfx
+Name: SleepFX
+
+Package: com.hzapptech.tetris-lite
+Version: 121
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 5.0), uikittools, appsync
+Filename: ./com.hzapptech.tetris-lite-121-iOS-5.0.deb
+Size: 18886518
+MD5sum: 517d88e604609ab10ae6f0e726df8bc7
+SHA1: 04a32e70c0e267954e9e7c7a2f77c591fa9e6ec5
+SHA256: 491d6da34d3a83cc93f346a9e7652557f6f7e8d5fc6ed83e41830489c6ad3c2d
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: Bricks_4.2.1_AppOnly.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: MyTetris-Lite v121 (iOS 5.0)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+Package: com.ihacksrepo.reposetupfiles
+Version: 2.0
+Architecture: iphoneos-arm
+Essential: yes
+Maintainer: iHacksRepo <noreply@ihacksrepo.com>
+Conflicts: com.ihacksrepo.ihacksreposecurity, com.ihacksrepo.ihrrepoicons, com.ihacksrepo.repoprep, com.ihacksrepo.reposicon, com.ihacksrepo.repoicons
+Replaces: com.ihacksrepo.ihacksreposecurity, com.ihacksrepo.ihrrepoicons, com.ihacksrepo.repoprep, com.ihacksrepo.reposicon, com.ihacksrepo.repoicons
+Filename: ./com.ihacksrepo.reposetupfiles_2.0_iphoneos-arm.deb
+Size: 296886
+MD5sum: 5bad1cdef1d7665a7cd42403f820b91b
+SHA1: 244cffa3ac446f2a286bd06b99cb218612658cf2
+SHA256: 727dc8e9e04f571d7298eab8ceb0de37f56555ad041d7eeb05312c9699924977
+Section: IHR
+Homepage: http://ihacksrepo.com
+Description: This file is to setup the repo completely with all missing section icons, repo icons and more
+Author: Matthew
+Depiction: http://ihacksrepo.com/depiction.php?package=reposetupfiles
+Name: Repo Setup Files
+Required: Yes
+Sponsor: iHacksRepo <http://ihacksrepo.com>
+
+Package: com.ijinshan.kbatterydoctorpro.universal
+Version: 4.6.1-11
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 4712
+Depends: mobilesubstrate, firmware (>= 5.0), firmware (<< 7.0)
+Conflicts: app.weiphone.jinshan.kbatterydoctorpro, app.weiphone.myrepospace.oyoung.guan, app.weiphone.ijinshan.kbatterydoctorpro, com.ijinshan.kbatterydoctorpro, com.ijinshan.kbatterydoctorpro.universal, com.myrepospace.oyoung.guan, kbatterydoctorpro.appvv
+Filename: ./tomkids.kbatterydoctorpro.universal_4.6.1-11_iphoneos-arm.deb
+Size: 3061312
+MD5sum: f80aeb25dd05d44bf7b0f5754ccfbfed
+SHA1: 8db2ec0d20cd2d86e9eab6644fa8597bf782b569
+SHA256: 252da0a358d73c8465b21fe2f96d422178ef493739ce5c45107227a23e000948
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=batterydoctorprouniversalDp
+Description: monitor & optimize battery, system toggles
+Tag: purpose::extension
+Author: Kingsoft Security <app@ijinshan.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=batterydoctorprouniversalDp
+Dev: kingsoftsecurity
+Icon: file:///Applications/kBatteryDoctor.app/icon.png
+Name: BatteryDoctorPro
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.ipr.bytafont
+Version: 1.8
+Architecture: iphoneos-arm
+Maintainer: iPhoneRuler.net <info@iphoneruler.net>
+Depends: firmware (>> 4.2.1), firmware (<< 7)
+Filename: ./tomkids.bytafont_1.8_iphoneos-arm.deb
+Size: 269448
+MD5sum: f621307870176247c1c17b2234e6f232
+SHA1: f528e1bf0f57d424a93d908fe95ae3084b48645a
+SHA256: 75e59f3c885c09b6e002fb8f37ecc5185f5db86ef3a2dc884233360549a3c315
+Section: System
+Description: BytaFont lets you apply fonts to your iDevice in few taps.
+Author: iPhoneRuler.net <info@iphoneruler.net>
+Depiction: http://www.iphoneruler.net/depiction/BytaFont/
+Name: BytaFont
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.isoftru.bochs
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: isoftcom.com <isoftteamsupport@gmail.com>>
+Filename: ./bochs.deb
+Size: 36844432
+MD5sum: 2fc90234ca64aec8d45d14b938b722c9
+SHA1: a1aeb6638d3a14378b4eefca73e4e38ee1fb5275
+SHA256: b4b076aa5fe88dc2dad22b3da9a329043b5efbc3c4eefb96f57f45a0273fc382
+Section: System
+Homepage: http://isoftcom.com/
+Description: Run Windows 3.11 and Windows 95 on your iPhone. It's slow, but worked.
+Author: isoftcom.com <isoftteamsupport@gmail.com>
+Dev: isoftru
+Name: Bochs (Win95 for iPhone)
+
+Package: com.isoftru.bochs
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: isoftcom.com <isoftteamsupport@gmail.com>>
+Filename: ./com.isoftru.bochs_1.0.0-1_iphoneos-arm.deb
+Size: 36838638
+MD5sum: a3ba3f378dcbe1efeac6ca3362d52879
+SHA1: f54f48609fa60b16493455fb5bb0d36952e43537
+SHA256: d4f34ae79b80f85ebc29cb6e2ab0578a0c8e6df3859c95133c935d42900abd09
+Section: System
+Homepage: http://isoftcom.com/
+Description: Run Windows 3.11 and Windows 95 on your iPhone. It's slow, but worked.
+Author: isoftcom.com <isoftteamsupport@gmail.com>
+Dev: isoftru
+Name: Bochs (Win95 for iPhone)
+
+Package: com.ixmoe.1pwn.veteris
+Version: 2.1.1
+Architecture: iphoneos-arm
+Maintainer: Electimon <electimon@gmail.com>
+Depends: firmware (>= 5.0), appsync, moe.yzu.veterishelper
+Filename: ./tomkids.veteris_2.1.1_iphoneos-arm.deb
+Size: 1950190
+MD5sum: 442fd87e26f3194525dc4971e1e19fe0
+SHA1: 368a40167b16139886db8082165f7c23e4615921
+SHA256: ac73a1049f2faed35a5958fc14eb74a7617446245141096e4770ead2cd600ad7
+Section: Utilities
+Homepage: http://1pwn.ixmoe.com/
+Description: A Client for the Veteris Server.
+Author: Electimon <electimon@gmail.com>
+Icon: file:///Applications/Veteris.app/AppIcon57x57@2x.png
+Name: Veteris
+
+Package: com.jamied360.ncsettings
+Version: 1.7.1
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: firmware (>= 5.0), mobilesubstrate, com.chpwn.weeloader, preferenceloader
+Filename: ./com.jamied360.ncsettings_1.7.1_iphoneos-arm.deb
+Size: 469838
+MD5sum: 6f472f4cf6b12e1b19ef28ac0fd47d97
+SHA1: 566fe499d697a809bf3b05572ca0d72c7461a500
+SHA256: dd8f4d64ca86378fe8b98346216983d274b611aa81b3ce572677595f4147fd18
+Section: Addons (NotificationCenter)
+Priority: extra
+Homepage: http://modmyi.com/info/ncsettings.php
+Description: NCSettings is a sleek Notification Center toggle widget
+Author: JamieD360 <jamied360support@live.co.uk>
+Depiction: http://modmyi.com/info/ncsettings.d.php
+Name: NCSettings
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.jamied360.ncsettings
+Version: 1.7.1
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: firmware (>= 5.0), mobilesubstrate, com.chpwn.weeloader, preferenceloader
+Filename: ./tomkids.ncsettings_1.7.1_iphoneos-arm.deb
+Size: 469848
+MD5sum: e165cb7653f3923836b609ef54f15330
+SHA1: e06127303117b9beabf6fe69304e20a56f3f534e
+SHA256: ff99ee1c9dc9f2df97b4b3fc3b095b8f7eff401916830129866b9ad564edbcc4
+Section: Addons (NotificationCenter)
+Priority: extra
+Homepage: http://modmyi.com/info/ncsettings.php
+Description: NCSettings is a sleek Notification Center toggle widget
+Author: JamieD360 <jamied360support@live.co.uk>
+Depiction: http://modmyi.com/info/ncsettings.d.php
+Name: NCSettings
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.kjcracks.clutch
+Version: 2.0.4
+Architecture: iphoneos-arm
+Maintainer: KJCracks <unknown@unknown.com>
+Depends: firmware (>= 6.0), firmware (<= 10.3.4)
+Filename: ./com.kjcracks.clutch_2.0.4_iphoneos-arm.deb
+Size: 457648
+MD5sum: f87af3b9bb9d7c69c5a5b6290697a9b3
+SHA1: ec6feae66de70bd39a1bbedea50b13dce5520720
+SHA256: d4a5bd485ec8cec21be0d9e9301a2952a5798d1f62a96b50f6ef7e99e82dbd97
+Section: Terminal Support
+Description: Clutch is a high-speed iOS decryption tool. It is used for decrypting apps currently installed and usable on the device.
+Author: KJCracks <unknown@unknown.com>
+Name: Clutch 2.0.4
+
+Package: com.kjcracks.clutch
+Version: 2.0.4
+Architecture: iphoneos-arm
+Maintainer: KJCracks <unknown@unknown.com>
+Depends: firmware (>= 6.0), firmware (<= 10.3.4)
+Filename: ./tomkids.clutch_2.0.4_iphoneos-arm.deb
+Size: 457648
+MD5sum: f87af3b9bb9d7c69c5a5b6290697a9b3
+SHA1: ec6feae66de70bd39a1bbedea50b13dce5520720
+SHA256: d4a5bd485ec8cec21be0d9e9301a2952a5798d1f62a96b50f6ef7e99e82dbd97
+Section: Terminal Support
+Description: Clutch is a high-speed iOS decryption tool. It is used for decrypting apps currently installed and usable on the device.
+Author: KJCracks <unknown@unknown.com>
+Name: Clutch 2.0.4
+
+Package: com.linusyang.ytbnoad
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Linus Yang
+Installed-Size: 344
+Depends: mobilesubstrate
+Conflicts: me.alfhaily.adblockforyoutube
+Filename: ./tomkids.ytbnoad_0.1_iphoneos-arm.deb
+Size: 50654
+MD5sum: 39e43deaa545fc126991b2fe2343d4c4
+SHA1: 848ecf5a0343fe1ac5e4b1cda292d2485938f2a5
+SHA256: 58801323e9993fa855e063a887ed63f4b84ca966a6ca83459b3d5ca4e342843f
+Section: Tweaks
+Description: remove ads in Youtube app
+Author: Linus Yang
+Name: YoutubeNoAd
+
+Package: com.linusyang.ytbnoad
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Linus Yang
+Installed-Size: 344
+Depends: mobilesubstrate
+Conflicts: me.alfhaily.adblockforyoutube
+Filename: ./com.linusyang.ytbnoad_0.1_iphoneos-arm.deb
+Size: 50654
+MD5sum: 39e43deaa545fc126991b2fe2343d4c4
+SHA1: 848ecf5a0343fe1ac5e4b1cda292d2485938f2a5
+SHA256: 58801323e9993fa855e063a887ed63f4b84ca966a6ca83459b3d5ca4e342843f
+Section: Tweaks
+Description: remove ads in Youtube app
+Author: Linus Yang
+Name: YoutubeNoAd
+
+Package: com.long.ledaudio
+Version: 1.0-5
+Architecture: iphoneos-arm
+Maintainer: Tomkids
+Filename: ./tomkids.app.LedAudioDeb.deb
+Size: 2076136
+MD5sum: 0f2363c8c08b5d806128fba782e68e9d
+SHA1: 0ec643dd5f30fc26e55a457fcf47da7162aa359a
+SHA256: ec537d0170d1c04ccbfd177dd6cabb1b5f2a4060a8238d42e6e9e19bca42bd4d
+Section: Applications
+Description: LED audio visualizer app for iOS
+Author: Tomkids
+Icon: http://tomkidss.github.io/cydia/icons/ledaudio.png
+Name: LED Audio
+
+Package: com.lukezgd.kDFUBundles
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: LukeZGD
+Depends: org.tihmstar.kDFUApp
+Filename: ./com.lukezgd.kDFUBundles-1.0.1_iphoneos-arm.deb
+Size: 10730
+MD5sum: 96964db28234171b2ebbebfc04239559
+SHA1: f5bff05635caeaeea05237f60a7ae1f2ebb0f1b9
+SHA256: dd55fa1d75cebac3c6423a1ee5405ca680580c6b569f4667869d04fe6951b141
+Section: System
+Description: More device support for kDFUApp
+Author: LukeZGD
+Name: kDFUApp Bundles
+
+Package: com.manh.edgeflow
+Version: 0.4.5-72+debug-3+debug
+Architecture: iphoneos-arm
+Maintainer: ManhSDZ
+Installed-Size: 744
+Depends: mobilesubstrate, preferenceloader
+Filename: ./com.manh.edgeflow_0.4.5-72-3+debug_iphoneos-arm.deb
+Size: 346690
+MD5sum: ad7f33c974759b18adde640c655588a1
+SHA1: 877f52d2b42fb5ee79c2fa4d74f28c18bbfdc21d
+SHA256: b2f0ff7d7eb79f6c30c04e8e25da9461a9b64c28caaa30676eee5a3b76e5425f
+Section: Tweaks
+Priority: optional
+Homepage: https://manhsdz.github.io/repo/
+Description: iPhone X style Control Center and gestures for iOS 10
+Tag: purpose::extension, role::enduser
+Author: ManhSDZ
+Depiction: https://manhsdz.github.io/repo/
+Name: EdgeFlow
+
+Package: com.manh.edgeflow32bit
+Version: 0.4.5-72+debug-32bit-8+debug
+Architecture: iphoneos-arm
+Maintainer: ManhSDZ
+Installed-Size: 716
+Depends: mobilesubstrate, preferenceloader
+Filename: ./com.manh.edgeflow32bit_0.4.5-72+debug-32bit-8+debug_iphoneos-arm.deb
+Size: 356126
+MD5sum: dff3fb761ed2c66e8a340e0a164ebdb2
+SHA1: 8a37cc5c71e9c4e86807841a39b57d9e6099936a
+SHA256: 4e6104f056bf97d26e7080b62212bbb1ecf9e8631331a695e50ca440cc110208
+Section: Tweaks
+Priority: optional
+Homepage: https://manhsdz.github.io/repo/
+Description: iPhone X style Control Center and gestures for 32-bit iOS devices
+Tag: purpose::extension, role::enduser
+Author: ManhSDZ
+Depiction: https://manhsdz.github.io/repo/
+Name: EdgeFlow 32bit
+
+Package: com.manh.lockweather
+Version: 0.1.4-36+debug
+Architecture: iphoneos-arm
+Maintainer: ManhSDZ
+Installed-Size: 212
+Depends: mobilesubstrate
+Filename: ./com.manh.lockweather_0.1.4-36+debug_iphoneos-arm.deb
+Size: 36688
+MD5sum: 586f7d34a3caf9cb41eb61caf56aa2ad
+SHA1: ae4bb7350f91c9286eb2f5a05ae7234ef9b7c45f
+SHA256: 781dc34bc91e873b82daa93263396f044401fc72142df021daf3cd3d433ca16c
+Section: Tweaks
+Priority: optional
+Homepage: https://manhsdz.github.io/repo/
+Description: Weather panel for Lock Screen and Notification Center
+Tag: purpose::extension, role::enduser
+Author: ManhSDZ
+Depiction: https://manhsdz.github.io/repo/
+Name: MWeather
+
+Package: com.manh.lockweather32bit
+Version: 0.1.4-37+32bit
+Architecture: iphoneos-arm
+Maintainer: ManhSDZ
+Installed-Size: 192
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.manh.xxx
+Replaces: com.manh.xxx
+Filename: ./com.manh.lockweather32bit_0.1.4-37+32bit_iphoneos-arm.deb
+Size: 34166
+MD5sum: aaa9fd1fc0b2ea743788364128f51696
+SHA1: 1809f9bd034d0559c7553d6eb768a2c2bffc54ee
+SHA256: 459eaf4142b051873f44bc69d518f55caaab3a25d4d4b7f8f3701a01a1cce5ab
+Section: Tweaks
+Priority: optional
+Homepage: https://manhsdz.github.io/repo/
+Description: Weather panel for Lock Screen and Notification Center - 32bit build
+Tag: purpose::extension, role::enduser
+Author: ManhSDZ
+Depiction: https://manhsdz.github.io/repo/
+Name: MWeather 32bit
+
+Package: com.manh.mtune
+Version: 0.3.8-2+debug
+Architecture: iphoneos-arm
+Maintainer: ManhSDZ
+Installed-Size: 192
+Depends: mobilesubstrate, preferenceloader
+Filename: ./com.manh.mtune_0.3.8-2+debug_iphoneos-arm.deb
+Size: 27942
+MD5sum: d1d8dcd8ab5c4252fb2f6fd7244e3d5f
+SHA1: 148ff3b3f2705d5c8b8ef88aafb88f33272a0c83
+SHA256: d8ef57e419fb94d68dcbb576faf65c014ac4d1d288bc9308cbb3de06b6b1e01c
+Section: Tweaks
+Priority: optional
+Homepage: https://manhsdz.github.io/repo/
+Description: Clean cache, logs, temp files, block OTA updates, and respring tools for older iOS.
+Tag: purpose::extension, role::enduser
+Author: ManhSDZ
+Depiction: https://manhsdz.github.io/repo/
+Name: Mtune
+
+Package: com.manh.mtune32bit
+Version: 0.3.8-32bit-1+debug
+Architecture: iphoneos-arm
+Maintainer: ManhSDZ
+Installed-Size: 172
+Depends: mobilesubstrate, preferenceloader
+Filename: ./com.manh.mtune32bit_0.3.8-32bit-1+debug_iphoneos-arm.deb
+Size: 28876
+MD5sum: fada50a0fc1c916e0b23a09019c5915d
+SHA1: afba0060af993735fea66addc6445c4ca9aae653
+SHA256: 38fea41bc8d007261b2ecdddddbfe30a5742142b04ce56134237add2648929d6
+Section: Tweaks
+Priority: optional
+Homepage: https://manhsdz.github.io/repo/
+Description: Clean cache, logs, temp files, block OTA updates, and respring tools for older 32-bit iOS devices.
+Tag: purpose::extension, role::enduser
+Author: ManhSDZ
+Depiction: https://manhsdz.github.io/repo/
+Name: Mtune 32bit
+
+Package: com.mathieubolard.killbackground
+Version: 1.3.1-7
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 133
+Depends: mobilesubstrate, firmware (>= 4.0), preferenceloader, applist
+Filename: ./com.mathieubolard.killbackground_1.3.1-7_iphoneos-arm.deb
+Size: 71280
+MD5sum: 3d33c09acb224ea7078601c180e80de1
+SHA1: 048554dfee5778b9aca58770d695d5b1d26be977
+SHA256: 8742b22b13da8fa2a528b54f6e6fea275f874f1e7a473dc795c547a3a699f397
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=killbackgroundData
+Description: kill all background apps from switcher
+Tag: purpose::extension
+Author: Mathieu Bolard (mattlawer) <mattlawer08@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=killbackgroundData
+Dev: mattlawer
+Icon: file:///Library/PreferenceBundles/KillBackgroundPreferences.bundle/Icon@2x.png
+Name: KillBackground
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.modmyi.serioussbsettingshd
+Version: 1.4-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 2694
+Depends: sbsettings
+Filename: ./tomkids.serioussbsettingshd_1.4-1_iphoneos-arm.deb
+Size: 2454242
+MD5sum: 7b30ab5e6d3ab24427323b200f0f2fdd
+SHA1: 679044151556cbc365e4d44bc11d3721f48e7624
+SHA256: e8fda09320cd310363028b58bb7684bd2b16c6a57490b2e523d09fdf8e31db04
+Section: Themes (SBSettings)
+Description: Retina / HD SBSettings theme for SBSettings
+Author: Max Rudberg <max@maxthemes.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=serioussbsettingshdData
+Dev: maxrudberg
+Name: Serious SBSettings HD
+
+Package: com.ninjakiwi.bloonstd5
+Version: 13454
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 4.3), uikittools, appsync
+Filename: ./com.ninjakiwi.bloonstd5-13454-iOS-4.3.deb
+Size: 93077588
+MD5sum: 7172c13412fa10a55329fe8fb8ac65d2
+SHA1: b30d32a2bd5152b9ef3f1123279d3c6b051a4f99
+SHA256: d66278ef8f4c5abddf724fa24e797c1730a6bc1a89f27897e15da2c791b4d28e
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: Bloons%20TD%205-v2.16--iOS4.3-(Clutch-1.4.6).ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: Bloons TD 5 v13454 (iOS 4.3)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+Package: com.ninjakiwi.bloonstd5
+Version: 13454
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 4.3), uikittools, appsync
+Filename: ./com.ninjakiwi.bloonstd5-13454-iOS-4.3 (1).deb
+Size: 93077588
+MD5sum: 7172c13412fa10a55329fe8fb8ac65d2
+SHA1: b30d32a2bd5152b9ef3f1123279d3c6b051a4f99
+SHA256: d66278ef8f4c5abddf724fa24e797c1730a6bc1a89f27897e15da2c791b4d28e
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: Bloons%20TD%205-v2.16--iOS4.3-(Clutch-1.4.6).ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: Bloons TD 5 v13454 (iOS 4.3)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+Package: com.officialscheduler.mterminal
+Version: 1.4-5
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 325
+Depends: firmware (>= 4.0), system-cmds
+Filename: ./tomkids.mterminal_1.4-5_iphoneos-arm.deb
+Size: 129048
+MD5sum: bbf7b9f75b19a71fb7a1891ea1aedb7c
+SHA1: 80a3051c1c656d3c61e714794baa0b8e1b82c85b
+SHA256: e634ac849423c53a8db8f7e5c14961c2e9ecfd915edc9774a0137841f5ec2496
+Section: Utilities
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mterminalDp
+Description: A MobileTerminal fork
+Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9
+Author: lordscotland <admin@officialscheduler.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mterminalDp
+Dev: officialscheduler
+Icon: file:///Applications/MTerminal.app/Icon.png
+Name: MTerminal
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.otyo.quicklock
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: firmware (>= 4.0)
+Filename: ./tomkids.quicklock_1.0-2_iphoneos-arm.deb
+Size: 15120
+MD5sum: 4707865e3aef083d8ced94e3e95b39f0
+SHA1: 76cfb57cf19ebf4fff0098864a528289e119c46b
+SHA256: 1ecc929ae81bfc07e990dc49b0169e91fcf1943180c902b275c282640376a1fa
+Section: Tweaks
+Priority: extra
+Homepage: http://modmyi.com/info/quicklock2.php
+Description: (iOS 4) This tweak is a very simple tweak that when you tap it will lock your screen.
+Author: againstnighto <againstnight0@aim.com>
+Depiction: http://modmyi.com/info/quicklock2.d.php
+Name: QuickLock 2
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.outfit7.talkinggina
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 4.1), uikittools, appsync
+Filename: ./com.outfit7.talkinggina-2.0-iOS-4.1.deb
+Size: 41826700
+MD5sum: bb7f621a1b011becf1e29cae225111a5
+SHA1: e7d486e5e5da5230eaec399ad4f6464202f1a9f3
+SHA256: 8e16697e7e85306f063bc170b3de157acc890a90ed0aff2d1977a3c55490e36e
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: 402688503%2B2.0%2BTalking+Gina+the+Giraffe+New%2BAP.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: Talking Gina v2.0 (iOS 4.1)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+Package: com.patrickgriffin.disableyoutubeupdates
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Patrick_Griffin
+Installed-Size: 56
+Depends: mobilesubstrate
+Filename: ./tomkids.disableyoutubeupdates_0.0.1_iphoneos-arm.deb
+Size: 2166
+MD5sum: f55a7018ef7273a2cd40c32eaf0da2b1
+SHA1: 477f14696028924526c7a4f313228eb5084363d6
+SHA256: e97e0e59b431ef961aacbb2c9afd5880d0eb5bf8b84490caa8df00bace953164
+Section: Tweaks
+Description: Disables YouTube update prompts
+Author: Patrick_Griffin
+Name: DisableYouTubeUpdates
+
+Package: com.phucnguyenvlog.tiktok
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PhucNguyen
+Filename: ./tiktok_1.0_iphoneos-arm.deb
+Size: 8187800
+MD5sum: e9f5bf2e2de209aa620d7213bc207706
+SHA1: da64e8a607499ecdc015b3d662dc537916ac00c9
+SHA256: b16137d3173d086c6bddb9cfa65d364e6de4f071bab5aa79edad093384094f23
+Section: Applications
+Description: Đóng gói từ IPA bởi PhucNguyenVlog
+Name: Tiktok
+
+Package: com.pmbonneau.iOS5Bootstrap
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Pierre-Marc Bonneau <pierremarc_999@hotmail.com>
+Installed-Size: 364 Ko
+Filename: ./tomkids.ios5bootstrap_1.0_iphoneos-arm.deb
+Size: 98706
+MD5sum: d5c593cc7362a2d5de24319156ddd9ea
+SHA1: 9c5bae87c3c9ddf7a9a561207e8079efdfce6df6
+SHA256: 8e90f5e1d942ef3f4453e892b305d9dc5555e02e0dde71719963954d6eaabf60
+Section: Applications
+Homepage: http://www.pmbonneau.com
+Description: A kloader bootstrap application with an iOS 5 icon. It executes a bash script "iOS5Bootstrap.sh" located in the /usr/bin folder. This script can be edited.
+Author: Pierre-Marc Bonneau <pierremarc_999@hotmail.com>
+Icon: file:///Applications/iOS5Bootstrap.app/AppIcon60x60.png
+Name: iOS 5 Bootstrap
+
+Package: com.pmbonneau.iOS6Bootstrap
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Pierre-Marc Bonneau <pierremarc_999@hotmail.com>
+Installed-Size: 333 Ko
+Filename: ./tomkids.ios6bootstrap_1.0_iphoneos-arm.deb
+Size: 66300
+MD5sum: 21b3df6e70a70ec916293c0d530b1931
+SHA1: 75795d7eadac2051d485d3db2c26e2583152e6e3
+SHA256: 0645c4982834bd3d1a5fd8802b9bb8bf5e350d32fcb004cad2ba83066db7770e
+Section: Applications
+Homepage: http://www.pmbonneau.com
+Description: A kloader bootstrap application with an iOS 6 icon. It executes a bash script "iOS6Bootstrap.sh" located in the /usr/bin folder. This script can be edited.
+Author: Pierre-Marc Bonneau <pierremarc_999@hotmail.com>
+Icon: file:///Applications/iOS6Bootstrap.app/AppIcon57x57.png
+Name: iOS 6 Bootstrap
+
+Package: com.podpod123.fbcrashfix
+Version: 1.0-4+debug
+Architecture: iphoneos-arm
+Maintainer: Pod
+Installed-Size: 108
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.podpod123.fbcrashfix_1.0-4+debug_iphoneos-arm.deb
+Size: 10402
+MD5sum: c56a3ac63f9448263c0d9212ebd69fae
+SHA1: 5ccb4247a1eae6bdf4d1855d9fb7e718ef7648d5
+SHA256: d4ec5a1746e0fcb55db5d3111788e69be31081729f3c5553403023094a37310f
+Section: Tweaks
+Description: A tweak that prevents the Facebook app from crashing
+Author: Pod
+Name: FBCrashFix
+
+Package: com.podpod123.fbintegrationfix
+Version: 1.0-8+debug
+Architecture: iphoneos-arm
+Maintainer: Pod
+Installed-Size: 108
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 6.0), firmware (<= 10.3.4)
+Filename: ./com.podpod123.fbintegrationfix_1.0-8+debug_iphoneos-arm.deb
+Size: 11520
+MD5sum: a9c1a65b12d3aa4f84635b2688f95f2b
+SHA1: eb06ccf7e46f0e37776437fd37c4b96716ca2e45
+SHA256: 68d502f9ff74973aa346161f3909f00050b1af781d7429b2753cec53545c1486
+Section: Tweaks
+Description: A fix for iOS's Facebook system integration
+Author: Pod
+Name: FBIntegrationFix
+
+Package: com.popcap.PvZ
+Version: 524
+Architecture: iphoneos-arm
+Maintainer: Admin <admin@localhost>
+Depends: firmware (>= 2.2.1), uikittools, appsync
+Filename: ./com.popcap.PvZ-524-iOS-2.2.1.deb
+Size: 35085158
+MD5sum: edae07e4725768143350cb31d671dbb9
+SHA1: 07b13c8fc4a8f7752b7f092fb06b6d28b35b75dd
+SHA256: 0b1a9b5479b67a56f67d15b53ce4e173b5d2da4f20984cd81c4e09863cad4e99
+Section: AppStore Apps
+Homepage: https://github.com/tomkidss/cydia
+Description: The decrypted ipa file: Plant%20vs%20Zombies%20V1.0.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: Admin <admin@localhost>
+Depiction: https://github.com/tomkidss/cydia
+Name: PvZ v524 (iOS 2.2.1)
+Sponsor: Admin <admin@localhost>
+
+Package: com.ps.ytlegacy
+Version: 1.6.5
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 5240
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytx (>= 1.7.13), com.ps.youspeed, com.ps.ytclassicvideoquality, weeb.lillie.youtubedislikesreturn (>= 1.13.9)
+Filename: ./com.ps.ytlegacy_1.6.5_iphoneos-arm.deb
+Size: 870224
+MD5sum: f47a0d24e5d3e16e5691c218e207f67e
+SHA1: 9bf04ab3554f71628a0b9df18d463c7b3bbd13fc
+SHA256: b938b97db426840334e1a52ccb6641bafb4d0e8ced7b40c5cff34a6fbac2ae50
+Section: Tweaks
+Description: Attempts to make old YouTube versions work again.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytlegacy.html
+Name: YouTube Legacy
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/ytlegacy.json
+
+Package: com.pulandres.safestdn
+Version: 1.60
+Architecture: iphoneos-arm
+Maintainer: Pulandres
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader, net.limneos.libbulletin, ws.hbang.common (>= 1.11)
+Filename: ./Tomkids.Tweak.SafeShutDown_1.6.deb
+Size: 9294742
+MD5sum: be70cfcb387c59718fea3a74f896250e
+SHA1: 34cabb2ee4ebed227132dabacb479b85a345e62d
+SHA256: a6a10da95e641ceffc21505bf4fcdaf94408b63ad2938934cbca7437ba890e5b
+Section: Tweaks
+Description: Avoid re-jailbreaking when your iDevice have not battery.
+Author: Pulandres
+Icon: https://repo.pulandres.me/CydiaIcon.png
+Name: SafeShutdown Cracked
+
+Package: com.ravirajm.torch
+Version: 1.5.2
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: mobilesubstrate
+Filename: ./com.ravirajm.torch_1.5.2_iphoneos-arm.deb
+Size: 34688
+MD5sum: a77b7ce2b9388d5a7c9d12e663df52c5
+SHA1: 8cf8ef240cf89a83bbd25edcbc2b6b3566695e51
+SHA256: d0adfbf3b43136cc8a5b98cdff3ed18ef5b3ec7662fbb163586da98409b3c73f
+Section: Tweaks
+Priority: extra
+Homepage: http://modmyi.com/info/torch.php
+Description: Toggle LED Flash from the LockScreen.
+Author: rvirajm <rvirajm@gmail.com>
+Depiction: http://modmyi.com/info/torch.d.php
+Name: Torch
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.rockyourphone.rockextensions
+Version: 1.01-1
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: bugs@intelliborn.com
+Provides: mobilesubstrate
+Filename: ./rockextensions.1.01.sg1.deb
+Size: 81356
+MD5sum: 4b65b5fd4884260dfc4f21dc4e1495f8
+SHA1: 3f4cd8726f669aa64ee73eb141a7f55b7afd2e3d
+SHA256: b25fb19a9e3f715a365a1faf6a9e08a01a5459ffd55a5af52ff617205f93f907
+Section: System
+Priority: standard
+Homepage: http://modmyi.com/info/rockextensions.php
+Description: Enables 3rd Party System Add-Ons for Rock Your Phone apps.  Rock Extensions is a Mobile Substrate port with enhanced error handling and automatic bug submission
+Depiction: http://modmyi.com/info/rockextensions.d.php
+Languages: English
+Name: Rock Extensions
+Numscreenshots: 0
+Price: 0
+Publisher: Rock Your Phone
+Requiresrespring: true
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+Support: http://support.rockyourphone.com
+Versionssupported: 2.01,2.1,2.2,2.21
+
+Package: com.saurik.substrate.safemode
+Version: 0.9.6001
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 156
+Depends: mobilesubstrate (>= 0.9.3367+38)
+Conflicts: safe-mode-fixer-ios7
+Replaces: safe-mode-fixer-ios7
+Filename: ./com.saurik.substrate.safemode_0.9.6001_iphoneos-arm.deb
+Size: 20774
+MD5sum: 8ef36f325fbb3649bcb5845fb3223df0
+SHA1: c845a0a58777bf54a5a71b90acf71ab166072c23
+SHA256: 6c6640839efa2c31ef2cb48a00bb4b83da9c29434fc8745e37710d0bf704abc2
+Section: Tweaks
+Priority: optional
+Description: safe mode safety extension (safe)
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/com.saurik.substrate.safemode/
+Name: Substrate Safe Mode
+
+Package: com.skyglow.weatherx
+Version: 3.3
+Architecture: iphoneos-arm
+Maintainer: Requis
+Depends: mobilesubstrate (>= 0.9.2586), firmware (>= 2.0), firmware (<= 7.9), preferenceloader, com.skyglow.stocksx
+Conflicts: com.ixmoe.1pwn.weatherx
+Filename: ./tomkids.weatherx_3.3_iphoneos-arm.deb
+Size: 84036
+MD5sum: f5d4e11562f8f9a2fbc8d5e724d599e4
+SHA1: c715375fe0320a048a678c81ebce34d44c229ffc
+SHA256: f45b4963fefa8f80a61653ccff507406e09db7456a8b42c2e1d02602a29ef9f3
+Section: Tweaks
+Description: Fix iOS's weather app from iPhoneOS 2 to iOS 7, the weather widget in the notification center, and the temperature in the iPad clock app!
+Author: Requis
+Depiction: http://cydia.skyglow.es/depictions/com.skyglow.weatherx/depictions/index.html
+Name: WeatherX
+
+Package: com.skyglow.weatherx
+Version: 3.5
+Architecture: iphoneos-arm
+Maintainer: Requis
+Depends: mobilesubstrate (>= 0.9.2586), firmware (>= 2.0), firmware (<= 7.9), preferenceloader
+Conflicts: com.ixmoe.1pwn.weatherx, com.skyglow.stocksx
+Filename: ./WeatherX-Legacy.deb
+Size: 155622
+MD5sum: a6d5f494a673da237ffa95d289538447
+SHA1: 9fb97aee0ce011ea1b6bf8224e8da0ef5af2652b
+SHA256: b530eb8231e01a11562e16f23767c925f548e3261b224aaf3f7047afa514a6a0
+Section: Tweaks
+Description: Fix iOS's Weather & Stocks apps from iPhoneOS 2 to iOS 7, the widgets in the notification center, and the temperature in the iPad clock app!
+Author: Requis, Electimon
+Depiction: http://cydia.skyglow.es/depictions/com.skyglow.weatherx/depictions/index.html
+Name: Weather & Stocks
+
+Package: com.skyglow.weatherx
+Version: 3.5
+Architecture: iphoneos-arm
+Maintainer: Requis
+Depends: mobilesubstrate (>= 0.9.2586), firmware (>= 2.0), firmware (<= 7.9), preferenceloader
+Conflicts: com.ixmoe.1pwn.weatherx, com.skyglow.stocksx
+Filename: ./com.skyglow.weatherx_3.5_iphoneos-arm.deb
+Size: 155742
+MD5sum: 689171cd5f391aed223f3c0ad7e4ce3b
+SHA1: cef43a162338ef6001d56d4a4085a97e234d0340
+SHA256: 2da0aab5c140809c5d461a13a2c69029a1e4f8db9c56695c222648c37e04d9ea
+Section: Tweaks
+Description: Fix iOS's Weather & Stocks apps from iPhoneOS 2 to iOS 7, the widgets in the notification center, and the temperature in the iPad clock app!
+Author: Requis, Electimon
+Depiction: http://cydia.skyglow.es/depictions/com.skyglow.weatherx/depictions/index.html
+Name: Weather & Stocks
+
+Package: com.thireus.apt-ca-certificates-config
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Thireus <repo@thireus.com>
+Installed-Size: 1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: com.thireus.update-ca-certificates, apt7-ssl
+Filename: ./apt-ca-certificates-config_1.0.2-1_iphoneos-arm.deb
+Size: 1168
+MD5sum: ece94029213c0174c36123ceb16cc21e
+SHA1: a127fcef6d7bb819ef668ea1df037047b8526190
+SHA256: a013dde1a727c5991f42a7dd5ece69161ed6d2ade57a9ae9d85759d98ac7ee0a
+Section: Security
+Priority: standard
+Homepage: http://repo.thireus.com
+Description: Acquire::https::CaInfo "/etc/ssl/certs/ca-certificates.crt";
+ This package adds the following missing configuration for APT7-SSL: Acquire::https::CaInfo (/etc/ssl/certs/ca-certificates.crt).
+ This allows APT7-SSL to consider the ca-certificates.crt file as the 'CAfile' containing trusted CA.
+ Without this specific configuration Cydia cannot use truted HTTPS sources such as https://repo.thireus.com (keep in mind that you need to add the CA manually or via deb packages).
+ !!! AFTER THE INSTALL, PLEASE RESTART CYDIA !!!
+Author: Thireus <repo@thireus.com>
+Name: APT7-SSL ca-certificates.config
+
+Package: com.tomkids.filza
+Version: 4.0.2
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./com.tomkids.filza_4.0.2_iphoneos-arm.deb
+Size: 12651128
+MD5sum: d0008c886a6547a2a12634c93c9805bb
+SHA1: 360a980162bad0693b14c55c0aff9c312cd83ba4
+SHA256: c7da63e45f59b80e835eda554e89f2b6c01f8b79c85d3322e1caac9e88770431
+Section: Applications
+Description: App Filza 4.0.2
+ .
+ Converted by Tomkids
+Author: Converted ipa to deb by Tomkids's tool
+Name: Filza 4.0.2
+
+Package: com.tomkids.flappybird
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./Tomkids..Game.Flappybird_1.2_iphoneos-arm.deb
+Size: 1302176
+MD5sum: f10001d43c4f0c2d50172be416bbcd53
+SHA1: 73bb9c6793355fd47b879d690e09c8a6b6afbb95
+SHA256: 131df9258bef90ef0495fd1ed7098caa35d1ae14ad508a28fc521491b66e958c
+Section: Applications
+Description: Converted from IPA
+Author: Unknown
+Name: FlappyBird1.2
+
+Package: com.tomkids.foobar2000
+Version: 1.0.33
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./Tomkids.App.Foobar2000_1.0.33.deb
+Size: 11899968
+MD5sum: 3c58b3039ef8646546fa02293c63c0bc
+SHA1: e2398ce5e875919a3203de74c924655a3825553b
+SHA256: a1d1fd80f2db5325e5a9571487edcd8c08bc03b128e2d1f11c4003a4093ef1e7
+Section: Applications
+Description: Converted from IPA
+Author: Unknown
+Name: Foobar2000_1.0.33
+
+Package: com.tomkids.googlemap
+Version: 4.3.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./com.tomkids.App.Googlemap_4.3.0_iphoneos-arm.deb
+Size: 9435778
+MD5sum: fb44bacce001e0ff42f83ced0a1b2443
+SHA1: cab8b9edd6e4ea45c929d98bcadd966f36b061fc
+SHA256: e690e0fa66cff0ee6431982e6874cd8881233e8b0386d92cdf5c1cf89d5652ae
+Section: Applications
+Description: App Google Map
+ .
+ Converted by Tomkids
+Author: Converted ipa to deb by Tomkids's tool
+Name: Google Map
+
+Package: com.tomkids.h3lix
+Version: 8
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./com.tomkids.h3lix_8_iphoneos-arm.deb
+Size: 11360300
+MD5sum: 1ffe170d5b0344e17a20c5d642dc4c88
+SHA1: 22e88fe8a2d102e7aa5435d0af03839ec9747cc4
+SHA256: 0c49fe6d16d21987d026adfaba99e9dec5ad8f0a340e4b12971e2f48379cde93
+Section: Applications
+Description: H3lix-RC8 jailkbreak ios10
+ .
+ Converted by Tomkids
+Author: Converted ipa to deb by Tomkids's tool
+Name: H3lix-RC8
+
+Package: com.tomkids.instagram
+Version: 6.5.1
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./com.tomkids.App.Instagram_6.5.1_iphoneos-arm.deb
+Size: 10382168
+MD5sum: bea74b23791dc91e118746016ff4a466
+SHA1: d81f2557eb21395378695f07598bb6d220aebb8a
+SHA256: 2577388ee11e5fca0b2ee1d234a9fc727c956034a88def2d6ced411173fff928
+Section: Applications
+Description: App Instagram_6.5.1
+ .
+ Converted by Tomkids
+Author: Converted ipa to deb by Tomkids's tool
+Name: Instagram
+
+Package: com.tomkids.pacman
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./Tomkids..Game.Pacman_1.0.5_iphoneos-arm.deb
+Size: 1631408
+MD5sum: d4fd784534ed5284a3b98b735879cc05
+SHA1: 8b9bcdeef1a8b04683b51aba550090266ea783df
+SHA256: 52535035f8fef9364c27067f0d1399ffb53e4894029c5ede7a1469d2e9ae0064
+Section: Applications
+Description: Converted from IPA
+Author: Unknown
+Name: Pac-Man
+
+Package: com.tomkids.protubehd
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./Tomkids.App.Protubehd_1.2_iphoneos-arm.deb
+Size: 611906
+MD5sum: ea33bf6c141b95389c759c6992c03193
+SHA1: c53b305ff7a3d01af604dbe7b01a1a4dc9830044
+SHA256: ff099e5446b4494a3f8dae4be06b613281d6511fafaaa418f7f97bf59637c2e6
+Section: Applications
+Description: Đóng gói từ IPA
+Name: ProtubeHD
+
+Package: com.tomkids.telegram
+Version: 2.0.4
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./com.tomkids.App.Telegram_2.0.4_iphoneos-arm.deb
+Size: 5798646
+MD5sum: f1e50977db43d0b337f607b83a5e81a2
+SHA1: 3a2044d91685e9506b8fbd8d299cabffda5de703
+SHA256: 024e854e5dff751e53a72732b069b93b590b8c2825e45aa09c816d8bfea473c7
+Section: Applications
+Description: App Telegram
+ .
+ Converted by Tomkids
+Author: Converted ipa to deb by Tomkids's tool
+Name: Telegram
+
+Package: com.tomkids.youtubefix
+Version: 1.3.6
+Architecture: iphoneos-arm
+Maintainer: Tomkids
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 5.0), firmware (<< 11.0)
+Filename: ./tomkids.App.youtube1.3.0-tubereplacer1.0.6-fix.deb
+Size: 7194952
+MD5sum: b87ea9824bf30d894d63cdd83c057646
+SHA1: 22e6da1d4ab2c49db3f80dcae64d875d15d8e783
+SHA256: e81f9f6f6446930ffd83e484a9f928fe730b40d849ca420784200649bd5cdc61
+Section: Applications
+Description: Cai app Youtube 1.3.0 (cho Ios 5.1 -  10) va Fix chay nen cho Ios 6  - 10
+Author: Tomkids
+Name: Youtube 1.3 & Tubereplacer 1.0.6 Fix
+
+Package: com.tqm-mos.batterydragon
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Filename: ./com.tqm-mos.batterydragon_1.0_iphoneos-arm.deb
+Size: 2743670
+MD5sum: 4328e2732f769d3f8799e82fb5cc4ab2
+SHA1: cd1aa4fe0e2e3d86413e3f5e8fe62fa4a30d9c82
+SHA256: 840859e4493f236a8c0605bebca196ed4af3cde96555fb3111d4f8545796aaa7
+Section: Battery
+Description: Biểu tượng Sạc Pin thay trực tiếp hệ thống.
+Author: @tqmmos
+Depiction: https://tqm-mos.com/Classic/Info/com.tqm-mos.batterydragon
+Name: Battery Dragon
+
+Package: com.tqm-mos.callrecorder
+Version: 0.7-47k
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./com.tqm-mos.callrecorder_0.7-47k_iphoneos-arm.deb
+Size: 484230
+MD5sum: ce54e18eebfc665595e3c337c174fdf2
+SHA1: f0de4a74b0dba65c6eff85b64fa2d4b20b0f96d0
+SHA256: a6fb54f9640649790c4dcb5f32be11e1f62f72fcdd51c720defc6599a2ff8493
+Section: Tweaks
+Description: Ứng dụng ghi âm cuộc gọi đầu tiên trên iPhone!
+Author: Elias Limneos
+Depiction: https://tqm-mos.com/Classic/Info/com.tqm-mos.callrecorder
+Name: Audio Recorder
+
+Package: com.tqm-mos.fontbauserif
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Filename: ./com.tqm-mos.fontbauserif_1.0_iphoneos-arm.deb
+Size: 5159024
+MD5sum: 5cb7af2640ce369fbdcc02c1a112b96b
+SHA1: 1c29c38d238173cf1d1786becbc13cec86a05bf4
+SHA256: 40f92c317b203268f3c5dbc13139f4498a0d98231271a4f05d82e7c49ac0c752
+Section: Fonts
+Description: Phông chữ thay trực tiếp hệ thống.
+Author: @tqmmos
+Depiction: https://tqm-mos.com/Classic/Info/com.tqm-mos.fontbauserif
+Name: BAUSERIF (iOS6)
+
+Package: com.tqm-mos.fontchococooky
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Filename: ./com.tqm-mos.fontchococooky_1.0_iphoneos-arm.deb
+Size: 5457738
+MD5sum: dbe247bdf3d3b13476428aec3d74c291
+SHA1: 8a7e69c9c072c4ef975d2f994944825640603259
+SHA256: 4f93bb3dbdeb465ac315bcd83c9c4fdf79a9f95f18e6c74a75f132d76c7a831d
+Section: Fonts
+Description: Phông chữ thay trực tiếp hệ thống.
+Author: @tqmmos
+Depiction: https://tqm-mos.com/Classic/Info/com.tqm-mos.fontchococooky
+Name: Chococooky (iOS6)
+
+Package: com.tuanem.shshchecker
+Version: 1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: tuanem
+Installed-Size: 1444
+Filename: ./com.tuanem.shshchecker_1.0-1+debug_iphoneos-arm.deb
+Size: 420726
+MD5sum: 407a423a7e2b003c3cb8426aec6bcd73
+SHA1: ef3b74e6686b13af31f0f02c9cb3b7d46270a217
+SHA256: 08ab6a5c119891fafff801d0d5400fc8464837311291fe0f86a20d2a6d3a27fe
+Section: System
+Description: check SHSH Blobs on Mterminal
+Tag: role::hacker
+Author: tuanem
+Name: SHSHchecker cli
+
+Package: com.tuanem.shshchecker
+Version: 1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: tuanem
+Installed-Size: 1444
+Filename: ./com.tuanem.shshchecker_1.0_iphoneos-arm.deb
+Size: 340310
+MD5sum: d893f5ffde5f8a14cbd3537d868f0e3b
+SHA1: e373d21046327e5ab5e7e07cad4fc05e246fc1a8
+SHA256: 6bbe1037e19f0ad951e7241617e549ffe4dc8bbb439d6c902d85c70d3e629d8a
+Section: System
+Description: check SHSH Blobs on Mterminal
+Tag: role::hacker
+Author: tuanem
+Name: SHSHchecker cli
+
+Package: com.tuanem.shshchecker
+Version: 1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: tuanem
+Installed-Size: 1444
+Filename: ./tomkids.shshchecker_1.0_iphoneos-arm.deb
+Size: 340310
+MD5sum: d893f5ffde5f8a14cbd3537d868f0e3b
+SHA1: e373d21046327e5ab5e7e07cad4fc05e246fc1a8
+SHA256: 6bbe1037e19f0ad951e7241617e549ffe4dc8bbb439d6c902d85c70d3e629d8a
+Section: System
+Description: check SHSH Blobs on Mterminal
+Tag: role::hacker
+Author: tuanem
+Name: SHSHchecker cli
+
+Package: com.tuanem.ytbackground
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Tuanem
+Installed-Size: 40
+Depends: mobilesubstrate
+Filename: ./tomkids.ytbackground_1.0_iphoneos-arm.deb
+Size: 4990
+MD5sum: 93e7ac8e7d8393f318977bfe87f1f8ac
+SHA1: 86be0940de4628a8de2cf0686ca9c872806b748d
+SHA256: 8ea4e3c8163d7ee030158d6fadd25cdd91cf19c081349c3f0ba913a3ba427ff3
+Section: Tweaks
+Description: Background Playback for YouTube 1.0.0+
+Author: Tuanem
+Name: YTBackground
+
+Package: com.tuanem.ytbackground
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Tuanem
+Installed-Size: 40
+Depends: mobilesubstrate
+Filename: ./com.tuanem.ytbackground_1.0_iphoneos-arm.deb
+Size: 4990
+MD5sum: 93e7ac8e7d8393f318977bfe87f1f8ac
+SHA1: 86be0940de4628a8de2cf0686ca9c872806b748d
+SHA256: 8ea4e3c8163d7ee030158d6fadd25cdd91cf19c081349c3f0ba913a3ba427ff3
+Section: Tweaks
+Description: Background Playback for YouTube 1.0.0+
+Author: Tuanem
+Name: YTBackground
+
+Package: com.tuanem.ytbackground
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Tuanem
+Installed-Size: 40
+Depends: mobilesubstrate
+Filename: ./tomkids.ytbackground_1.1_iphoneos-arm.deb
+Size: 5118
+MD5sum: 8f9f2f630990dd881b5323be5f68a4bd
+SHA1: 84efb60e83e84ba6ecfb33df9ba39609687c3f56
+SHA256: 9fec3d8ea6385507582c1defffa6bd5a398076512934f83370e391d4711cb958
+Section: Tweaks
+Description: Background Playback for YouTube 1.0.0+
+Author: Tuanem
+Name: YTBackground
+
+Package: com.tuanem.ytbackground
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Tuanem
+Installed-Size: 40
+Depends: mobilesubstrate
+Filename: ./com.tuanem.ytbackground_1.1_iphoneos-arm.deb
+Size: 5118
+MD5sum: 8f9f2f630990dd881b5323be5f68a4bd
+SHA1: 84efb60e83e84ba6ecfb33df9ba39609687c3f56
+SHA256: 9fec3d8ea6385507582c1defffa6bd5a398076512934f83370e391d4711cb958
+Section: Tweaks
+Description: Background Playback for YouTube 1.0.0+
+Author: Tuanem
+Name: YTBackground
+
+Package: com.uc.iphone.browser.international
+Version: 10.6.1.760
+Architecture: iphoneos-arm
+Maintainer: Admin <admin@localhost>
+Depends: firmware (>= 6.0), uikittools, appsync
+Filename: ./com.uc.iphone.browser.international-10.6.1.760-iOS-6.0.deb
+Size: 39422962
+MD5sum: 17920718904c2c72f6b23874d0326ee6
+SHA1: 8a35833cd4c2ba878735b28dfb8668841fa80ffa
+SHA256: 0edc6f3977ce8cc34da5ed52983d11ff4421731cef0af98a8ec2664bfc5a0a8a
+Section: AppStore Apps
+Homepage: https://github.com/tomkidss/cydia
+Description: The decrypted ipa file: gdrive_app_1YZy90I2Jpmg6u0buXlPfn2B78izzferA.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: Admin <admin@localhost>
+Depiction: https://github.com/tomkidss/cydia
+Name: UC Browser v10.6.1.760 (iOS 6.0)
+Sponsor: Admin <admin@localhost>
+
+Package: com.victorlobe.googlefix
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Victor
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.victorlobe.googlefix_1.0.2_iphoneos-arm.deb
+Size: 6430
+MD5sum: 23d42e5618a5098f4699927ec93ddaae
+SHA1: a82f9e610b1a4ad2195c41454ec420aa0a741ac5
+SHA256: 68589f99f93f4e27a1e07534f0e79754c953a488e47d332f662f3c3fcdd78984
+Section: Tweaks
+Description: Fixes Google on iOS 6
+Author: Victor
+Depiction: http://repo.victorlobe.me/depictions/depiction.html?id=com.victorlobe.googlefix
+Name: GoogleFix
+
+Package: com.void.themeready
+Version: 0.9.1-59
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Filename: ./com.void.themeready_0.9.1-59_iphoneos-arm.deb
+Size: 60370
+MD5sum: 47023f69624caec39305804ca7810446
+SHA1: b5612b84d51dbd5315bfd25d4c2e3b445e77b04e
+SHA256: bbbbcbf38c9197cc49953d36bddc5276764be4b8f67493d1b7c758497c7ca559
+Section: System
+Priority: extra
+Homepage: http://modmyi.com/info/themeready.php
+Description: ThemeReady gives you access to quick tools from your Settings menu.
+Author: Milika <codylindsaygordon@gmail.com>
+Depiction: http://modmyi.com/info/themeready.d.php
+Name: ThemeReady
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.vsz.redeb
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: T.Herak <50dc856b@opayq.com>
+Depends: bash (>= 4.0.17-13), coreutils (>= 8.12-12p), grep (>= 2.5.4-3), sed (>= 4.1.5-7), gawk (>= 3.1.6-2p), apt7 (>= 0.7.25.3-6)
+Filename: ./tomkids.redeb_1.0.3_iphoneos-arm.deb
+Size: 3566
+MD5sum: df24b94e6e36d96231ffe49cb8a97cc7
+SHA1: a78d39ce50d219589fe0f1a85a5ddf06fd613291
+SHA256: 92946959e37e394db156fcee71d45526b50edbe0a07f19350f0e97e54a48d558
+Section: Utilities
+Priority: extra
+Description: Repackage any of your tweaks locally, without the need to download it from Cydia again. This is super usefull when there is an update of your until now perfectly working tweak in Cydia and you want to make a backup of the version installed. Normally you wouldn't be able to backup anything because it is possible to fetch only the most current version of your tweak and so you would be lost. Not anymore :)))
+Author: T.Herak <50dc856b@opayq.com>
+Depiction: https://wiety.github.io/cydia/depictions/?p=com.vsz.redeb
+Name: redeb
+
+Package: com.weather.tweak
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Tomkids
+Depends: mobilesubstrate, com.arichardson.weepreferenceloader, firmware (>= 5.0), mobilesubstrate (>= 0.9.2586), firmware (>= 2.0), firmware (<= 7.9), preferenceloader
+Filename: ./Tomkids.Tweak.FixThoiTietChoIOS6_1.3.deb
+Size: 177784
+MD5sum: 42e623df487545a52b3b5d57eda56412
+SHA1: 0658e394f93c7a7cf873a28870d5d55a2afe5b33
+SHA256: 9c934768c4fb39b2b0fea5124eab025fd916bee15a6662c5e8abbbc9348cad5d
+Section: Hệ thống
+Description: Cai dat hien thi thoi tiet tren man hinh khoa va Notification cho IOS 6. Lu y can cai weepreferenceloader truoc
+Author: Tomkids
+Name: Fix thời tiết màn hình khóa IOS 6_V3
+
+Package: com.yourcompany.speedintensifier
+Version: 5.0.1
+Architecture: iphoneos-arm
+Maintainer: Myrepospace
+Depends: mobilesubstrate, preferenceloader
+Filename: ./Speed Intensifier 5.0.1.deb
+Size: 10646
+MD5sum: e2bd1421cab261625cbc4dc075cba97a
+SHA1: 434953e75eb48710ee6fb2f21abf657bb76ec76c
+SHA256: 772e8dac3251d0e94c6ac4564c1a9ad31cd20b233a40c72d04633bc2885bce95
+Section: Tweaks
+Description: This tweak will speed up the animation transitions to make your device Look faster.
+Author: Philip Wong
+Name: Speed Intensifier
+
+Package: curl
+Version: 7.65.0-1
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 1896
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libnghttp2-14, libssh2, libssl1.0
+Filename: ./curl_7.65.0-1_iphoneos-arm.deb
+Size: 322348
+MD5sum: 5b755c7b00631efaa87b157048f29b66
+SHA1: 1f3b280ea398194680c63fe884ef0c1774053d66
+SHA256: 5e89a61fc6cb427cff1d34e5ce2edfbb129ab086dcc5471b2ddf7c329dceaaac
+Section: Networking
+Priority: standard
+Homepage: http://curl.haxx.se/
+Description: flexible multi-protocol file transfers
+Name: cURL
+
+Package: cydia
+Version: 1.1.30
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 7160
+Pre-Depends: debianutils, dpkg (>= 1.14.25-8)
+Depends: apt7-lib, apt7-key, cydia-lproj (>= 1.1.10), darwintools, debianutils, dpkg (>= 1.18), org.thebigboss.repo.icons, sed, shell-cmds, system-cmds, uikittools (>= 1.1.4)
+Conflicts: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, ispazio.net, modmyifone, ste, yellowsn0w.com, zodttd
+Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd
+Provides: bigbossbetarepo, cydia-sources
+Filename: ./tomkids.cydia_1.1.30_iphoneos-arm.deb
+Size: 2264808
+MD5sum: ba3c13d3a0a521f585776b2126ff1ec5
+SHA1: 2759a1f2bf26886aead80812a3bcf0dfd0d1e602
+SHA256: e3fdbfc143e8c01d05b9b4182d0c738bb7b500c377c2f919fdbc3a49b5d685b8
+Section: Packaging
+Priority: required
+Description: graphical iPhone front-end for APT
+Tag: purpose::uikit, cydia::essential, role::enduser
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/cydia/
+Icon: file:///Applications/Cydia.app/Icon-60.png
+Name: Cydia Installer
+
+Package: cydia-lproj
+Version: 1.1.12
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 712
+Depends: cydia
+Conflicts: org.thebigboss.russiancydia
+Replaces: cydia, org.thebigboss.russiancydia
+Provides: org.thebigboss.russiancydia
+Filename: ./tomkids.cydia-lproj_1.1.12_iphoneos-arm.deb
+Size: 76410
+MD5sum: 1afd8f683765c5235ad65db4bed96bc3
+SHA1: 25947ddf96c437beb14144f761ac69f66f43bd3f
+SHA256: a8edcf3be0d4d39a4bedf3da9a32c015e4f74be44fbe1fd633cb754414f15791
+Section: Packaging
+Priority: required
+Description: languages and translations for Cydia
+Tag: purpose::uikit, cydia::essential, role::enduser
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/cydia-lproj/
+Name: Cydia Translations
+
+Package: debianutils
+Version: 3.3.3ubuntu1-1p
+Architecture: iphoneos-arm
+Essential: yes
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 40
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./tomkids.debianutils_3.3.3ubuntu1-1p_iphoneos-arm.deb
+Size: 7226
+MD5sum: d704b6b00b3a9c92429a47ac88c374d0
+SHA1: b3c3e8c848d3581b253155199c13d56cc4ab7cbc
+SHA256: fa723bf9e135eccc487481f836a3a3770d41f76a53f8657dc48183e31ae05d55
+Section: Utilities
+Priority: required
+Description: pretty much just run-parts. yep? run-parts
+Name: Debian Utilities
+
+Package: dev.preloading.tubereplacer
+Version: 1.0.4.3
+Architecture: iphoneos-arm
+Maintainer: Preloading <me@preloading.dev>
+Installed-Size: 956
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 5.0), firmware (<< 11.0)
+Conflicts: bag.xml.tuberepair
+Filename: ./tomkids.tubereplacer_1.0.4.3_iphoneos-arm.deb
+Size: 321868
+MD5sum: ee6f182a5e9be43453cab2f3ed1db624
+SHA1: 75115bd16f43dc0f8ed2be367c64b00df19bb863
+SHA256: 08e07a334d1edbc96c40a787d68a7ea828c9a22ae516cb56d06d6db28c3bb7ff
+Section: Tweaks
+Homepage: https://cydia.preloading.dev/depictions/tubereplacer/1.0/
+Description: An fix for YouTube with sign-in.
+Author: Preloading <me@preloading.dev>
+Depiction: https://cydia.preloading.dev/depictions/tubereplacer/1.0/
+Icon: file:///Library/PreferenceBundles/TubeReplacerPrefs.bundle/icon@full.png
+Name: TubeReplacer
+
+Package: dev.preloading.tubereplacer
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: Preloading <me@preloading.dev>
+Installed-Size: 960
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 5.0), firmware (<< 11.0)
+Conflicts: bag.xml.tuberepair
+Filename: ./dev.preloading.tubereplacer_1.0.6_iphoneos-arm.deb
+Size: 238548
+MD5sum: 6beafb88b57e1c6a3191b9d60860f2cb
+SHA1: c8df22659cc7b069244b4dfbac85695d5320b0c1
+SHA256: ef39f5588628d001470378c7e5de827f54b2b5b61cf931195b0f8fc947cd9673
+Section: Tweaks
+Homepage: https://cydia.preloading.dev/depictions/tubereplacer/1.0/
+Description: A fix for YouTube with sign-in.
+Author: Preloading <me@preloading.dev>
+Depiction: https://cydia.preloading.dev/depictions/tubereplacer/1.0/
+Icon: file:///Library/PreferenceBundles/TubeReplacerPrefs.bundle/icon@full.png
+Name: TubeReplacer
+
+Package: dpkg
+Version: 1.18.10-12
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 1816
+Pre-Depends: tar (>= 1.23)
+Depends: bash, bzip2, coreutils-bin, diffutils, findutils, gzip, lzma, ncurses, tar
+Filename: ./tomkids.dpkg_1.18.10-12_iphoneos-arm.deb
+Size: 611408
+MD5sum: 0bd1054f2cbb83a5f55b5f227628cf57
+SHA1: 4077231a4887e7e719def692d5694d17b65531cb
+SHA256: fb92adfcc4b7cdf7148aa1bdfdbe362e98aa82f13a485b5f0dac33c698194b47
+Section: Packaging
+Priority: required
+Homepage: http://wiki.debian.org/Teams/Dpkg
+Description: package maintainance tools from Debian
+Name: Debian Packager
+
+Package: gsc.hd-video-capture
+Version: 1
+Architecture: iphoneos-arm
+Essential: yes
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 0
+Filename: ./gsc.hd-video-capture_1_iphoneos-arm.deb
+Size: 634
+MD5sum: 0313c7dad490d48b617fd79568ffda21
+SHA1: 5c9ae1549c4629beacb9b9a88888896b684c9b9f
+SHA256: 93cedb7282efe8b0084d47b277e3121dac8902b5836fa3c13e2b832f040fc10b
+Section: System
+Priority: required
+Description: virtual GraphicsServices dependency
+Tag: role::cydia
+
+Package: gsmicon
+Version: 4.0-2
+Architecture: iphoneos-arm
+Essential: yes
+Maintainer: Cydia.vn <repo@cydia.vn>
+Filename: ./gsmicon_4.0-2.deb
+Size: 30822
+MD5sum: eac0c7f9ecb379d939e4dd7343d5f99b
+SHA1: 501e32ee74c2dba866cbc2ddc46570d9a7f4849f
+SHA256: f465a792e91cf6f75257f71594972d2f41133d635c46a41d9429b1571b839440
+Section: !CydiaVn-Tools
+Priority: required
+Homepage: http://cydia.vn/
+Description: Icon cho Cydia.vn source!
+Author: Cydia.vn <repo@cydia.vn>
+Depiction: http://cydia.gsm.vn/t96/
+Name: Cydia.vn Icon
+Sponsor: Cydia.vn Blog's <http://cydia.vn/>
+
+Package: kloader
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: tihmstar
+Depends: firmware (>= 6.0)
+Conflicts: cy+cpu.arm64
+Filename: ./tomkids.kloader_1.0_iphoneos-arm.deb
+Size: 7988
+MD5sum: 3730e03f701cc7c393c159facd4a031a
+SHA1: 6396b3fbfe2a9db6328b9fb651f90ee8551af11c
+SHA256: 3aa76fbc6e0276da124736f262f099b8322451223df3f08cd45f851d67969996
+Section: System
+Priority: optional
+Homepage: https://github.com/xerub/ios-kexec-utils/blob/master/kloader.c
+Description: Don't install if you don't know what that is
+ Do not install this package if you don't know what this is.
+ Installing this on a production device is not recommended.
+Author: winocm, xerub
+Name: kloader
+
+Package: kloader
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: axi0mX
+Depends: firmware (>= 4.0)
+Filename: ./kloader_1.0.2_iphoneos-arm.deb
+Size: 12486
+MD5sum: fef541ee1d6b691b4e6b6b7f9b03c938
+SHA1: da518309bf316682f32d8d644413598902016c2d
+SHA256: a472328bf6e1d110b2a042679bce73a36a983f34e760fb4c0161c6f2dbbd0347
+Section: System
+Priority: optional
+Homepage: https://github.com/axi0mX/ios-kexec-utils/blob/master/kloader.c
+Description: NEW IMPROVED KLOADER
+ armv7 support for iOS 4.0-9.3.5 (requires tfp0 kernel patch)
+ arm64 support for iOS 7.0-8.4.1 (requires tfp0 kernel patch and patched LLB/iBoot/iBSS/iBEC)
+ will automatically wake up device after 2 seconds (no button press required, should work 99.9% of the time)
+Author: winocm, xerub, axi0mX
+Name: kloader
+
+Package: ldid
+Version: 1:1.2.1
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 272
+Filename: ./tomkids.ldid_1.2.1_iphoneos-arm.deb
+Size: 46688
+MD5sum: cd616bccadcdc4b030b42848596905d0
+SHA1: aab2a6d2fc46c379f0c0e5c38cb6b15f43b8e516
+SHA256: eb2eca10616368d6f2ad73a72f309f249438375753b868345b93b59c960ae8ee
+Section: Development
+Priority: optional
+Description: pseudo-codesign Mach-O files
+Tag: purpose::console, role::developer
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/ldid/
+Name: Link Identity Editor
+
+Package: libactivator
+Version: 1.9.13~rc6
+Architecture: iphoneos-arm
+Maintainer: Ryan Petrich <rpetrich+activator@gmail.com>
+Installed-Size: 5060
+Depends: mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.a3tweaks.flipswitch (>= 1.0.16~rc3), com.rpetrich.rocketbootstrap (>= 1.0.9)
+Conflicts: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), sbsettings (<= 3.0.6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, libhide (<< 2.4.1), com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator, com.udevs.activatorhomebuttoncrashfix, eu.rio-doro.actithemefix
+Replaces: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator, com.udevs.activatorhomebuttoncrashfix, eu.rio-doro.actithemefix
+Filename: ./libactivator_1.9.13~rc6_iphoneos-arm.deb
+Size: 929288
+MD5sum: edb85ee5c115534b48818d8bb9592152
+SHA1: 31be51e4b89f8e4e39ec1920e945960d3f458d96
+SHA256: 2fcd743e3b3f6e13a5c138c1445cab1d81c66125823f3895e4ef62508e30d8ef
+Section: System
+Priority: optional
+Homepage: https://rpetri.ch/cydia/activator/beta/
+Description: Centralized gestures, button and shortcut management for iOS
+Author: Ryan Petrich <rpetrich+activator@gmail.com>
+Depiction: https://rpetri.ch/cydia/activator/beta/
+Dev: rpetrich
+Icon: file:///Applications/Activator.app/Icon-Small-modern@2x.png
+Name: Activator
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: mobilesubstrate
+Version: 0.9.6301
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: com.saurik.substrate.safemode
+Conflicts: me.devbug.msreloadfix, com.r3pwn.startsubstrate, com.ragemasta.bootstrap
+Breaks: uikittools (<< 1.1.1), com.mywi4 (<= 5.03.2), com.phoenix.pandoracontrols (<= 1.1.0-1), com.intelliborn.intelliscreenx (<= 1.0.110), com.evad3rs.evasi0n7 (<< 0.2)
+Replaces: cycript (<= 0.9.594)
+Filename: ./tomkids.mobilesubstrate_0.9.6301_iphoneos-arm.deb
+Size: 382884
+MD5sum: 7a56f8602e63fc77449d0fdb6b6579c0
+SHA1: 76f49e0d3a601e1c23310412014669284db93359
+SHA256: e6adeb10715fa0bfa8130a24d06de55d0efaaf08afb45c8279b7e19e816d0f57
+Section: System
+Priority: optional
+Description: powerful code insertion platform
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/mobilesubstrate/
+Name: Cydia Substrate
+
+Package: mobilesubstrate
+Version: 0.9.6301
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: com.saurik.substrate.safemode
+Conflicts: me.devbug.msreloadfix, com.r3pwn.startsubstrate, com.ragemasta.bootstrap
+Breaks: uikittools (<< 1.1.1), com.mywi4 (<= 5.03.2), com.phoenix.pandoracontrols (<= 1.1.0-1), com.intelliborn.intelliscreenx (<= 1.0.110), com.evad3rs.evasi0n7 (<< 0.2)
+Replaces: cycript (<= 0.9.594)
+Filename: ./mobilesubstrate_0.9.6301_iphoneos-arm.deb
+Size: 382844
+MD5sum: c36a7004897a60ef1e0e37f40a8b93f9
+SHA1: eae5a63f55e0f91504340aa8a20d0b16b09c315d
+SHA256: 489ef2042bee48806d88bc977abfb2ad0d50be4620fd450d8b7dd76aa3611d5f
+Section: System
+Priority: optional
+Description: powerful code insertion platform
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/mobilesubstrate/
+Name: Cydia Substrate
+
+Package: moe.yzu.veterishelper
+Version: 1.0.0-53+debug
+Architecture: iphoneos-arm
+Maintainer: Stella Diaz (electimon)
+Installed-Size: 124
+Depends: mobilesubstrate
+Filename: ./tomkids.veterishelper_1.0.0-53+debug_iphoneos-arm.deb
+Size: 9730
+MD5sum: 2bd4c9c76bea05933133c6060a9b8532
+SHA1: bf5dcd615e9146f27001d5aa9ce76e3cac2f4aa5
+SHA256: 0917482c5b32ffbd6e62954525fcaf0c90047df31c092f7e5cc0e49c1a0bd7b8
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Stella Diaz (electimon
+Name: Veteris Helper
+
+Package: neofetch
+Version: 7.1.0.2
+Architecture: iphoneos-arm
+Maintainer: KawaiiZenbo
+Depends: coreutils, gawk, grep, bash, coreutils-bin, system-cmds, darwintools
+Filename: ./tomkids.neofetch.deb
+Size: 86880
+MD5sum: 5321d5d7158571ce3ca54e8900d89fb6
+SHA1: 2d0f8ed382266bf162fc2830cc14cbf86a2efa86
+SHA256: 77a3518c53177917c094c601221967512c7a2edd3a304b47aa8c23ad22c175af
+Section: Terminal Support
+Description: A command-line system information tool written in bash 3.2+ from https://github.com/dylanaraps/neofetch, packaged for iOS
+Author: dylanaraps
+Name: neofetch
+
+Package: net.angelxwind.appsyncunified
+Version: 104.0
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 732
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 14.8.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Filename: ./tomkids.appsyncunified_104.0_iphoneos-arm.deb
+Size: 58920
+MD5sum: ff6239f098adedf90d983a43cc7d5ba5
+SHA1: e23e678a0e999885b246f2997a8263c6c8654700
+SHA256: 12233407dc1545feeafa236e123f009c7eca4c7a9292f5ac5c55bdb19a63c0a3
+Section: Tweaks
+Homepage: https://cydia.akemi.ai/
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified
+Name: AppSync Unified
+
+Package: net.angelxwind.appsyncunified
+Version: 84.0
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 496
+Depends: firmware (>= 5.0), firmware (<= 13.7), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Filename: ./net.angelxwind.appsyncunified_84.0_iphoneos-arm.deb
+Size: 43174
+MD5sum: cd3210ba2a3db4b9ab5b6536ad79ff19
+SHA1: 4d529a77991aadffa281262bd1e4f8cb15cf5c74
+SHA256: 22a6821c227f6379c9ff5b139d3c55de09f21b9daf4556ba9732ef453bcaded2
+Section: Tweaks
+Homepage: https://cydia.akemi.ai/
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified
+Name: AppSync Unified
+
+Package: openssh
+Version: 6.7p1-13
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 4736
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: openssl
+Filename: ./tomkids.openssh_6.7p1-13_iphoneos-arm.deb
+Size: 2374426
+MD5sum: e8268b65cd4fdb46b1cdc898140eedaf
+SHA1: 7ac68378e5b305470072f51bb826be8546de718f
+SHA256: 5371f33b94e06771f7dce6c73b721c81921b477459c3a0528f304ff39a1db533
+Section: Networking
+Priority: important
+Description: secure remote access between machines
+Depiction: http://cydia.saurik.com/info/openssh/
+Name: OpenSSH
+
+Package: openssl
+Version: 0.9.8zg-13
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 6164
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./openssl_0.9.8zg-13_iphoneos-arm.deb
+Size: 2601700
+MD5sum: b7ee0de9955cb0f061c6bc9542c11637
+SHA1: 5ac83cdd762aef081aea25176ebb3310dc448d87
+SHA256: a307790dbc44b3a47494313c3dce226340ebf5c69688479967bbe2c0cb015e7d
+Section: Security
+Priority: standard
+Description: SSL library and cryptographic tools
+Name: OpenSSL
+
+Package: openssl
+Version: 0.9.8zg-13
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 6164
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./tomkids.openssl_0.9.8zg-13_iphoneos-arm.deb
+Size: 2601766
+MD5sum: 3e67bb99eed8af4705fbed4d1d7813bd
+SHA1: 516798ade00d85e5fe7a708a20e010ca7ccee243
+SHA256: 986d4e822672d4900d7df8663991900bae56ca3065be167d878624e3869df86b
+Section: Security
+Priority: standard
+Description: SSL library and cryptographic tools
+Name: OpenSSL
+
+Package: org.altervista.exilecom.icleaner
+Version: 7.10.0
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 8217
+Pre-Depends: firmware (>= 4.0), apt | apt7, findutils
+Filename: ./tomkids.icleaner_7.10.0_iphoneos-arm.deb
+Size: 441104
+MD5sum: 29d73934c5c331be1b0cfa159d5e053c
+SHA1: b2e41272a5a920687ef578706315d11c2f226980
+SHA256: 911a7c75dddde1f6d0c7ca35a2f99771d6566f5546926cd0e690d88c4d5ffd78
+Section: Utilities
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=icleanerDp
+Description: The first real iOS system cleanup and management utility
+Tag: purpose::uikit
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=icleanerDp
+Dev: exilecom
+Icon: file:///Applications/iCleaner.app/Icon.png
+Name: iCleaner
+
+Package: org.jyvee8games.itunesfix
+Version: 0.1-5+debug
+Architecture: iphoneos-arm
+Maintainer: LegacyGuides <admin@legacyios.com>
+Installed-Size: 464
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0)
+Filename: ./tomkids.itunesfix_0.1-5+debug_iphoneos-arm.deb
+Size: 95028
+MD5sum: cb7ae2018934af5c4084da671940dc3b
+SHA1: f2e10f114eebcc06a18bd736e584d03e61e5695b
+SHA256: ed878b9e364e8d62977b98fd928d5b9c3d6b3940b929cc5af5c547a15447a80d
+Section: Tweaks
+Description: A fix for the iOS 7 AppStore! credits to bag.xml and requis for the oringinal iTunesStoreX tweak
+Author: Jyvee <jyveeanimate@jyveegames.org>
+Icon: file:///Library/Application%20Support/org.jyvee8games.itunesfix/Icon.png
+Name: iTunesStoreX7 (BETA)
+
+Package: org.thebigboss.tvlockerpro
+Version: 1.4.1-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 250
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 5.0), preferenceloader (>= 2.2.2)
+Filename: ./org.thebigboss.tvlockerpro_1.4.1-1_iphoneos-arm.deb
+Size: 146214
+MD5sum: a57a146d47f6624612a0b1969a148921
+SHA1: 4a1b0b71f3c61ae9788d5f7e16eae9e4f621bf56
+SHA256: 04532bd6b9757b897bb58e6d7b351b9d996ebca7960a4040c3bfcfd6a8457ac3
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tvlockerproDp
+Description: Lock animation like an old tv!
+Tag: cydia::commercial, purpose::extension, role::enduser
+Author: Bensge <bensge@me.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tvlockerproDp
+Dev: bensge
+Icon: file:///Library/PreferenceLoader/Preferences/TVLockerPro/icon@2x.png
+Name: TVLocker Pro
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: org.tihmstar.kDFUApp
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: tihmstar
+Depends: openssl, libcrippy-1.0.0, libpartialzip-1.0.0, curl, kloader, com.lukezgd.kDFUBundles, firmware (>= 6.0), firmware (<= 9.3.6)
+Filename: ./org.tihmstar.kDFUApp.deb
+Size: 80264
+MD5sum: 11acba9233d569267c58a2ff1e85a600
+SHA1: 5ecdfd856331a124649cf2af6a83b39d48d6ef62
+SHA256: 1f44ba92f5e194e56234eff7f5c09bf571d30b3001c6d6d52488b55fa070cb7c
+Section: System
+Priority: optional
+Description: easy way to get into kDFU mode
+Author: tihmstar
+Dev: tihmstar
+Name: kDFUApp
+
+Package: p7zip
+Version: 4.57-3p
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 4328
+Filename: ./tomkids.p7zip_4.57-3p_iphoneos-arm.deb
+Size: 1595646
+MD5sum: e62335ee6cbcce0ccf4d202f1cd0bd9b
+SHA1: 5436b48d41b4896f35ed31b20d2da59a63c3e5c9
+SHA256: 62e6fa68cb3a019d30e71ff5f41cf02e060c76f30ca23bc61f1d0f3ab4b94516
+Section: Archiving
+Priority: optional
+Description: claims to be a good compressor
+Name: 7-zip (POSIX)
+
+Package: preferenceloader
+Version: 2.2.6
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 526
+Depends: mobilesubstrate
+Filename: ./tomkids.preferenceloader_2.2.6_iphoneos-arm.deb
+Size: 67668
+MD5sum: b0bbc6561c4d9620bd48a8f4248b51f4
+SHA1: d31082a25a57c5ff42c0eb21ac550ba93b2bb885
+SHA256: ab814ae140ed52a5fd3c67d8d9a84523567b6bc6845fe20f1daa541047f2ee21
+Section: System
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+Description: load preferences in style
+Tag: role::hacker, purpose::library
+Author: Sam Bingner <maintainer@sbdhi.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+Dev: dustinhowett
+Name: PreferenceLoader
+
+Package: preferenceloader
+Version: 2.2.6
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 526
+Depends: mobilesubstrate
+Filename: ./preferenceloader_2.2.6_iphoneos-arm.deb
+Size: 67660
+MD5sum: b2aa028cfe849a263228f6cbf98b7ea2
+SHA1: f6bf02b2ed59e7b00e812169abc5acda23ce8def
+SHA256: 0edff1ad7ab1543276b8c2ffcd1ccd01d427487184c2a9261a03dc6567534fa7
+Section: System
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+Description: load preferences in style
+Tag: role::hacker, purpose::library
+Author: Sam Bingner <maintainer@sbdhi.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+Dev: dustinhowett
+Name: PreferenceLoader
+
+Package: repo.biteyourapple.net.paragon
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Redenfire <redenfire@gmail.com>
+Depends: firmware (>= 6.0), mobilesubstrate, com.wynd.dreamboard
+Conflicts: com.zmaster.androidlockxt, repo.biteyourapple.net.androidlockxt
+Replaces: com.zmaster.androidlockxt, repo.biteyourapple.net.androidlockxt
+Filename: ./tomkids.paragon_1.0.0_iphoneos-arm.paragon.deb
+Size: 2113572
+MD5sum: 78a926860ca9ac8f47e4204c62cb7a88
+SHA1: 87528a1f1b006fd909650f8d5ef2b54f6e149920
+SHA256: 03c09adece479bebbd4bf014321b721c8e2f6fecf8712ae0c3fdbbb7f5bb5862
+Section: BYA Themes
+Homepage: http://www.biteyourapple.net
+Description: Paragon is the most realistic Windows Phone 8 theme for your iPhone!
+Author: BYA Repository
+Depiction: http://repo.biteyourapple.net/depiction/dep.php?name=paragon
+Name: Paragon
+Sponsor: biteyourapple <http://www.biteyourapple.net>
+
+Package: sbsettings
+Version: 6.0.5-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1953
+Depends: libhide (>= 2.0.6-4), mobilesubstrate, sbsettingstoggles (>= 3.0.5), shell-cmds, firmware (<< 4.0) | libactivator (>= 1.3.2), firmware (<< 5.0) | com.chpwn.weeloader
+Conflicts: com.ripdev.hood, hk.org.iphone.respring, net.ispazio.swapmode
+Replaces: com.ripdev.hood, hk.org.iphone.respring
+Filename: ./tomkids.sbsettings_6.0.5-1_iphoneos-arm.deb
+Size: 2142502
+MD5sum: d7348d306902a3b875ce3496fb3e34cd
+SHA1: 06c4d1917ef5d2cd89e78a24392ac7e14249ca59
+SHA256: 7b7eb8637e967b768fedb78be83824004871896e0d5b9e96551607b40b345dad
+Section: System
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=SBSettingsDpData
+Description: Move common toggles directly into springboard where they're always there!
+Author: BigBoss <bigboss@thebigboss.org>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=SBSettingsDpData
+Dev: bigboss
+Name: SBSettings
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: sbsettingstoggles
+Version: 6.0-2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 822
+Depends: com.modmyi.serioussbsettingshd, com.sbsdefaulthdtheme, firmware (>= 3.2) | sbsettingsdata2
+Conflicts: sbsettingstoggles1, sbsettingsfastnotes, sbsettingsprocesses, sbslocationservices, sbsettingsdata, com.yllier.mdatatoggle
+Replaces: sbsettingstoggles1, sbsettingsfastnotes, sbsettingsprocesses, sbslocationservices, sbsettingsdata, com.yllier.mdatatoggle, sbsettings (<= 3.0.6b3)
+Filename: ./tomkids.sbsettingstoggles_6.0-2_iphoneos-arm.deb
+Size: 389562
+MD5sum: 6cd59eda676cde5f709bcc70b11c6692
+SHA1: ca679606c8bf4366aab2b85b599da345ccc77f50
+SHA256: cda83325df0218ae1f31e5e9fcb24da69e31d383a4909505e7515d5d38498360
+Section: SBSettings Addons
+Homepage: http://moreinfo.thebigboss.org/moreinfo/SBSettings.php
+Description: These are the built in toggles for the SBSettings app.
+Tag: role::developer purpose::library
+Author: BigBoss <bigboss@thebigboss.org>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sbsettingstoggles
+Dev: bigboss
+Name: sbsettingstoggles
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: themesettings
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: mobilesubstrate, winterboard, preferenceloader
+Conflicts: winterboardsettings
+Replaces: winterboardsettings
+Provides: winterboardsettings
+Filename: ./themesettings1.0.0.deb
+Size: 18392
+MD5sum: d777ba6e93e202af6ee1766564d7e974
+SHA1: 91aad442389bd49aa715fbfe8ad350a2f88fdf71
+SHA256: 9cea64f6a47498dffa80700072b4e25c881ba51f5b55a591456024cdcad17f75
+Section: System
+Homepage: http://modmyi.com/info/winterboardsettings.php
+Description: Moves WinterBoard theme preferences into the Settings application.
+Author: David Ashman (Stimpy5050) <dashman@gmail.com>
+Depiction: http://modmyi.com/info/winterboardsettings.d.php
+Name: Theme Settings
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: tomkids.ChatGPT
+Version: 31.0.2-5
+Architecture: iphoneos-arm
+Maintainer: Tomkids
+Filename: ./ChatGPT.deb
+Size: 3550040
+MD5sum: de7615cad764466afa2c323d8a2615fc
+SHA1: 501add0d020885d6e4e54a02f3839d109ff288d4
+SHA256: df6347326aee80b555a8ec32a6959d987dda8ec7ca1b5fac2177d58f25fe6df6
+Section: Applications
+Description: Chat GPT app for Low iOS
+Author: Tomkids
+Icon: http://tomkidss.github.io/cydia/icons/chatgpt.png
+Name: ChatGPT
+
+Package: tomkids.OldTikTokCN
+Version: 3.1.3-5
+Architecture: iphoneos-arm
+Maintainer: Tomkids
+Filename: ./OldTikTokCN.deb
+Size: 509326
+MD5sum: a300b43b71fa144ce43275f21c0b3eb1
+SHA1: 5bfeffb6d6be3ebff3757c6aaa3155fcbe190a11
+SHA256: 1bcf422fcf23a87d5e21c2ef628aaaf5f0793d35396289a67000288c70a7f1c9
+Section: Applications
+Description: TikTok CN app for Low iOS
+Author: Tomkids
+Icon: https://tomkidss.github.io/cydia/icons/oldtiktokcn.png
+Name: OldTikTokCN
+
+Package: tomkids.StickMan
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./tomkids.StickMan_1.0_iphoneos-arm.deb
+Size: 72210
+MD5sum: 7db6a2297ad3e1d780ef4b77d5f606a1
+SHA1: 51e82361598e3120dce3606653bf25d32c37dda0
+SHA256: 08e43a3cd713b366f109f2e94c6780dce244d910bc280bf92c91a3af3202e165
+Section: Game
+Description: Game StickMan Movies_1.0
+ .
+ Converted by Tomkids
+Author: Converted ipa to deb by Tomkids's tool
+Name: StickMan Movies_1.0
+
+Package: tomkids.Youtube1.0
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./tomkids.App.Youtube1.0_1.0_iphoneos-arm.deb
+Size: 5128442
+MD5sum: f0579da6b0a89fd30b79a110c9bc549e
+SHA1: ee3c561eebefc09a2db54134ed4f50d89e34547c
+SHA256: 717178bb41bc8d16205d49e3cada6509edfad52e143169af0c3b798ed121b15b
+Section: Applications
+Description: Converted from IPA
+Author: Unknown
+Name: Youtube1.0
+
+Package: tomkids.Youtube17.28.2YoutubeX1.7.19
+Version: 17.28.2
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./tomkids.App.Youtube17.28.2YoutubeX1.7.19_17.28.2_iphoneos-arm.deb
+Size: 75322114
+MD5sum: 527fc6b09115b2f8651f0cf8c1c3fc87
+SHA1: ffde9dba3712bd7b579048d9f368021d45b44d98
+SHA256: 1fb2ac6e7328e75046e0a9c0df0ca733b5ede02ea5ef8ebb2d01298045ecdd9c
+Section: Applications
+Description: Converted from IPA
+Author: Unknown
+Name: Youtube17.28.2YoutubeX1.7.19
+
+Package: tomkids.app.facebookfix
+Version: 11.6
+Architecture: iphoneos-arm
+Maintainer: Tomkids
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 6.0), firmware (<= 10.3.4)
+Filename: ./tomkids.app.facebookfixios6.deb
+Size: 40228204
+MD5sum: b671ca5fc0d785311793d497e3c0ffea
+SHA1: 38420889f299b19c87e4e63a57466c13e1ad30b0
+SHA256: 846345765cceefe0bb3d43b4504d5c86d587e71053f34e2e685733f1fe67ccff
+Section: Application
+Description: Cai Fackebook da gop cac tweaks fix cho ios 6
+ Cai Fackebook da gop cac tweaks fix cho ios 6
+Author: Tomkids
+Name: Facebook Fix For IOS6
+
+Package: tomkids.contra
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./Tomkids..Game.Contra_1.2.3_AppOnly_Deb.deb
+Size: 47834548
+MD5sum: 18bc3702d41407039e0885ca078fe34d
+SHA1: f90e6b6f27715ad38027c805163bd0671e0ddde1
+SHA256: a7c9816d14ffb62d6e2ecc3f68af19b6b8c2b513605695b5100bd6904efcb2a4
+Section: Applications
+Description: Converted from IPA
+Author: Unknown
+Name: Contra 1.2.3
+
+Package: tomkids.facebook
+Version: 11.0-5
+Architecture: iphoneos-arm
+Maintainer: Tomkids
+Filename: ./FaceBook.deb
+Size: 40285630
+MD5sum: a12cce8ae9af71a0faf8a6bd11d04318
+SHA1: e1a1964ff1e8ac14e636466716a45bf04ec35572
+SHA256: 510901a5230abb96254a341938185b9f61af9d2716a2c30d629e4d4ba9a91989
+Section: Applications
+Description: FaceBook app for Low iOS
+Author: Tomkids
+Icon: http://tomkidss.github.io/cydia/icons/facebook.png
+Name: FaceBook
+
+Package: tomkids.gamethung
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./tomkids.gamethung_1.0_iphoneos-arm.deb
+Size: 103981904
+MD5sum: 15b900fca8bfdb040ecaa893214a8976
+SHA1: 081b22cfcfbf47e45eb5013fd5894cfaa34e6470
+SHA256: 7f26d192a0989a583d973b32dfaeade3b40069d15abb5b2c1e11a80dda00fd7e
+Section: Applications
+Description: Game Thung cho ios thap from Hung Ga
+ .
+ Converted by Tomkids
+Author: Converted ipa to deb by Tomkids's tool
+Name: Games Thùng-HNC
+
+Package: tomkids.nhaccuatui
+Version: 5.3.1
+Architecture: iphoneos-arm
+Maintainer: Tomkids
+Depends: firmware (< 9.0)
+Filename: ./Tomkids.App.Nhaccuatui_5.3.1-1_iphoneos-arm.deb
+Size: 16604312
+MD5sum: b6c2eade3976000947aa910894eaffee
+SHA1: f6a46c4b29acb8d894f4a2125dd505082e5eae1a
+SHA256: 7be5071663b794a648a3777e1035ab28771da2e6823fc9a0a2789792c635f61d
+Section: Applications
+Description: Nhạc của tui cho IOS thấp
+Author: Tomkids
+Icon: https://tomkidss.github.io/cydia/icons/nhaccuatui.png
+Name: NhacCuaTui
+
+Package: tomkids.nhaccuatui.lite
+Version: 5.3.1
+Architecture: iphoneos-arm
+Maintainer: Tomkids
+Filename: ./NhacCuaTui_Lite.deb
+Size: 8676742
+MD5sum: 250e6af81d95d87f5d39815b8608b0fe
+SHA1: c51007420ff6c5bbb1b76ca5971a9943fdfe52bd
+SHA256: 46240cacd1b91ca7dc51a41f65f55d6ac2ca74b7fa1fb01f1d579ef52b09ab89
+Section: Applications
+Description: Nhạc của tui cho IOS thấp
+Author: Tomkids
+Icon: https://tomkidss.github.io/cydia/icons/nhaccuatuilite.png
+Name: NhacCuaTui Lite
+
+Package: tomkids.phoenix6
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./tomkids.phoenix6_1.0_iphoneos-arm.deb
+Size: 23371328
+MD5sum: 0abde7438b82f26c121c51b133be6ffe
+SHA1: 938c2db8648cb20af99c2663e4080ac99a1eb5b1
+SHA256: 4b6feacc3fe71867ccab85388c536f0eb15ce1340813af7f3937c277d4b944af
+Section: Applications
+Description: Converted from IPA
+Author: Unknown
+Name: Phoenix6
+
+Package: tomkids.soundwave
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./codevn-com.soundwave.app_1.0.0-102+debug_iphoneos-arm_Deb.deb
+Size: 819398
+MD5sum: da4d2cee9adf95a7d7475ba9a6e14961
+SHA1: 665939129dfcf95d9365251aef4a3c5d366bba08
+SHA256: 222ac094feff2640f7f5ee83b09e1ef9d1d82945405226b47ac9efe42553777e
+Section: Applications
+Description: Converted from IPA
+Author: Unknown
+Name: Sound Cloud
+
+Package: tomkids.soundwave
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Build tweak by Tomkids
+Filename: ./tomkids.app.soundwave.deb
+Size: 1113068
+MD5sum: a08ae3092a49d6487851039d6239d08d
+SHA1: 1f75e08e6508d4d41c63b6225d5abc1eef8b31cf
+SHA256: 42e6f9cfb467a0ff0b8dec49d2aab69eb5741cb42c7dbaf6ad3efc7ad51763b6
+Section: Applications
+Description: soundwave 1.0.0 for Low iOS
+Author: Build app to tweak by Tomkids
+Icon: http://tomkidss.github.io/cydia/icons/SoundWave.png
+
+Package: tomkids.tiktokfix
+Version: 2.0-2
+Architecture: iphoneos-arm
+Maintainer: Fix by TuanEm
+Filename: ./TikTok_Fix.deb
+Size: 20342678
+MD5sum: 3184769fa9629b47e3a172b2af908698
+SHA1: 98f0759d9bcfdfc7314e3a554416c08c99dd0bd0
+SHA256: 7fa89c6e998113b1e0b18e6552c0393752243b97979fc3551f5503592ba08401
+Section: Applications
+Description: TikTok app fix for Low iOS
+Author: Fix by TuanEm
+Icon: http://tomkidss.github.io/cydia/icons/tiktokios6.png
+Name: TikTok Fix
+
+Package: tomkids.youtube2.0.0
+Version: 2.0.0-5
+Architecture: iphoneos-arm
+Maintainer: Build tweak by Tomkids
+Filename: ./Youtube2.0.0.deb
+Size: 9531052
+MD5sum: 9341acc9cff81dc62813514a962d7fbd
+SHA1: 497606881ee0223dc01044203053a6ccccb4d5c9
+SHA256: 05e3e77dbd0e5ff21001b627bbf6da50ac58912f00e61d844bccb927246576c3
+Section: Applications
+Description: Youtube 2.0.0 for Low iOS
+ Luu y: Muon chay duoc Ytb nay thi can cai them tweak tubereplacer_1.0.4.3 nua nhe
+Author: Build app to tweak by Tomkids
+Icon: http://tomkidss.github.io/cydia/icons/youtube.png
+
+Package: uk.invoxiplaygames.checkmatestore
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: InvoxiPlayGames <webmaster@invoxiplaygames.uk>
+Installed-Size: 164
+Depends: mobilesubstrate, firmware (>= 2.0)
+Filename: ./tomkids.checkmatestore_1.2_iphoneos-arm.deb
+Size: 8412
+MD5sum: 1d357394263dba78465037afc9407b30
+SHA1: 61e7d891032b62d49cbaeb68357a7eb26dc9b48d
+SHA256: d9500de23b20ec0bc215d6d2e4077aa7ba3c5a0177a833f6ba00688340253341
+Section: Tweaks
+Description: Disable capability limits in the App Store.
+Author: InvoxiPlayGames <webmaster@invoxiplaygames.uk>
+Depiction: http://cydia.invoxiplaygames.uk/dp/checkmatestore.php
+Name: Checkmate, Store!
+
+Package: unrar
+Version: 5.6.4-1
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 736
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./unrar_5.6.4-1_iphoneos-arm.deb
+Size: 151184
+MD5sum: 13ec07c991aae4880f435fe83408944e
+SHA1: 858c52994a718706bf6b21a81f8ec789e8fb0465
+SHA256: 981c05faa9779b58c60ce814df2be739c11583be3a7b57c05f3e819bf5baad77
+Section: Archiving
+Priority: optional
+Multi-Arch: foreign
+Homepage: http://www.rarlab.com/rar_add.htm
+Description: de-compresses files in rar format
+
+Package: unzip
+Version: 5.52-6
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 428
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./tomkids.unzip_5.52-6_iphoneos-arm.deb
+Size: 149248
+MD5sum: f427211c9cb18fb406e1f2f984cbd23a
+SHA1: ac1b31980adf3962e1857d203dd1f6a8bc7c7dcf
+SHA256: bef603c311781789504813d412265c27ec976b04a8111f1504988f6fb9de8297
+Section: Archiving
+Priority: important
+Description: de-compesses files in zip format
+
+Package: unzip
+Version: 6.0+deb9u1-1
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 808
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./unzip_6.0+deb9u1-1_iphoneos-arm.deb
+Size: 135954
+MD5sum: 7d1acff71fd6f8ef39c735cd4f8bb2ed
+SHA1: 1a59c453b31d6b05b714e637cfd3ecc9e1eba2e9
+SHA256: b8f1fb02c4880c2766fd8e31ac8a183b2f65a16eb09889583cabf2d42cf49984
+Section: Archiving
+Priority: important
+Description: de-compesses files in zip format
+
+Package: vn.com.epi.BaoMoi
+Version: 240117.2200.01
+Architecture: iphoneos-arm
+Maintainer: Admin <admin@localhost>
+Depends: firmware (>= 6.0), uikittools, appsync
+Filename: ./vn.com.epi.BaoMoi-240117.2200.01-iOS-6.0.deb
+Size: 18038266
+MD5sum: 3b778c39db05f6d3578b5522bd94c428
+SHA1: e7983e67e623c204a5a09198353874dec2dfa875
+SHA256: 3bd99bfc64dbef8c571b4bc2166dd4903fd47b4fa120085c44427e4edb8cfeba
+Section: AppStore Apps
+Homepage: https://github.com/tomkidss/cydia
+Description: The decrypted ipa file: gdrive_app_1uhYv8a84yciRaqXLlMlOKUgUns-j0Pn8.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: Admin <admin@localhost>
+Depiction: https://github.com/tomkidss/cydia
+Name: BáoMới v240117.2200.01 (iOS 6.0)
+Sponsor: Admin <admin@localhost>
+
+Package: vn.dinhle.tweaks.saybye
+Version: 2.0.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: TomKids
+Installed-Size: 256
+Depends: mobilesubstrate, preferenceloader
+Filename: ./vn.dinhle.tweaks.saybye_2.0.0-1+debug_iphoneos-arm.deb
+Size: 8544
+MD5sum: 0f354a24cb8a7e08766e9ffc8a6f571f
+SHA1: d602c181ba8c11e40d2207155ccb96363ccf27c8
+SHA256: 857c6906b499bf00405ac691185b0976e605894c79c14cacfa5a7e19f5c9f0f2
+Section: Tweaks
+Description: Show a customizable hello alert inside Settings on iOS 5 to 8.
+Author: TomKids
+Name: Đình Lê Say Bye
+
+Package: vn.gsm.apploader
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Cydia.vn <repo@cydia.vn>
+Depends: gsmicon, firmware (>= 4.3), appsync | vn.gsm.appsync40plus | vn.gsm.appsync50plus
+Conflicts: com.heaveniphone.hipstore
+Replaces: com.heaveniphone.hipstore
+Filename: ./tomkids.apploader_1.0_iphoneos-arm.deb
+Size: 2770592
+MD5sum: 6bcf4e8be2ec89654614e3b311e8d29e
+SHA1: ad7e258909630e553391bd104d68661dc89f07ab
+SHA256: 7860d9a7b81de27aba405dcc0d9d04f23a8b6f0c256716b091c0df2d418a7415
+Section: !GSMVN-Apps
+Homepage: http://cydia.vn/
+Description: AppLoader for AppStoreVn
+Author: Cydia.vn <repo@cydia.vn>
+Depiction: http://cydia.gsm.vn/t3469/
+Icon: file:///Applications/AppLoader.app/Icon.png
+Name: AppStoreVn - AppLoader for iOS 4.3+
+Sponsor: Cydia.vn Blog's <http://cydia.vn/>
+
+Package: vn.gsm.appsync50plus
+Version: 2.2b
+Architecture: iphoneos-arm
+Maintainer: Cydia.vn <repo@cydia.vn>
+Depends: gsmicon, firmware (>= 5.0), mobilesubstrate
+Conflicts: us.hackulo.appsync50, vn.gsm.appsync50
+Replaces: us.hackulo.appsync50, vn.gsm.appsync50
+Provides: appsync, us.hackulo.appsync50plus
+Filename: ./tomkids.appsync50plus_2.2b_iphoneos-arm.deb
+Size: 4062
+MD5sum: a6ad858c209b85317c1dd8e8bbd96ceb
+SHA1: c53c0317930576356cd286e2fa14fcc88b59a6f9
+SHA256: 01083262edd8149b277a128296bb4f706a4a256c22553e2749187dece0236ba1
+Section: !CydiaVn-Tools
+Priority: standard
+Homepage: http://cydia.vn/
+Description: AppSync allows you to sync and install cracked iOS applications.
+Author: Dissident <repo@cydia.vn>
+Depiction: http://cydia.gsm.vn/t2086/
+Name: AppSync for iOS 5.0+
+Sponsor: Cydia.vn Blog's <http://cydia.vn/>
+
+Package: vn.gsm.aquaboard
+Version: 1.0-21
+Architecture: iphoneos-arm
+Maintainer: Cydia.vn <repo@cydia.vn>
+Installed-Size: 297
+Depends: gsmicon, mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), firmware (>= 5.0)
+Conflicts: com.fuyuchi.unlockize, vn.gsm.unlockize
+Filename: ./vn.gsm.aquaboard_1.0-21_iphoneos-arm.deb
+Size: 86174
+MD5sum: 1ae9c235871af88bdb5c11be95339488
+SHA1: 39ff050d30f8db8cf109f98233018da16f4be43e
+SHA256: 348a646cf74c4e1307c3889441aef9cf9da3ec6a326a281e6653d16584231c65
+Section: !CydiaVn-Tools
+Homepage: http://cydia.vn/>
+Description: Amazing Water Effects On SpringBoard
+Author: Elias Limneos <repo@cydia.vn>
+Depiction: http://cydia.gsm.vn/t3471/
+Name: AquaBoard - Liquid SpringBoard
+Sponsor: Cydia.vn Blog's <http://cydia.vn/>
+
+Package: vn.gsm.auxo.org
+Version: 1.4-2
+Architecture: iphoneos-arm
+Maintainer: Cydia.vn <repo@cydia.vn>
+Installed-Size: 2127
+Depends: gsmicon, firmware (>= 5.1), mobilesubstrate, preferenceloader, applist
+Conflicts: vn.gsm.auxo
+Filename: ./tomkids.auxo.org_1.4-2_iphoneos-arm.deb
+Size: 878
+MD5sum: e20f44c5048bfda48e1a714e49008ab5
+SHA1: c6b517bcebc6e1fba69346ed397fc86594bf7feb
+SHA256: 7b1b6da09e347f8678415e784264ae8435695507a9b20e067432412619b7ae25
+Section: !GSMVN-Tools
+Homepage: http://cydia.vn/
+Description: A fantastic re-imagined multitasking bar!
+Author: A3tweaks
+Depiction: http://cydia.gsm.vn/t4264/
+Icon: file:///Library/PreferenceLoader/Preferences/AuxoIcon@2x.png
+Name: Auxo (Original)
+Sponsor: Cydia.vn Blog's <http://cydia.vn/>
+
+Package: vn.gsm.backtodeb
+Version: 0.9b7
+Architecture: iphoneos-arm
+Maintainer: Cydia.vn <repo@cydia.vn>
+Depends: grep, coreutils, sed
+Filename: ./tomkids.backtodeb_0.9b7_iphoneos-arm.deb
+Size: 98602
+MD5sum: d8e3b8d5227a195f0ec04266c3cb71cc
+SHA1: 0842ae832e5c0540d732f2e3edbfa50a483bc10a
+SHA256: 0d4fda3e5969b09d125c288d919072d2c35aa6390171209b51e9d50aaba7a7a2
+Section: !CydiaVn-Tools
+Homepage: http://cydia.vn/
+Description: Backup deb's file script
+Author: Redenfire <repo@cydia.vn>
+Depiction: http://cydia.vn/depic/t1191/
+Icon: file:///Applications/BTD.app/Icon.png
+Name: BackToDeb
+Sponsor: Cydia.vn Blog's <http://cydia.vn/>
+
+Package: vn.gsm.barrel
+Version: 1.8.1.1-1
+Architecture: iphoneos-arm
+Maintainer: Cydia.vn <repo@cydia.vn>
+Depends: firmware (>= 3.1), mobilesubstrate, gsc.armv7, preferenceloader
+Conflicts: net.limneos.sbrotator (<= 2.1.5), vn.gsm.sbrotator (<= 2.1.5)
+Filename: ./tomkids.barrel_1.8.1.1-1_iphoneos-arm.deb
+Size: 1841532
+MD5sum: 6bc993a17864b42f2d0c189d74688e4e
+SHA1: 89294114b4d25b5b17da13cbe048f8be5e75bbf6
+SHA256: 504931443240961d49f9340c22061a1c97e6d3b5a618b02afcb8951ea4d075e6
+Section: !CydiaVn-Tools
+Homepage: http://cydia.vn/
+Description: 3D and other effects on icon pages!
+Author: Aaron Ash (Charybdis) <repo@cydia.vn>
+Depiction: http://cydia.vn/depic/t1/
+Icon: file:///Applications/BarrelSettings.app/Barrel_AppIcon57x57.png
+Name: Barrel
+
+Package: vn.gsm.callbar
+Version: 2.3-480
+Architecture: iphoneos-arm
+Maintainer: Cydia.vn <repo@cydia.vn>
+Installed-Size: 3632
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 4.0), preferenceloader (>= 2.2.2)
+Conflicts: vn.gsm.callbar.original, vn.gsm.callbarv2
+Replaces: vn.gsm.callbar.original, vn.gsm.callbarv2
+Filename: ./vn.gsm.callbar_2.3-480_iphoneos-arm.deb
+Size: 2971252
+MD5sum: 0240a4170ea43de65e3d1f5fefcc2cfb
+SHA1: 618ac09a30a579eb72e065f7086d9bd4ab7b6960
+SHA256: 4e87c158b236283b8c5b9a693d55acdd871a4d9d747d425690f6e3f5a87a66bf
+Section: !CydiaVn-Tools
+Homepage: http://cydia.vn/
+Description: Don't let incoming calls interrupt you!
+Author: E. Limneos & J. Tucker
+Depiction: http://cydia.gsm.vn/t3727/
+Icon: file:///Applications/CallBar.app/Icon.png
+Name: CallBar
+Sponsor: Cydia.vn Blog's <http://cydia.vn/>
+
+Package: vn.gsm.cracktool
+Version: 2.2
+Architecture: iphoneos-arm
+Maintainer: Cydia.vn <repo@cydia.vn>
+Filename: ./cracktool_2.2.deb
+Size: 183512
+MD5sum: de2acb0e9fe7c696719395da792881ae
+SHA1: 678ccdadf6c2bb9ebb328e65c63a951b9ca23511
+SHA256: f79f66d1fa1fdf1ad043797d8c7099fb6b1c805dc69ffc18c6b798155b5d9bbf
+Section: !CydiaVn-Tools
+Homepage: http://cydia.vn/
+Description: Crack Tweaks on one click
+Author: julioverne
+Depiction: http://cydia.vn/depic/t5151/
+Name: CrackTool
+
+Package: vn.gsm.cylinder
+Version: 0.14.3.16
+Architecture: iphoneos-arm
+Maintainer: Cydia.vn <repo@cydia.vn>
+Installed-Size: 738
+Depends: firmware (>= 4.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.r333d.cylinder
+Filename: ./vn.gsm.cylinder_0.14.3.16_iphoneos-arm.deb
+Size: 297398
+MD5sum: b5556365513f7ba7b27aed6b16eb9b42
+SHA1: f6266bef79290b36c25e2f9f50170ad20af3c656
+SHA256: 1b15e579d5a84185a4e986ebc37c615ab5343a537c7edf12d453b34b4670ce1e
+Section: !CydiaVn-Tools
+Homepage: http://cydia.vn/
+Description: Make your icons dance
+Author: Reed Weichler (rweichler) <repo@cydia.vn>
+Depiction: http://cydia.gsm.vn/t4783/
+Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@2x.png
+Name: Cylinder
+Sponsor: Cydia.vn Blog's <http://cydia.vn/>
+
+Package: vn.gsm.flipclockwidget
+Version: 1.3.3-3
+Architecture: iphoneos-arm
+Maintainer: Cydia.vn <repo@cydia.vn>
+Installed-Size: 2919
+Depends: firmware (>= 5.0), mobilesubstrate, com.chpwn.weeloader, preferenceloader
+Filename: ./tomkids.flipclockwidget_1.3.3-3_iphoneos-arm_FIXED.deb
+Size: 2586722
+MD5sum: 0d076a06b7259b82da30c44e78032721
+SHA1: 14e8c23b79ad61dd541b5a6c7387679d8ace54ff
+SHA256: e437972494acc418e19ffccdeaa6a35c7ad4ec172177edc695c79b7af07b2f3c
+Section: !GSMVN-Tools
+Homepage: http://cydia.vn/
+Description: beautiful animated flip clock widget for the notification center.
+Author: VladMax Soft
+Depiction: http://cydia.gsm.vn/t4132/
+Icon: file:///Library/PreferenceBundles/FlipClockWidgetPrefs.bundle/fcprefs2@2x.png
+Name: Flip Clock for Notification Center
+Sponsor: Cydia.vn Blog's <http://cydia.vn/>
+
+Package: vn.gsm.forecast
+Version: 2.3.0-1
+Architecture: iphoneos-arm
+Maintainer: Cydia.vn <repo@cydia.vn>
+Installed-Size: 60
+Depends: mobilesubstrate, com.arichardson.WeePreferenceLoader, firmware (<< 7.0)
+Conflicts: com.ashman.clockhide, gsc.ipad
+Filename: ./forecast6_v2.3.0-1.deb
+Size: 25706
+MD5sum: 0d8a0288116cb245b6d032f36659b0f4
+SHA1: b38335cb060b140074c2447576bac222a46bac04
+SHA256: 8b644b78acb416797c848579774511ef30acfc907255bb5a512944b1e52efb54
+Section: !CydiaVn-Tools
+Homepage: http://cydia.vn/
+Description: This is a compatibility version of Forecast for iOS6.
+Author: Stimpy5050 <dashman@gmail.com>
+Depiction: http://cydia.gsm.vn/t2680/
+Name: Forecast for iOS6
+Sponsor: Cydia.vn Blog's <http://cydia.vn/>
+
+Package: vn.gsm.fullforce
+Version: 1.1.3k1
+Architecture: iphoneos-arm
+Maintainer: Cydia.vn <repo@cydia.vn>
+Depends: firmware (>= 6), mobilesubstrate, preferenceloader (>= 2.2), applist (>= 1.5.9), cy+model.iphone | cy+model.ipod
+Filename: ./fullforce_v1.1.3.deb
+Size: 106582
+MD5sum: 9d2e31e04eedb51e72051bd899a08ca3
+SHA1: 7107090015ceb3e12d89d793d68f9e0f60fe089a
+SHA256: e195feb5083debff9d77a28f46255ea024ab173c9be1702162c611f914c9c3ea
+Section: !CydiaVn-Tools
+Homepage: http://cydia.vn/
+Description: Force applications to show in fullscreen mode
+Author: Ryan Petrich <repo@cydia.vn>
+Depiction: http://cydia.vn/depic/t3946/
+Name: FullForce for Phone
+Sponsor: Cydia.vn Blog's <http://cydia.vn/>
+
+Package: vn.gsm.iclassic
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: Thieu.Bocap <support@gsm.vn>
+Installed-Size: 532
+Depends: gsmicon
+Filename: ./tomkids.iclassic_1.5_iphoneos-arm.deb
+Size: 676790
+MD5sum: 9a92fb9f7dbce40f503de6436f182728
+SHA1: 7a22836de056a31cf2f1124f3eb8c5eddc3ff613
+SHA256: 903a58a9ee6e38c3fc3aa034603315e457267029e0509e6df98c93dae6255f1d
+Section: !GSMVN-Apps
+Homepage: http://iphone.gsm.vn/
+Description: Giả lập iPod chơi nhạc trên iPhone / iPod Touch!
+Author: Pelaez <me@epelaez.net>
+Depiction: http://cydia.gsm.vn/t603/
+Icon: file:///Applications/iClassic.app/Icon.png
+Name: iClassic
+Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
+
+Package: vn.gsm.icleanerpro
+Version: 7.5.0k
+Architecture: iphoneos-arm
+Maintainer: Cydia.vn <repo@cydia.vn>
+Pre-Depends: apt, findutils, shell-cmds
+Conflicts: org.altervista.exilecom.icleaner, com.exile90.icleanerpro, vn.gsm.icleanerprobeta
+Replaces: org.altervista.exilecom.icleaner, com.exile90.icleanerpro, vn.gsm.icleanerprobeta
+Filename: ./tomkids.icleanerpro_7.5.0k_iphoneos-arm.deb
+Size: 2843952
+MD5sum: e88b2741ff6dfa390d6415c3f603463e
+SHA1: 87fa6a337816cefed3d6f8679f302e86584e0dd2
+SHA256: e993b4f8352ff23b037eb0028d61303868bad5089a866d6bf10742c62f054275
+Section: !CydiaVn-Tools
+Homepage: http://cydia.vn/
+Description: The ultimate iPhone, iPod and iPad system cleaner & optimizer
+Author: Exile.90
+Depiction: http://cydia.vn/depic/t4096/
+Icon: file:///Applications/iCleaner.app/Icon.png
+Name: iCleaner Pro
+
+Package: vn.gsm.ifile
+Version: 2.2.0-1
+Architecture: iphoneos-arm
+Maintainer: Cydia.vn <repo@cydia.vn>
+Installed-Size: 20224
+Depends: file-cmds, zip, unzip, p7zip, gzip, bzip2, unrar, diskdev-cmds
+Filename: ./tomkids.ifile_2.2.0-1_iphoneos-arm.deb
+Size: 9735294
+MD5sum: 8abe90e41a0a559f5548d5e289dad9ef
+SHA1: 45fd4857346fb52b82990733f4452e1c2846944d
+SHA256: b51c9d06f1e28fa93e94652dbbcc6320053f169cad9a9b9c04f08e0076c67bf0
+Section: !CydiaVn-Apps
+Homepage: http://cydia.vn/
+Description: A File Manager and Viewer. iFile is a file manager runnning under user root. It allows fast navigation through the iPhone file system.
+Author: Carsten Heinelt <repo@cydia.vn>
+Depiction: http://cydia.vn/depic/t48/
+Name: iFile
+
+Package: vn.gsm.intelliscreenx
+Version: 7.10.6-2a
+Architecture: iphoneos-arm
+Maintainer: Cydia.vn <repo@cydia.vn>
+Installed-Size: 5919
+Depends: firmware (>= 7.1.1), firmware (<< 8.0), mobilesubstrate, preferenceloader, libstatusbar, com.rpetrich.rocketbootstrap, vn.gsm.libjuche2 (>= 1.0.5)
+Conflicts: com.intelliborn.messagesplus, com.intelliscreenx, kim.cracksby.com.intelliborn.intelliscreenx71
+Filename: ./vn.gsm.intelliscreenx_7.10.6-2a.deb
+Size: 3739274
+MD5sum: a569835eaeba5144a034c141f70b31c8
+SHA1: 9620782ec9c8315c46f338248da6de572f09ebeb
+SHA256: 8a74baad9c3c7ac6df7cd789869e6cf6da01ce742a1d8510263c945f6d67ab01
+Section: !CydiaVn-Tools
+Homepage: http://cydia.vn/
+Description: Facebook, Twitter, RSS, Enhanced Mail, ++ in your iOS 7 Notification Center and on your Lock Screen!
+Author: intelliborn
+Depiction: http://cydia.vn/depic/t5312/
+Name: IntelliScreenX
+Sponsor: Cydia.vn Blog's <http://cydia.vn/>
+
+Package: vn.gsm.ios86
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: Cydia.vn <repo@cydia.vn>
+Depends: gsmicon, winterboard, com.void.themeready, com.ipr.bytafont
+Filename: ./tomkids.ios86_1.2.3_iphoneos-arm.deb
+Size: 5548794
+MD5sum: 322b8cbc40c1114137d923f66e1ba734
+SHA1: 31ae7dd59fce0090bc88fb30fdd090347eb11c42
+SHA256: e9d13f530c2536a29c00a1dd66220149ad2d669918c9ea29afd1c0dd81977ae5
+Section: !GSMVN-Themes
+Priority: extra
+Homepage: http://cydia.vn/
+Description: iOS'86 consists of months of work and over 1,200 graphic
+Author: Cody-lg
+Depiction: http://cydia.gsm.vn/t4316/
+Name: iOS'86
+Sponsor: Cydia.vn Blog's <http://cydia.vn/>
+
+Package: vn.gsm.ipodiclassictheme
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Thieu.Bocap <icontactiphone@gmail.com>
+Installed-Size: 140
+Depends: gsmicon, winterboard, vn.gsm.iclassic
+Filename: ./ipodclassiciclassictheme_1.0.deb
+Size: 125360
+MD5sum: 55b5a59587075f2933e74c4590edd994
+SHA1: 6e80af28cf82b09467ded94db99fa98e1a7b88e3
+SHA256: 254c0e1b7191a39ed9e412bc40406ff9587e15f5f0657450ee8953057fcfb7e2
+Section: !GSMVN-Themes
+Description: iPod clickwheel skin for iClassic player
+Author: Christian Baroni <Cstsxyfry212@aol.com>
+Name: iPod Classic Theme for iClasic
+
+Package: vn.gsm.jukebox
+Version: 1.6.3
+Architecture: iphoneos-arm
+Maintainer: Cydia.vn <repo@cydia.vn>
+Depends: gsmicon, firmware (>= 5.0), com.arichardson.weepreferenceloader, com.chpwn.weeloader
+Filename: ./tomkids.jukebox_1.6.3_iphoneos-arm.deb
+Size: 401318
+MD5sum: a86058a20d4a2efa47fa61ad66ae4bc1
+SHA1: e915a17219c9fa3030cef4954fb1ad9dc0c300c9
+SHA256: cc2b8550bffd3539369ceb6ad614da3b5dbafae0ff115654eb1bbb42bd7a6d05
+Section: !GSMVN-Tools
+Homepage: http://cydia.vn/
+Description: Control your music from the NC.
+Author: aricha
+Depiction: http://cydia.gsm.vn/t2863/
+Icon: file:///Library/WeeLoader/Plugins/Jukebox.bundle/MusicAppIcon.png
+Name: Jukebox
+Sponsor: Cydia.vn Blog's <http://cydia.vn/>
+
+Package: vn.gsm.libactivator-vi
+Version: 1.8.3
+Architecture: iphoneos-arm
+Maintainer: Thieu.Bocap <repo@cydia.vn>
+Installed-Size: 45
+Depends: gsmicon, libactivator (>= 1.8.3)
+Filename: ./tomkids.libactivator-vi_1.8.3_iphoneos-arm.deb
+Size: 9164
+MD5sum: 3aa86a257f83dac2aab1300393224cd4
+SHA1: bed65e7b923d12c590352981835e2b82dba17d7c
+SHA256: b9a51c40a4eb719c34b3d3c12c46c9667963f0d2c6eadeae82433d1856358d48
+Section: !GSMVN-VietHoa
+Homepage: http://cydia.vn/
+Description: Gói ngôn ngữ tiếng Việt cho Activator 1.8.3.
+Author: Cydia.vn <repo@cydia.vn>
+Depiction: http://cydia.gsm.vn/t2365/
+Name: Activator Việt
+Sponsor: Cydia.vn Blog's <http://cydia.vn/>
+
+Package: vn.gsm.protube
+Version: 1.12.1p
+Architecture: iphoneos-arm
+Maintainer: Cydia.vn <repo@cydia.vn>
+Depends: firmware (>= 4.0), preferenceloader
+Filename: ./vn.gsm.protube_1.12.1p_iphoneos-arm.deb
+Size: 7506492
+MD5sum: 0d54ca872d0b982cea99dc3b551a0e5b
+SHA1: cdacacb38b227fc67e712fc8019840899ebc0988
+SHA256: cbf17b9dcb57e70f4ba65e547f6547f864396b1f15d9410a5f324fc12b3c3dd4
+Section: !CydiaVn-Apps
+Homepage: http://cydia.vn/
+Description: complete feature-filled YouTube app
+Author: Jonas Gessner
+Depiction: http://cydia.vn/depic/t2248/
+Icon: file:///Applications/ProTube.app/icon.png
+Name: ProTube
+
+Package: vn.gsm.removebackgroundapp
+Version: 1.0-5
+Architecture: iphoneos-arm
+Maintainer: Cydia.vn <repo@cydia.vn>
+Installed-Size: 95
+Depends: gsmicon, firmware (>= 4.0), mobilesubstrate, libactivator
+Conflicts: jp.rono23.removebackgroundapp
+Filename: ./removebackgroundapp_1.0-5.deb
+Size: 51396
+MD5sum: 2ac210fe81836f9588a420a2d5983561
+SHA1: e660b16620dc751284c90f760a5862ffa80af7b5
+SHA256: 48f1ea3fa206877598fded83af40e9d2ff561a12d83b102df91128e7d6377647
+Section: !GSMVN-Tools
+Homepage: http://cydia.vn/
+Description: Remove all apps from the task switcher.
+Author: rono23 <repo@cydia.vn>
+Depiction: http://cydia.gsm.vn/t982/
+Icon: file:///Applications/RemoveBG.app/Icon.png
+Name: Remove Background
+Sponsor: Cydia.vn Blog's <http://cydia.vn/>
+
+Package: vn.gsm.slide2kill8pro
+Version: 1.1-8
+Architecture: iphoneos-arm
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
+Conflicts: com.suu.slide2kill, org.thebigboss.slide2killpro, vn.gsm.slide2killpro
+Filename: ./slide2kill8pro_1.1-8.deb
+Size: 130690
+MD5sum: cd20073b38283d1cb04025683e7e3c69
+SHA1: 2c88b1537ad22406df250f8a8625da06949b0de8
+SHA256: 198838d4bc233339ebde0889b61ea156ca3543a1091a4ac37deb6bbb80a7e011
+Section: !CydiaVn-Tools
+Description: Slide switcher cards to kill apps
+Author: Suu
+Depiction: http://cydia.vn/depic/t5606/
+Icon: file:///Library/PreferenceBundles/Slide2Kill8ProSettings.bundle/Slide2Kill8ProSettings@2x.png
+Name: Slide2Kill8 Pro
+
+Package: vn.gsm.slide2kill9
+Version: 1.0.4-6
+Architecture: iphoneos-arm
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader
+Conflicts: com.suu.slide2kill, org.thebigboss.slide2killpro
+Filename: ./slide2kill9_1.0.4-6.deb
+Size: 39448
+MD5sum: dc652e1c9a54a2dcb6e9f8d7bdcf668a
+SHA1: 189d63603b7947cdccebec05c30af697139a8f0d
+SHA256: e6d84def05362a4e648c51214814021a668151ab2a7bc1c9b94d9624b13becdc
+Section: !CydiaVn-Tools
+Homepage: http://cydia.vn/
+Description: Slide switcher card to kill apps
+Author: Suu
+Depiction: http://cydia.vn/depic/t5989/
+Icon: file:///Library/PreferenceBundles/Slide2Kill9Settings.bundle/Slide2Kill9Settings@2x.png
+Name: Slide2Kill 9
+
+Package: vn.gsm.slide2killpro
+Version: 1.2-1
+Architecture: iphoneos-arm
+Maintainer: Cydia.vn <repo@cydia.vn>
+Installed-Size: 109
+Depends: gsmicon, firmware (>= 6.0), mobilesubstrate, preferenceloader
+Conflicts: com.suu.slide2kill
+Filename: ./slide2killpro_1.2-1.deb
+Size: 68918
+MD5sum: 3c0e221f4a474bd363e90b6f4ed36568
+SHA1: 532911944831294aa66864383909442eae8552e7
+SHA256: 5679d0688356ec93bb67e64c45fc040a96a5d339fcc784cba65449dbeaa94dd8
+Section: !GSMVN-Tools
+Homepage: http://cydia.vn/
+Description: Slide the icon in switcher to kill app(s)
+Author: Suu
+Depiction: http://cydia.gsm.vn/t4345/
+Icon: file:///Library/PreferenceBundles/Slide2KillSettings.bundle/Slide2KillSettings@2x.png
+Name: Slide2Kill Pro
+Sponsor: Cydia.vn Blog's <http://cydia.vn/>
+
+Package: vn.gsm.speedintensifier
+Version: 5.0.3
+Architecture: iphoneos-arm
+Maintainer: Thieu.Bocap <support@gsm.vn>
+Depends: gsmicon, mobilesubstrate, preferenceloader
+Conflicts: jp.novi.fakeclockup, com.hackyouriphone.fakeclockup, com.hackyouriphone.fakeclockupita, com.xsellize.fakeclockup, vn.gsm.fakeclockup
+Filename: ./tomkids.speedintensifier_5.0.3_iphoneos-arm.deb
+Size: 8598
+MD5sum: f59bb3febe49689bba796d44f9da25ac
+SHA1: c0c8b044ba894dc496a81e4838079f462b61f8f9
+SHA256: 035eac1464b959fcbac50bb2ad20ba46fab8a49baae15e5befbbd9561c65c829
+Section: !GSMVN-Tools
+Homepage: http://cydia.vn/
+Description: This tweak will speed up the animation transitions to make your device Look faster.
+Author: Philip Wong <support@gsm.vn>
+Depiction: http://cydia.gsm.vn/t375/
+Icon: file://Library/PreferenceLoader/Preferences/SpeedIntensifier@2x.png
+Name: Speed Intensifier 5
+Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
+
+Package: vn.gsm.speedintensifier
+Version: 5.0.3
+Architecture: iphoneos-arm
+Maintainer: Thieu.Bocap <support@gsm.vn>
+Depends: gsmicon, mobilesubstrate, preferenceloader
+Conflicts: jp.novi.FakeClockUp, com.hackyouriphone.fakeclockup, com.hackyouriphone.fakeclockupita, com.xsellize.fakeclockup, vn.gsm.fakeclockup
+Filename: ./SpeedIntensifier_5.0.3.deb
+Size: 8610
+MD5sum: 19ff53d3012170575be66d45738c49c6
+SHA1: 90358d95b1f6776fd897f360f6ac2e99bdeb074c
+SHA256: fda4579169c9509b268ec891a7c79237311db8f1ffed5b8fda8b24007a6ad008
+Section: !GSMVN-Tools
+Homepage: http://cydia.vn/
+Description: This tweak will speed up the animation transitions to make your device Look faster.
+Author: Philip Wong <support@gsm.vn>
+Depiction: http://cydia.gsm.vn/t375/
+Icon: file://Library/PreferenceLoader/Preferences/SpeedIntensifier@2x.png
+Name: Speed Intensifier 5
+Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
+
+Package: vn.gsm.speedintensifieraddon
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Thieu.Bocap	<support@gsm.vn>
+Depends: gsmicon, winterboard
+Conflicts: com.modmyi.ioverclock
+Filename: ./SpeedIntensifierAddon1.1.deb
+Size: 1944
+MD5sum: 31bb23800e67def0afcb575810dfcb50
+SHA1: 4041b5d219165c0c15e5b184306173fa0f1e5117
+SHA256: 09ba83970bfa631ae80b48cec4fbb3dc73c43cd9cc0f3b28cacd12676c1b633e
+Section: !GSMVN-Tools
+Homepage: http://cydia.vn/
+Description: Addon to Overclock/Underclock
+Author: Philip Wong <support@gsm.vn>
+Depiction: http://cydia.gsm.vn/t1316/
+Name: Speed Intensifier Addon
+Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
+
+Package: vn.gsm.springtomize2
+Version: 1.4.3-1
+Architecture: iphoneos-arm
+Maintainer: Cydia.vn <repo@cydia.vn>
+Installed-Size: 561
+Depends: gsmicon, firmware (>= 5.0), mobilesubstrate, preferenceloader, vn.gsm.springtomize2-icons, vn.gsm.springtomize2-localizations
+Conflicts: com.filippobiga.springtomize, vn.gsm.springtomize
+Filename: ./tomkids.springtomize2_1.4.3-1_iphoneos-arm.deb
+Size: 207348
+MD5sum: e5bbf5f58d7f12313eb548e3768305c3
+SHA1: e9d81a131cf8f01ff5a3d0cc2dff9cf7e100c566
+SHA256: 697f9c8e574f408a8f720a26857438f72fd4e75927d78afb953bdd1937a62cd9
+Section: !GSMVN-Tools
+Homepage: http://cydia.vn/
+Description: SpringBoard, the way you want it. All over again.
+Author: FilippoBiga
+Depiction: http://cydia.gsm.vn/t2197/
+Icon: file:///Applications/springtomizeapp.app/Icon.png
+Name: Springtomize 2 - iOS 5 & 6
+Sponsor: Cydia.vn Blog's <http://cydia.vn/>
+
+Package: vn.gsm.springtomize2-icons
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 88
+Depends: firmware (>= 5.0)
+Replaces: com.filippobiga.springtomize2 (<< 1.3-3)
+Filename: ./tomkids.springtomize2-icons_1.0-1_iphoneos-arm.deb
+Size: 68004
+MD5sum: 92543db81eaa7475e1f213a964c1d5f9
+SHA1: 29a90c5cd397c8fe2128154b1caa8cc34dfcf022
+SHA256: afd4a798cadaeef782827a2c006096194468bee6597c548729afa71696b0a317
+Section: Addons
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springtomize2Dp
+Description: Settings Icons for Springtomize2
+Tag: role::developer
+Author: FilippoBiga <filippobiga.dev@gmail.com>
+Depiction: http://cydia.gsm.vn/t2197/
+Dev: filippobiga
+Icon: file:///Applications/springtomizeapp.app/Icon.png
+Name: Springtomize2-Icons
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: vn.gsm.springtomize2-localizations
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 215
+Depends: firmware (>= 5.0)
+Replaces: com.filippobiga.springtomize2 (<< 1.3-3)
+Filename: ./tomkids.springtomize2-localizations_1.0.1_iphoneos-arm.deb
+Size: 56806
+MD5sum: a2d2d16c7a9a814530a67e8683a26441
+SHA1: 52dc7edea1f78ec843b7b10ad73171ddc41540fc
+SHA256: c17c632db3bb95acb122696fd2c57e13845896cd0a1faac739d74ad846c9da17
+Section: Addons
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springtomize2Dp
+Description: Localizations for Springtomize2
+Author: FilippoBiga <filippobiga.dev@gmail.com>
+Depiction: http://cydia.gsm.vn/t2197/
+Icon: file:///Applications/springtomizeapp.app/Icon.png
+Name: Springtomize2-Localizations
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: vn.gsm.tvlockerpro
+Version: 1.4.1-1
+Architecture: iphoneos-arm
+Maintainer: Cydia.vn <repo@cydia.vn>
+Installed-Size: 250
+Depends: gsmicon, mobilesubstrate (>= 0.9.5000), firmware (>= 5.0), preferenceloader (>= 2.2.2)
+Filename: ./vn.gsm.tvlockerpro_1.4.1-1_iphoneos-arm.deb
+Size: 814
+MD5sum: bd1947ee9a4038bd5d85438c292a4b6f
+SHA1: 8ecf8a11498c760b895f6d04d3c7929fb1b3a10a
+SHA256: 1c249320c8fc7b260b74d0eb9496a48f8a46159b7cc5d80b1d837123c234b086
+Section: !CydiaVn-Tools
+Homepage: <http://cydia.vn/>
+Description: Lock animation like an old tv!
+Author: Bensge <repo@cydia.vn>
+Depiction: http://cydia.gsm.vn/t3319/
+Name: TVLocker Pro
+Sponsor: Cydia.vn Blog's <http://cydia.vn/>
+
 Package: vn.gsm.videopane
 Version: 2.0.6k
 Architecture: iphoneos-arm
 Maintainer: Cydia.vn <repo@cydia.vn>
 Depends: mobilesubstrate (>= 0.9.5001), firmware (>= 5.0), preferenceloader (>= 2.2.2), libactivator (>= 1.9.5), applist (>= 1.5.9), com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
-Filename: debs/vn.gsm.videopane_2.0.6k_iphoneos-arm.deb
+Filename: ./tomkids.videopane_2.0.6k_iphoneos-arm.deb
 Size: 451816
 MD5sum: 8a837524460d52048af0c852fc59de89
 SHA1: 169be2d5dcc8c46d4421c5893021adf5cfe421cb
@@ -16,4 +4046,178 @@ Depiction: http://cydia.vn/depic/t4582/
 Icon: file:///System/Library/PreferenceLoader/Preferences/VideoPane/VideoPane@2x.png
 Name: VideoPane
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
+
+Package: vn.gsm.zephyr
+Version: 1.6.4-1
+Architecture: iphoneos-arm
+Maintainer: Cydia.vn <repo@cydia.vn>
+Installed-Size: 112
+Pre-Depends: firmware (>= 5.0)
+Depends: gsmicon, mobilesubstrate, preferenceloader, applist, com.rpetrich.layersnapshotter
+Conflicts: com.dapetcu21.multicleaner (<= 2.9.4), com.xsellize.multicleaner, vn.gsm.multicleaner (<= 2.9.4), com.xsellize.zephyr
+Filename: ./tomkids.zephyr_1.6.4-1_iphoneos-arm.deb
+Size: 44422
+MD5sum: eb0a987e0d2c76bf5b94b51acc591a84
+SHA1: bfdb0ee69b2b6f755502bd6fb4acc6140b410022
+SHA256: e54e76b199a135a1ea1f79e9ec5e0c30bd94411afe1548be70e4326888f58285
+Section: !GSMVN-Tools
+Homepage: http://cydia.vn/
+Description: Awesome, useful swipe multitasking!
+Author: chpwn
+Depiction: http://cydia.gsm.vn/t2238/
+Icon: file:///Library/PreferenceLoader/Preferences/Zephyr@2x.png
+Name: Zephyr
+Sponsor: Cydia.vn Blog's <http://cydia.vn/>
+
+Package: vn.iossp.appsync31
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: iOSSupport <iossp@hotmail.com>
+Pre-Depends: firmware (= 3.1) | firmware (= 3.1.1) | firmware (= 3.1.2) | firmware (= 3.1.3) | firmware (= 3.1.4)
+Depends: vn.iossp.iconrepo
+Filename: ./vn.iossp.appsync31_1.0.1_iphoneos-arm.deb
+Size: 296524
+MD5sum: 1b589191edb5981e650a911576635387
+SHA1: 61eef1521ec06657183ec03c73687476bc575ace
+SHA256: 5b3341d00b3d2eb496e2192b904003226d026069546d12aede57c4805b4ddbf7
+Section: Tweak
+Description: AppSync patches the installd file on your device iOS 3.1 - 3.1.4
+Author: Reilly <appsync@hackulo.us>
+Name: AppSync for OS 3.1
+
+Package: vn.iossp.appsync40plus
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: iOSSupport <iossp@hotmail.com>
+Depends: firmware (>= 4.0), firmware (<< 5.0), vn.iossp.iconrepo
+Conflicts: us.hackulo.appsync40, us.hackulo.appsync41, us.hackulo.appsync42
+Replaces: us.hackulo.appsync40, us.hackulo.appsync41, us.hackulo.appsync42
+Provides: appsync, us.hackulo.appsync40, us.hackulo.appsync41, us.hackulo.appsync42
+Filename: ./vn.iossp.appsync40plus_1.2.2_iphoneos-arm.deb
+Size: 9284
+MD5sum: ec04151a6c9c4c1587f57c2467b49d83
+SHA1: db8bc0daeaae401277341932a96787d064a88503
+SHA256: e5e4b67f9499d53376b29e64b10d2af77947f0cd5468360c627cacac803a430b
+Section: Tweak
+Homepage: https://cydia.angelxwind.net/
+Description: AppSync Unified allows you to sync and install unsigned iOS applications. Only for iOS 4.
+Author: Karen/あけみ, Dissident <angelXwind@angelxwind.net>
+Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.appsync40plus
+Name: AppSync for iOS 4.0
+
+Package: vn.iossp.googlefix
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: iOSSupportVN
+Depends: mobilesubstrate, vn.iossp.iconrepo
+Filename: ./vn.iossp.googlefix.deb
+Size: 8530
+MD5sum: 121054eb1800bfc2a58b9a8dfc0d0300
+SHA1: 78408d6c39c879e6dfebbbe05dfb0245874a693b
+SHA256: 6a8737ae26c9a297879fe5863cb7cc2d29dbc4c4490f1e53e911573f4e9aaee2
+Section: Tweak
+Description: Fixes Google search on iOS 6
+Author: Victor
+Name: GoogleFix
+
+Package: vn.tomkids.repoicon
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Tomkids
+Filename: ./vn.tomkids.repoicon_1.0.2_iphoneos-arm.deb
+Size: 823834
+MD5sum: eb07c049e1cb559bc1dcb6c27d3e70b1
+SHA1: 86f8aadb8c1a05d1f8cae535aa09301d2c888280
+SHA256: 4f469d209178e0778f0df55c1e5441583d9612108e706dd08ceeb250730a7831
+Section: Tweaks
+Priority: optional
+Description: Copy Tomkids repo icon to Cydia Sections folder.
+Author: Tomkids
+Name: Tomkids Repo Icon
+
+Package: vn.tomkids.tweaks.ncmusicpanel
+Version: 3.2.0-2+debug
+Architecture: iphoneos-arm
+Maintainer: TomKids
+Installed-Size: 2896
+Depends: mobilesubstrate, preferenceloader, firmware (>= 5.0)
+Filename: ./vn.tomkids.tweaks.ncmusicpanel_3.2.0-2+debug_iphoneos-arm.deb
+Size: 821318
+MD5sum: b4e4d54e012af09d7c338caad8952445
+SHA1: 95789658a103f53593caf12785d9a9259bcd5221
+SHA256: 03789f50af4998f55e593621f1e11f2d298a0b54821fd2fc102a87febf070050
+Section: Tweaks
+Description: SpringBoard Notification Center style music panel for iOS 5-6 with artwork, controls and preferences.
+Author: TomKids
+Name: Tomkids NC Music
+
+Package: vn.tomkids.tweaks.popuphellosetting
+Version: 2.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: TomKids
+Installed-Size: 256
+Depends: mobilesubstrate, preferenceloader
+Filename: ./vn.tomkids.tweaks.popuphellosetting_2.0.2-1+debug_iphoneos-arm.deb
+Size: 8748
+MD5sum: 213348fd957730b472e7048862cac3f5
+SHA1: 774f1c7e61c6035741c4eb20a028bd8d5370790a
+SHA256: d7540b0eb3ebf2d687fcb4291e7cd17af285e6818a7a11f8a31bbda1d53626d5
+Section: Tweaks
+Description: Show a customizable popup inside Settings on iOS 5 to 8.
+Author: TomKids
+Name: PopUp Hello Setting
+
+Package: vn.tomkids.tweaks.sayhi
+Version: 2.0.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: TomKids
+Installed-Size: 256
+Depends: mobilesubstrate, preferenceloader
+Filename: ./vn.tomkids.tweaks.sayhi_2.0.0-1+debug_iphoneos-arm.deb
+Size: 8486
+MD5sum: 5a6ea3e6fe042a12177512243a86d825
+SHA1: a4775889bdd549b7195e3151d5fff3e7d5de0aff
+SHA256: 35409072703c6322b43edb2346e4b403b1c7c6b25de54101542b186e0292670c
+Section: Tweaks
+Description: Show a customizable hello alert inside Settings on iOS 5 to 8.
+Author: TomKids
+Name: TomKids Say Hi
+
+Package: winterboard
+Version: 0.9.3919
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Pre-Depends: dpkg (>= 1.13.25-5)
+Depends: mobilesubstrate (>= 0.9.3225-1), killall, preferenceloader, findutils, net.howett.pincrush (>= 0.0.1-23) | pincrush
+Conflicts: com.modmyifone.winterboardicon, winterboardsettings, themesettings, com.iphonerepocenter.transparentdockfor3xtheme
+Breaks: jp.ashikase.folderenhancer (<< 1.6.0.2-1)
+Replaces: com.modmyifone.winterboardicon, winterboardsettings, themesettings, com.iphonerepocenter.transparentdockfor3xtheme
+Provides: theme-manager
+Filename: ./tomkids.winterboard_0.9.3919_iphoneos-arm.deb
+Size: 170058
+MD5sum: 155d75af6e426b8bafb58b9524f214cc
+SHA1: 9e0d0b0e26978a4e727f068e186247dd2c8cdb3b
+SHA256: 7a4ebfde8082d64a00d7f4bbe46eb326521cfd36fa4b7edede3dfb2656c68c78
+Section: System
+Priority: optional
+Homepage: http://www.saurik.com/id/9
+Description: theme manager, used by most themes
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/winterboard/
+Name: WinterBoard
+
+Package: zip
+Version: 2.32-6
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 368
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./tomkids.zip_2.32-6_iphoneos-arm.deb
+Size: 99386
+MD5sum: 9530e84ba5127a42233da57068c809c1
+SHA1: d5eaebc9b7409d2e2182231237a76d22dfb3a3ed
+SHA256: 138fa28d5d94a120159deb2f67904f63ba6889194b5f705f35f87358a5bf1729
+Section: Archiving
+Priority: important
+Description: standard Windows compression tool
 
