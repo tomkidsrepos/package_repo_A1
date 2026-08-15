@@ -3194,6 +3194,26 @@ Description: Huong dan:
 Author: Converted by Tomkids
 Name: Cậu bé siêu năng lực - Tập 01
 
+Package: tomkids.chuthoong01
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./tomkids.chuthoong01_1.0_iphoneos-arm.deb
+Size: 9686684
+MD5sum: cf13a9e9dd761fe699e20972fe6b75d2
+SHA1: 0fad7f75424344590e8503b3530abeb56c692d29
+SHA256: d6337d422d2cde388eb9242f9c976b6a4786a75ea9a1b0a3ae6413831b8bc457
+Section: Books
+Description: Huong dan:
+ Huong dan:
+ - Dien thoai can cai iBooks va iFiles
+ - Cai xong sach se duoc chep vao thu muc /private/var/mobile/Media/Books
+ - Dung iFiles truy cap thu muc tren roi chon file truyen, chon mo bang iBooks
+ .
+ Converted by Tomkids
+Author: Converted by Tomkids
+Name: Chú Thoong
+
 Package: tomkids.contra
 Version: 1.2.3
 Architecture: iphoneos-arm
