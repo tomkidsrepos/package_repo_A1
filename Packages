@@ -1197,6 +1197,23 @@ Author: Malcolm Hall <repo@hackyouriphone.org>
 Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=sleepfx
 Name: SleepFX
 
+Package: com.himais0giiiin.ytnine
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: himais0giiiin
+Installed-Size: 2524
+Depends: firmware (>= 6.0)
+Filename: ./com.himais0giiiin.ytnine_1.1.1_iphoneos-arm.deb
+Size: 1047274
+MD5sum: ff9c17229e1ba23d91cfa5b4e5e17e1a
+SHA1: 087d2955578f019dc4099951b36064a60d765b06
+SHA256: 84491cbc07f7f0ef91a7ed5c86781262151b66c5b99fe9ddfbdd9532aba9a7c7
+Section: Multimedia
+Description: The newly redesigned YouTube for iOS 9.
+Tag: purpose::uikit
+Author: himais0giiiin
+Name: YTNine
+
 Package: com.hzapptech.tetris-lite
 Version: 121
 Architecture: iphoneos-arm
@@ -1656,6 +1673,22 @@ Author: dopaemon <polarisdp@gmail.com>
 Depiction: https://github.com/CydiaBlock/AppStore
 Name: Bloons TD 5 v13454 (iOS 4.3)
 Sponsor: dopaemon <polarisdp@gmail.com>
+
+Package: com.notdbrand.veterisredirect
+Version: 1.7.2-4+debug
+Architecture: iphoneos-arm
+Maintainer: Notdbrand
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.notdbrand.veterisredirect_1.7.2-4+debug_iphoneos-arm.deb
+Size: 20052
+MD5sum: 956881357a4e307be6f10fd355774cdf
+SHA1: f061828852f1c6faeff0ebf012d088d466f3be99
+SHA256: 2c6a55a7a18843b0c6f3acadbf28cea92c5386a7cb6fcf7f389c2efdd42e7aa8
+Section: Tweaks
+Description: Redirect Veteris 1.7.2 to any server.
+Author: Notdbrand
+Name: VeterisRedirect
 
 Package: com.officialscheduler.mterminal
 Version: 1.4-5
@@ -2232,38 +2265,6 @@ Tag: role::hacker
 Author: tuanem
 Name: SHSHchecker cli
 
-Package: com.tuanem.shshchecker
-Version: 1.0-1+debug
-Architecture: iphoneos-arm
-Maintainer: tuanem
-Installed-Size: 1444
-Filename: ./tomkids.shshchecker_1.0_iphoneos-arm.deb
-Size: 340310
-MD5sum: d893f5ffde5f8a14cbd3537d868f0e3b
-SHA1: e373d21046327e5ab5e7e07cad4fc05e246fc1a8
-SHA256: 6bbe1037e19f0ad951e7241617e549ffe4dc8bbb439d6c902d85c70d3e629d8a
-Section: System
-Description: check SHSH Blobs on Mterminal
-Tag: role::hacker
-Author: tuanem
-Name: SHSHchecker cli
-
-Package: com.tuanem.ytbackground
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Tuanem
-Installed-Size: 40
-Depends: mobilesubstrate
-Filename: ./tomkids.ytbackground_1.0_iphoneos-arm.deb
-Size: 4990
-MD5sum: 93e7ac8e7d8393f318977bfe87f1f8ac
-SHA1: 86be0940de4628a8de2cf0686ca9c872806b748d
-SHA256: 8ea4e3c8163d7ee030158d6fadd25cdd91cf19c081349c3f0ba913a3ba427ff3
-Section: Tweaks
-Description: Background Playback for YouTube 1.0.0+
-Author: Tuanem
-Name: YTBackground
-
 Package: com.tuanem.ytbackground
 Version: 1.0
 Architecture: iphoneos-arm
@@ -2275,22 +2276,6 @@ Size: 4990
 MD5sum: 93e7ac8e7d8393f318977bfe87f1f8ac
 SHA1: 86be0940de4628a8de2cf0686ca9c872806b748d
 SHA256: 8ea4e3c8163d7ee030158d6fadd25cdd91cf19c081349c3f0ba913a3ba427ff3
-Section: Tweaks
-Description: Background Playback for YouTube 1.0.0+
-Author: Tuanem
-Name: YTBackground
-
-Package: com.tuanem.ytbackground
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: Tuanem
-Installed-Size: 40
-Depends: mobilesubstrate
-Filename: ./tomkids.ytbackground_1.1_iphoneos-arm.deb
-Size: 5118
-MD5sum: 8f9f2f630990dd881b5323be5f68a4bd
-SHA1: 84efb60e83e84ba6ecfb33df9ba39609687c3f56
-SHA256: 9fec3d8ea6385507582c1defffa6bd5a398076512934f83370e391d4711cb958
 Section: Tweaks
 Description: Background Playback for YouTube 1.0.0+
 Author: Tuanem
@@ -2567,24 +2552,21 @@ Priority: required
 Description: virtual GraphicsServices dependency
 Tag: role::cydia
 
-Package: gsmicon
-Version: 4.0-2
+Package: idv.aqua.igameguardian
+Version: 6.0.0
 Architecture: iphoneos-arm
-Essential: yes
-Maintainer: Cydia.vn <repo@cydia.vn>
-Filename: ./gsmicon_4.0-2.deb
-Size: 30822
-MD5sum: eac0c7f9ecb379d939e4dd7343d5f99b
-SHA1: 501e32ee74c2dba866cbc2ddc46570d9a7f4849f
-SHA256: f465a792e91cf6f75257f71594972d2f41133d635c46a41d9429b1571b839440
-Section: !CydiaVn-Tools
-Priority: required
-Homepage: http://cydia.vn/
-Description: Icon cho Cydia.vn source!
-Author: Cydia.vn <repo@cydia.vn>
-Depiction: http://cydia.gsm.vn/t96/
-Name: Cydia.vn Icon
-Sponsor: Cydia.vn Blog's <http://cydia.vn/>
+Maintainer: Aqua Wu <igameguardian@gmail.com>
+Installed-Size: 1700
+Filename: ./idv.aqua.igameguardian_6.0.0_iphoneos-arm.deb
+Size: 562922
+MD5sum: b0ddaceb5d0a78613180c9eba77edef0
+SHA1: 1966734b3e72b38d94cf977e7a16a272aecf16c2
+SHA256: 320392d823da38dbb042217ceec485527009c8788df16c3ef0f540ab7e29844b
+Section: utils
+Priority: optional
+Description: iGameGuardian is a game cheating engine for iOS 5.1.1/6.x/7.x.
+Author: Aqua Wu <igameguardian@gmail.com>
+Name: iGameGuardian
 
 Package: kloader
 Version: 1.0
@@ -2807,22 +2789,6 @@ Architecture: iphoneos-arm
 Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
 Installed-Size: 6164
 Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./openssl_0.9.8zg-13_iphoneos-arm.deb
-Size: 2601700
-MD5sum: b7ee0de9955cb0f061c6bc9542c11637
-SHA1: 5ac83cdd762aef081aea25176ebb3310dc448d87
-SHA256: a307790dbc44b3a47494313c3dce226340ebf5c69688479967bbe2c0cb015e7d
-Section: Security
-Priority: standard
-Description: SSL library and cryptographic tools
-Name: OpenSSL
-
-Package: openssl
-Version: 0.9.8zg-13
-Architecture: iphoneos-arm
-Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
-Installed-Size: 6164
-Pre-Depends: dpkg (>= 1.14.25-8)
 Filename: ./tomkids.openssl_0.9.8zg-13_iphoneos-arm.deb
 Size: 2601766
 MD5sum: 3e67bb99eed8af4705fbed4d1d7813bd
@@ -2936,26 +2902,6 @@ Size: 67668
 MD5sum: b0bbc6561c4d9620bd48a8f4248b51f4
 SHA1: d31082a25a57c5ff42c0eb21ac550ba93b2bb885
 SHA256: ab814ae140ed52a5fd3c67d8d9a84523567b6bc6845fe20f1daa541047f2ee21
-Section: System
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
-Description: load preferences in style
-Tag: role::hacker, purpose::library
-Author: Sam Bingner <maintainer@sbdhi.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
-Dev: dustinhowett
-Name: PreferenceLoader
-
-Package: preferenceloader
-Version: 2.2.6
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 526
-Depends: mobilesubstrate
-Filename: ./preferenceloader_2.2.6_iphoneos-arm.deb
-Size: 67660
-MD5sum: b2aa028cfe849a263228f6cbf98b7ea2
-SHA1: f6bf02b2ed59e7b00e812169abc5acda23ce8def
-SHA256: 0edff1ad7ab1543276b8c2ffcd1ccd01d427487184c2a9261a03dc6567534fa7
 Section: System
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
 Description: load preferences in style
