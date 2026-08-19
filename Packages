@@ -1277,6 +1277,44 @@ Icon: file:///Applications/kBatteryDoctor.app/icon.png
 Name: BatteryDoctorPro
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.innoying.sbutils
+Version: 1.0.2-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 123
+Depends: firmware (>= 4.0)
+Filename: ./com.innoying.sbutils_1.0.2-1_iphoneos-arm.deb
+Size: 13152
+MD5sum: 4d6e072c98b946554876035473be2665
+SHA1: 29b89315abc1fb81c17f5209d4e1ed6a3bea9e43
+SHA256: 680c0d7015ec05400266588544874cc86e495ed2ab338c98ef34db36e53dfa81
+Section: Utilities
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sbutilsDp
+Description: iOS utilities - replaces some broken Erica utilities and adds a bunch of new ones
+Tag: purpose::console, role::hacker
+Author: Luke Young (innoying) <innoying@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sbutilsDp
+Dev: innoying
+Name: sbutils
+
+Package: com.iphonecake.appcake2.ios6
+Version: 4.59
+Architecture: iphoneos-arm
+Maintainer: hotsjf <iphonecake@gmail.com>
+Pre-Depends: firmware (>= 6.0) | firware (<= 7.0)
+Filename: ./com.iphonecake.appcake2.ios6_4.59_iphoneos-arm.deb
+Size: 4595800
+MD5sum: 0b5b07eb5e3e1a43501a75491256cd51
+SHA1: e18e5ebaa3879e326940897af1eca0f6d1d727bb
+SHA256: a7a0950d68c2ceaab261fd76fdc2614aa8be95f1957520f12e41fe5874d7db24
+Section: Utilities
+Description: **All NEW AppCake 4.0! Clean UI with enhanced Settings, download cracked apps from the largest Cracked Store. Come with iTunes Sync, Metadata Removal, Update check, AirDrop Sharing and more. *** Require AppSync to be installed ***
+Author: hotsjf <iphonecake@gmail.com>
+Depiction: http://iphonecake.com/mobileapp/depiction/ios6.html
+Icon: file:///Applications/iPhoneCake.app/AppIcon57x57.png
+Name: AppCake for iOS6
+Website: http://iphonecake.com/forum/
+
 Package: com.ipr.bytafont
 Version: 1.8
 Architecture: iphoneos-arm
