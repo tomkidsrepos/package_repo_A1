@@ -1201,6 +1201,22 @@ Package: com.himais0giiiin.ytnine
 Version: 1.1.1
 Architecture: iphoneos-arm
 Maintainer: himais0giiiin
+Depends: firmware (>= 6.0)
+Filename: ./com.himais0giiiin.youtubenine_1.1.1_iphoneos-arm.deb
+Size: 1045490
+MD5sum: 7ee6e67dea874fb24d8e318cba39b821
+SHA1: 0630b57a160603cca2bd03cbbd2eee3ad23749f8
+SHA256: 73119c06aff404a211b590597125fffc17cbb89a1154151bdaab84c15c51c2a4
+Section: Multimedia
+Description: The newly redesigned YouTube for iOS 6 - 9.
+ The newly redesigned YouTube for iOS 6 - 9.
+Author: himais0giiiin
+Name: YouTubeNine
+
+Package: com.himais0giiiin.ytnine
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: himais0giiiin
 Installed-Size: 2524
 Depends: firmware (>= 6.0)
 Filename: ./com.himais0giiiin.ytnine_1.1.1_iphoneos-arm.deb
