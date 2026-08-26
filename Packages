@@ -1885,6 +1885,22 @@ Description: A fix for iOS's Facebook system integration
 Author: Pod
 Name: FBIntegrationFix
 
+Package: com.podpod123.gsaport
+Version: 1.0-12+debug
+Architecture: iphoneos-arm
+Maintainer: Pod <pod@podpod123.com>
+Installed-Size: 3552
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 6.0), firmware (<< 9.0)
+Filename: ./com.podpod123.gsaport_1.0-12+debug_iphoneos-arm.deb
+Size: 1888668
+MD5sum: b691e0a8ac5a3394c3784b42417eb7a9
+SHA1: 4fdbf6dff69e6ea7b0da303f430b98d4190a32a5
+SHA256: 96badde6d51104aa302859508b43769edfaeb7be3eb08e962023f53599a137bd
+Section: Tweaks
+Description: Ports Apple's GrandSlam Authentication protocol to iOS versions prior to iOS 9. Fixes Apple ID login related endpoints that contain your account credentials. After you receive your verification code, enter ONLY that in the password field. You do NOT need to enter it after your password.
+Author: Pod <pod@podpod123.com>
+Name: GSAPort
+
 Package: com.popcap.PvZ
 Version: 524
 Architecture: iphoneos-arm
