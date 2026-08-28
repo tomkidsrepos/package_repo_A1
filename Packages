@@ -2184,6 +2184,24 @@ Description: App Instagram_6.5.1
 Author: Converted ipa to deb by Tomkids's tool
 Name: Instagram
 
+Package: com.tomkids.metabundle
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Tomkids
+Depends: com.podpod123.gsaport, com.notdbrand.veterisredirect, com.himais0giiiin.ytnine, com.podpod123.fbcrashfix, com.podpod123.fbintegrationfix, com.tomkids.instagram, com.tomkids.googlemap, com.tomkids.telegram, com.weather.tweak, com.void.themeready, vn.gsm.speedintensifier, vn.gsm.speedintensifieraddon, themesettings, com.linusyang.ytbnoad, ai.akemi.appsyncunified, com.arichardson.weepreferenceloader, tomkids.tiktokfix, tomkids.nhaccuatui.lite, tomkids.OldTikTokCN, tomkids.facebook, vn.tomkids.repoicon, com.jamied360.ncsettings, apt, apr-lib, dpkg, sbsettingstoggles, sbsettings, vn.gsm.icleanerpro, vn.tomkids.tweaks.popuphellosetting, openssl, openssh, vn.gsm.flipclockwidget, uk.invoxiplaygames.checkmatestore, preferenceloader, com.chpwn.weeloader, apt7-lib, apt7-key, applist, com.aoi.storefix, com.dba-tech.forecast, vn.gsm.springtomize2-localizations, vn.gsm.springtomize2-icons, winterboard, vn.gsm.zephyr, vn.gsm.springtomize2, vn.gsm.ifile, vn.gsm.barrel, moe.yzu.veterishelper, com.patrickgriffin.disableyoutubeupdates, com.officialscheduler.mterminal, com.ijinshan.kbatterydoctorpro.universal, com.ixmoe.1pwn.veteris, com.autopear.lunarcalendar, vn.gsm.auxo.org
+Filename: ./vn.tomkids.metabundleios6_1.0-1_iphoneos-arm.deb
+Size: 1132
+MD5sum: abd9404c9f8a1178b3faccef5a678cf7
+SHA1: c5fc092928c32ecea8549fb7bd863798045c7a82
+SHA256: 57c3bbb71a7509a5d6b8b36daaf6eb4276954f77aa13566c52fa8ac32f1204e7
+Section: Tweaks
+Description: Cai dat toan bo tweaks cho iPhone 4S iOS 6 cua Tomkids
+ Cai dat toan bo tweaks cho iPhone 4S iOS 6 cua Tomkids
+ Gom toan bo cac tweaks can thiet cho iPhone 4S iOS 6.
+ Chi can cai package nay, Cydia se tu dong tai va cai tat ca.
+Author: Tomkids
+Name: Tomkids Meta Bundle IOS6
+
 Package: com.tomkids.pacman
 Version: 1.0.5
 Architecture: iphoneos-arm
