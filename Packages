@@ -2188,12 +2188,12 @@ Package: com.tomkids.metabundle
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Tomkids
-Depends: com.podpod123.gsaport, com.notdbrand.veterisredirect, com.himais0giiiin.ytnine, com.podpod123.fbcrashfix, com.podpod123.fbintegrationfix, com.tomkids.instagram, com.tomkids.googlemap, com.tomkids.telegram, com.weather.tweak, com.void.themeready, vn.gsm.speedintensifier, com.linusyang.ytbnoad, ai.akemi.appsyncunified, com.arichardson.weepreferenceloader, tomkids.tiktokfix, tomkids.nhaccuatui.lite, tomkids.OldTikTokCN, tomkids.facebook, vn.tomkids.repoicon, com.jamied360.ncsettings, apt, apr-lib, dpkg, sbsettingstoggles, sbsettings, vn.gsm.icleanerpro, vn.tomkids.tweaks.popuphellosetting, openssl, openssh, vn.gsm.flipclockwidget, uk.invoxiplaygames.checkmatestore, preferenceloader, com.chpwn.weeloader, apt7-lib, apt7-key, applist, com.aoi.storefix, com.dba-tech.forecast, vn.gsm.springtomize2-localizations, vn.gsm.springtomize2-icons, vn.gsm.zephyr, vn.gsm.springtomize2, vn.gsm.ifile, vn.gsm.barrel, moe.yzu.veterishelper, com.patrickgriffin.disableyoutubeupdates, com.officialscheduler.mterminal, com.ijinshan.kbatterydoctorpro.universal, com.ixmoe.1pwn.veteris, com.autopear.lunarcalendar, vn.gsm.auxo.org
-Filename: ./vn.tomkids.metabundleios6_1.0-1_iphoneos-arm.deb
-Size: 1112
-MD5sum: a03fb8c2f7d861ba7e47f594c210d5af
-SHA1: 31c39bf50f8103175a8209fe149b926fe37d9c38
-SHA256: fa01b2c77677932807cb97f519a7c7a8d619c27111b26835d7b39e62cafd92a6
+Depends: com.podpod123.gsaport, com.notdbrand.veterisredirect, com.himais0giiiin.ytnine, com.podpod123.fbcrashfix, com.podpod123.fbintegrationfix, com.tomkids.instagram, com.tomkids.googlemap, com.tomkids.telegram, com.weather.tweak, com.void.themeready, vn.gsm.speedintensifier, com.linusyang.ytbnoad, ai.akemi.appsyncunified, com.arichardson.weepreferenceloader, tomkids.tiktokfix, tomkids.nhaccuatui.lite, tomkids.OldTikTokCN, tomkids.facebook, vn.tomkids.repoicon, com.jamied360.ncsettings, apt, apr-lib, dpkg, sbsettingstoggles, sbsettings, vn.tomkids.tweaks.popuphellosetting, openssl, openssh, vn.gsm.flipclockwidget, uk.invoxiplaygames.checkmatestore, preferenceloader, com.chpwn.weeloader, apt7-lib, apt7-key, applist, com.aoi.storefix, com.dba-tech.forecast, vn.gsm.springtomize2-localizations, vn.gsm.springtomize2-icons, vn.gsm.zephyr, vn.gsm.springtomize2, vn.gsm.ifile, vn.gsm.barrel, moe.yzu.veterishelper, com.patrickgriffin.disableyoutubeupdates, com.officialscheduler.mterminal, com.ijinshan.kbatterydoctorpro.universal, com.ixmoe.1pwn.veteris, com.autopear.lunarcalendar, vn.gsm.auxo.org
+Filename: ./vn.tomkids.metabundleios6_1.0-2_iphoneos-arm.deb
+Size: 1102
+MD5sum: 8ab37b09068c61faf3f0519dfea742f4
+SHA1: 2ba1ec10f7a9028d7d1e17a95759e8737cda9e35
+SHA256: 4651bd8b9a4900b72b3cc06ab6c629b3ccc6884b3204cfd710894b8712f5bc67
 Section: Tweaks
 Description: Cai dat toan bo tweaks cho iPhone 4S iOS 6 cua Tomkids
  Cai dat toan bo tweaks cho iPhone 4S iOS 6 cua Tomkids
@@ -4200,24 +4200,6 @@ Section: Tweak
 Description: Fixes Google search on iOS 6
 Author: Victor
 Name: GoogleFix
-
-Package: vn.tomkids.ios6bundle
-Version: 1.0-1
-Architecture: iphoneos-arm
-Maintainer: Tomkids <tomkids@tomkidsrepo.cloud>
-Depends: com.weather.tweak, com.aoi.storefix, com.arichardson.weepreferenceloader, com.autopear.lunarcalendar, com.chpwn.weeloader, com.dba-tech.forecast, com.ixmoe.1pwn.veteris, com.jamied360.ncsettings, com.linusyang.ytbnoad, com.patrickgriffin.disableyoutubeupdates, com.ps.ytlegacy, com.skyglow.itunesstorex, com.void.themeready, moe.yzu.veterishelper, org.thebigboss.auxo, com.tomkids.youtubefix, ai.akemi.appsyncunified, vn.gsm.icleanerpro, vn.gsm.ifile, org.jyvee8games.itunesfix, com.ijinshan.kbatterydoctorpro.universal, openssh, openssl, com.aoi.storefix6, uk.invoxiplaygames.checkmatestore, vn.gsm.auxo.org, vn.gsm.barrel, vn.gsm.flipclockwidget, vn.gsm.iclassic, vn.gsm.jukebox, vn.gsm.speedintensifier, vn.gsm.springtomize2-icons, vn.gsm.springtomize2-localizations, vn.gsm.springtomize2, vn.gsm.zephyr, vn.tomkids.tweaks.popuphellosetting
-Filename: ./vn.tomkids.ios6bundle_1.0-1_iphoneos-arm.deb
-Size: 964
-MD5sum: 595da22e0eb71855b4caa2bfb0e05fec
-SHA1: 688ad55d92450e9259d850e81adcf0437bcbd3c5
-SHA256: 378700a5f14d3ac29b9e6581c4b4198366d3b6fcefe8a1091f440ee711d9c3dd
-Section: Tweaks
-Priority: optional
-Description: Cai dat toan bo tweaks cho iPhone 4S iOS 6 cua Tomkids
- Gom toan bo 36 tweaks can thiet cho iPhone 4S iOS 6.
- Chi can cai package nay, Cydia se tu dong tai va cai tat ca.
-Author: Tomkids <tomkids@tomkidsrepo.cloud>
-Name: Tomkids iOS6 Bundle
 
 Package: vn.tomkids.repoicon
 Version: 1.0.2
