@@ -2188,6 +2188,24 @@ Package: com.tomkids.metabundle
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Tomkids
+Depends: com.podpod123.gsaport, com.notdbrand.veterisredirect, com.himais0giiiin.ytnine, com.podpod123.fbcrashfix, com.podpod123.fbintegrationfix, com.tomkids.instagram, com.tomkids.googlemap, com.tomkids.telegram, com.weather.tweak, com.void.themeready, vn.gsm.speedintensifier, com.linusyang.ytbnoad, ai.akemi.appsyncunified, com.arichardson.weepreferenceloader, tomkids.tiktokfix, tomkids.nhaccuatui.lite, tomkids.OldTikTokCN, tomkids.facebook, vn.tomkids.repoicon, com.jamied360.ncsettings, apt, apr-lib, dpkg, sbsettingstoggles, sbsettings, vn.tomkids.tweaks.popuphellosetting, openssl, openssh, vn.gsm.flipclockwidget, uk.invoxiplaygames.checkmatestore, preferenceloader, com.chpwn.weeloader, apt7-lib, apt7-key, applist, com.aoi.storefix, com.dba-tech.forecast, vn.gsm.springtomize2-localizations, vn.gsm.springtomize2-icons, vn.gsm.zephyr, vn.gsm.springtomize2, vn.gsm.ifile, vn.gsm.barrel, moe.yzu.veterishelper, com.patrickgriffin.disableyoutubeupdates, com.officialscheduler.mterminal, com.ijinshan.kbatterydoctorpro.universal, com.ixmoe.1pwn.veteris, com.autopear.lunarcalendar, vn.gsm.auxo.org, com.tomkids.youtubefix, rousseaddict.oldpipe, ru.computershik.troubadour
+Filename: ./vn.tomkids.metabundleios6_1.0-3_iphoneos-arm.deb
+Size: 1140
+MD5sum: ddf30dcfd1cd176ba9bf8a4da7e9c193
+SHA1: 7eef5d813286d8ceffd16d07e58de40cf2c1b91a
+SHA256: 59dc5d21906b7f273f412fc8f74e0123397a2b36b4422d2117f286b9fd7308d9
+Section: Tweaks
+Description: Cai dat toan bo tweaks cho iPhone 4S iOS 6 cua Tomkids
+ Cai dat toan bo tweaks cho iPhone 4S iOS 6 cua Tomkids
+ Gom toan bo cac tweaks can thiet cho iPhone 4S iOS 6.
+ Chi can cai package nay, Cydia se tu dong tai va cai tat ca.
+Author: Tomkids
+Name: Tomkids Meta Bundle IOS6
+
+Package: com.tomkids.metabundle
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Tomkids
 Depends: com.podpod123.gsaport, com.notdbrand.veterisredirect, com.himais0giiiin.ytnine, com.podpod123.fbcrashfix, com.podpod123.fbintegrationfix, com.tomkids.instagram, com.tomkids.googlemap, com.tomkids.telegram, com.weather.tweak, com.void.themeready, vn.gsm.speedintensifier, com.linusyang.ytbnoad, ai.akemi.appsyncunified, com.arichardson.weepreferenceloader, tomkids.tiktokfix, tomkids.nhaccuatui.lite, tomkids.OldTikTokCN, tomkids.facebook, vn.tomkids.repoicon, com.jamied360.ncsettings, apt, apr-lib, dpkg, sbsettingstoggles, sbsettings, vn.tomkids.tweaks.popuphellosetting, openssl, openssh, vn.gsm.flipclockwidget, uk.invoxiplaygames.checkmatestore, preferenceloader, com.chpwn.weeloader, apt7-lib, apt7-key, applist, com.aoi.storefix, com.dba-tech.forecast, vn.gsm.springtomize2-localizations, vn.gsm.springtomize2-icons, vn.gsm.zephyr, vn.gsm.springtomize2, vn.gsm.ifile, vn.gsm.barrel, moe.yzu.veterishelper, com.patrickgriffin.disableyoutubeupdates, com.officialscheduler.mterminal, com.ijinshan.kbatterydoctorpro.universal, com.ixmoe.1pwn.veteris, com.autopear.lunarcalendar, vn.gsm.auxo.org
 Filename: ./vn.tomkids.metabundleios6_1.0-2_iphoneos-arm.deb
 Size: 1102
@@ -3018,6 +3036,44 @@ Author: BYA Repository
 Depiction: http://repo.biteyourapple.net/depiction/dep.php?name=paragon
 Name: Paragon
 Sponsor: biteyourapple <http://www.biteyourapple.net>
+
+Package: rousseaddict.oldpipe
+Version: 1
+Architecture: iphoneos-arm
+Maintainer: Tomkids
+Depends: firmware (>= 6.0), uikittools, appsync
+Filename: ./rousseaddict.oldpipe-1-iOS-6.0.deb
+Size: 17483126
+MD5sum: 08bbce21c1ec74d5b0c5d4809cf84ce2
+SHA1: 9cfe79d0ffc7dc12c34d270278cb163f45dd02a0
+SHA256: d1efa621c84ee74aaa0785a494c981fe8d5de8f07e5c7b486224f4aa820ae4da
+Section: AppStore Apps
+Homepage: https://github.com/tomkidsrepos/AppStores
+Description: The decrypted ipa file: gdrive_app_1PgRe1cXdkeF5Gi6s3wwMe5DImfciO6bp.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: Tomkids
+Depiction: https://github.com/tomkidsrepos/AppStores
+Icon: https://tomkidsrepo.cloud/CydiaIcon.png?v=2
+Name: oldpipe v1 (iOS 6.0)
+Sponsor: Tomkids
+
+Package: ru.computershik.troubadour
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Tomkids
+Depends: firmware (>= 5.1), uikittools, appsync
+Filename: ./ru.computershik.troubadour-1.3-iOS-5.1.deb
+Size: 2432200
+MD5sum: 4638cb74fde6d5679e296494812d4a36
+SHA1: 92569b31b18a5029a0f83bb141bb54a8ddfb6cac
+SHA256: 6e23f8f73fb65b499835df456ff5f57098e77b5c83ba75d2f314037358ef41e2
+Section: AppStore Apps
+Homepage: https://github.com/tomkidsrepos/AppStores
+Description: The decrypted ipa file: gdrive_app_1HL80pzq7aZk9D9Nkc8temfKee6WJxVUX.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: Tomkids
+Depiction: https://github.com/tomkidsrepos/AppStores
+Icon: https://tomkidsrepo.cloud/CydiaIcon.png?v=2
+Name: Troubadour v1.3 (iOS 5.1)
+Sponsor: Tomkids
 
 Package: sbsettings
 Version: 6.0.5-1
