@@ -2220,6 +2220,22 @@ Description: Cai dat toan bo tweaks cho iPhone 4S iOS 6 cua Tomkids
 Author: Tomkids
 Name: Tomkids Meta Bundle IOS6
 
+Package: com.tomkids.metabundleios8
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Tomkids
+Depends: ai.akemi.appsyncunified, com.tomkids.youtubefix, rousseaddict.oldpipe, ru.computershik.troubadour, com.burbn.instagram, com.podpod123.fbcrashfix, com.podpod123.fbintegrationfix, Tomkids.GoTV, com.tomkids.filza, com.pulandres.safestdn, com.tomkids.instagram, com.tomkids.googlemap, com.tomkids.telegram, com.manh.edgeflow32bit, com.manh.lockweather32bit, com.manh.mtune32bit, mobilesubstrate, tomkids.nhaccuatui.lite, tomkids.OldTikTokCN, com.long.ledaudio, tomkids.facebook, openssl, openssh, com.linusyang.ytbnoad, vn.gsm.barrel, com.patrickgriffin.disableyoutubeupdates
+Filename: ./vn.tomkids.metabundleios8_1.0-1_iphoneos-arm.deb
+Size: 802
+MD5sum: 2fbfa948dbc8004099e37a8c29979dee
+SHA1: cdb705e06cfb526b6ee6f8ca4bbee7f50e7cbe5e
+SHA256: 05438272c65dea4686a87e939ad9a3128a95702d977d35f7bcf593ac9e9f10be
+Section: Tweaks
+Description: Metapackage tu dong cai dat cac tweaks can thiet cho IOS 8
+ Metapackage tu dong cai dat cac tweaks can thiet cho IOS 8
+Author: Tomkids
+Name: Tomkids Meta Bundle IOS 8
+
 Package: com.tomkids.pacman
 Version: 1.0.5
 Architecture: iphoneos-arm
