@@ -2240,24 +2240,6 @@ Author: Tomkids
 Name: Tomkids Auto
 
 Package: com.tomkids.metabundle
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Tomkids
-Depends: com.podpod123.gsaport, com.notdbrand.veterisredirect, com.himais0giiiin.ytnine, com.podpod123.fbcrashfix, com.podpod123.fbintegrationfix, com.tomkids.instagram, com.tomkids.googlemap, com.tomkids.telegram, com.weather.tweak, com.void.themeready, vn.gsm.speedintensifier, com.linusyang.ytbnoad, ai.akemi.appsyncunified, com.arichardson.weepreferenceloader, tomkids.tiktokfix, tomkids.nhaccuatui.lite, tomkids.OldTikTokCN, tomkids.facebook, vn.tomkids.repoicon, com.jamied360.ncsettings, apt, apr-lib, dpkg, sbsettingstoggles, sbsettings, vn.tomkids.tweaks.popuphellosetting, openssl, openssh, vn.gsm.flipclockwidget, uk.invoxiplaygames.checkmatestore, preferenceloader, com.chpwn.weeloader, apt7-lib, apt7-key, applist, com.aoi.storefix, com.dba-tech.forecast, vn.gsm.springtomize2-localizations, vn.gsm.springtomize2-icons, vn.gsm.zephyr, vn.gsm.springtomize2, vn.gsm.ifile, vn.gsm.barrel, moe.yzu.veterishelper, com.patrickgriffin.disableyoutubeupdates, com.officialscheduler.mterminal, com.ijinshan.kbatterydoctorpro.universal, com.ixmoe.1pwn.veteris, com.autopear.lunarcalendar, vn.gsm.auxo.org
-Filename: ./vn.tomkids.metabundleios6_1.0-2_iphoneos-arm.deb
-Size: 1102
-MD5sum: 8ab37b09068c61faf3f0519dfea742f4
-SHA1: 2ba1ec10f7a9028d7d1e17a95759e8737cda9e35
-SHA256: 4651bd8b9a4900b72b3cc06ab6c629b3ccc6884b3204cfd710894b8712f5bc67
-Section: Tweaks
-Description: Cai dat toan bo tweaks cho iPhone 4S iOS 6 cua Tomkids
- Cai dat toan bo tweaks cho iPhone 4S iOS 6 cua Tomkids
- Gom toan bo cac tweaks can thiet cho iPhone 4S iOS 6.
- Chi can cai package nay, Cydia se tu dong tai va cai tat ca.
-Author: Tomkids
-Name: Tomkids Meta Bundle IOS6
-
-Package: com.tomkids.metabundle
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Tomkids
