@@ -2846,6 +2846,73 @@ Icon: file:///Applications/Activator.app/Icon-Small-modern@2x.png
 Name: Activator
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: me.lululab.libvlc
+Version: 4.0.0
+Architecture: iphoneos-arm
+Maintainer: lululab
+Conflicts: org.videolan.vlckit
+Replaces: org.videolan.vlckit
+Filename: ./me.lululab.libvlc_4.0.0_iphoneos-arm.deb
+Size: 4964024
+MD5sum: 85371ee952844e78baa60374a61aa71f
+SHA1: 5fc48c417ef300cd4189c14901c8a3783e2d8a62
+SHA256: 6f5da240c9190f591bbe7a604a3226a40f49e0ab370f0b847f552043ebfc587d
+Section: Libraries
+Description: The video engine behind lululab apps, built on VLC. Installed automatically when an app needs it.
+Author: lululab
+Name: libvlc
+
+Package: me.lululab.prefs
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: lululab
+Installed-Size: 264
+Depends: preferenceloader
+Filename: ./me.lululab.prefs_1.0.0_iphoneos-arm.deb
+Size: 206942
+MD5sum: b29d2c3e39bc5f561dae4ae4b19ac87a
+SHA1: f84927a927dbf547c6154537e9de3c8fafc837cb
+SHA256: 4765f52a2e3b7dbcc60474b712943692b555becbcbdf7c152a1867b6bffad18e
+Section: Tweaks
+Description: All your lululab tweak settings in one place in Settings. Installed automatically with your first lululab package.
+Author: lululab
+Name: Lululab Settings
+
+Package: me.lululab.stbridge
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: lululab
+Installed-Size: 136
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist, me.lululab.prefs, libssl3 (>= 3.0.0)
+Conflicts: com.skyglow.tlsfix, com.tlsfix, cy+cpu.arm64
+Filename: ./me.lululab.stbridge_1.0.0_iphoneos-arm.deb
+Size: 36170
+MD5sum: 8814fa342ab729d03a51c1edeb24c672
+SHA1: 7ad33b9a38ec2a21a733205952714c3d72961f7a
+SHA256: 9d257cc2152bf9c5f3a4e4ff40510397811a4d9d8a73ed13f3542b51ce716815
+Section: Tweaks
+Description: Get your apps back online. Apps that stopped connecting to their servers work again, and you choose which ones use it in Settings > lululab.
+Author: lululab
+Name: Secure Bridge
+
+Package: me.lululab.wk
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: lululab
+Installed-Size: 93124
+Depends: firmware (>= 6.0), firmware (<< 8.0), mobilesubstrate, preferenceloader, applist, me.lululab.prefs, me.lululab.stbridge (>= 1.0.0) | com.skyglow.tlsfix, libssl3 (>= 3.0.0), me.lululab.libvlc
+Recommends: com.ps.emojiportlegacy
+Conflicts: cy+cpu.arm64
+Filename: ./me.lululab.wk_1.0.0_iphoneos-arm.deb
+Size: 36318430
+MD5sum: 762cb2dc6e9b316c9cb0362ef4005a12
+SHA1: 99c46db468c293c95944ffb6641312ec593a150d
+SHA256: ac1ea8995f07abbffded9534534aa71afb013e4f27c58aa3687eed7173c29a13
+Section: Tweaks
+Description: Bring today's web back to your iOS 6 device. Sites that stopped loading or look broken in Safari work again. Very heavy web apps can still crash the browser, since memory is limited.
+Author: lululab
+Name: Web Port
+
 Package: mobilesubstrate
 Version: 0.9.6301
 Architecture: iphoneos-arm
