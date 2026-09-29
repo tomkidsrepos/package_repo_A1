@@ -2716,6 +2716,22 @@ Homepage: http://wiki.debian.org/Teams/Dpkg
 Description: package maintainance tools from Debian
 Name: Debian Packager
 
+Package: fbfix
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Tomkids
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 6.0), firmware (<= 10.3.4)
+Filename: ./Tomkids.FixFaceBook.deb
+Size: 21150
+MD5sum: 7d8d38200be857531a3c8c1637cd3e0d
+SHA1: 1432324984b1722c236a7c50af3440e5f82ad064
+SHA256: 49f18ae2270ea563f95d14242530d18bce56d2eac8f5b3a2e9f17d1f2ec6263a
+Section: Tweak
+Description: Fix dang nhap va su dung facebook cho ios 6 - 10. Bao gom fbcrashfix & fbintegrationfix
+ Fix dang nhap va su dung facebook cho ios 6 - 10. Bao gom fbcrashfix & fbintegrationfix
+Author: Tomkids
+Name: Fix Facebook
+
 Package: gsc.hd-video-capture
 Version: 1
 Architecture: iphoneos-arm
