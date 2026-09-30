@@ -2475,6 +2475,24 @@ Depiction: https://github.com/tomkidss/cydia
 Name: UC Browser v10.6.1.760 (iOS 6.0)
 Sponsor: Admin <admin@localhost>
 
+Package: com.victorlobe.appstorefix
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Victor <contact@victorlobe.me>
+Installed-Size: 60
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.skyglow.itunesstorex, net.nekokawa.appstorefix
+Filename: ./com.victorlobe.appstorefix_1.0.2_iphoneos-arm.deb
+Size: 12642
+MD5sum: 441e3ebd8ffbf7f31659c543e1e75ccb
+SHA1: 329a6d24d03a1d2937adc15877c09a4681548e9d
+SHA256: 8bb562addf06d618495ca4038b600cd7169f401195e5c19901c37814525813db
+Section: Tweaks
+Description: Fixes the App Store on iOS 3,5 and 6!
+Author: Victor <contact@victorlobe.me>
+Depiction: http://repo.victorlobe.me/depictions/depiction.html?id=com.victorlobe.appstorefix
+Name: AppStoreFix
+
 Package: com.victorlobe.googlefix
 Version: 1.0.2
 Architecture: iphoneos-arm
@@ -3476,6 +3494,22 @@ Description: FaceBook app for Low iOS
 Author: Tomkids
 Icon: http://tomkidss.github.io/cydia/icons/facebook.png
 Name: FaceBook
+
+Package: tomkids.fixloginicloudios6
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Tomkids
+Depends: mobilesubstrate, firmware (>= 2.0), mobilesubstrate (>= 0.9.5000), firmware (>= 6.0), firmware (<< 9.0)
+Filename: ./Tomkid.Fix_dang_nhap_icloud_ios6.deb
+Size: 2000008
+MD5sum: 001efa966d3c52a62d2201f011a503b3
+SHA1: 7e390355d55eec4af8dde68d5f51b5bd8179e1e8
+SHA256: 561c7d69f44a718cf208d5413c5fb6b29fce5f1f7bbdff840c3043da58703659
+Section: Tweak
+Description: Cai cac tweaks ho tro dang nhap icloud va appstore tren ios 6
+ Cai cac tweaks ho tro dang nhap icloud va appstore tren ios 6
+Author: Tomkids
+Name: Fix Dang nhap iCloud IOS 6
 
 Package: tomkids.gamethung
 Version: 1.0
