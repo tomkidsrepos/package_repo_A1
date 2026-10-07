@@ -3616,6 +3616,22 @@ Icon: http://tomkidss.github.io/cydia/icons/tiktokios6.png
 Name: TikTok Fix
 
 Package: tomkids.youtube2.0.0
+Version: 2.0.0
+Architecture: iphoneos-arm
+Maintainer: Build tweak by Tomkids
+Depends: firmware (>= 5)
+Filename: ./tomkids.youtube2.0.deb
+Size: 9531062
+MD5sum: d892300d2b43ac4d1117b98e67a1269e
+SHA1: 5263e90839134be621f97dbcb438a9cd860778e7
+SHA256: 9803a5d53f88bb97d8544cd16152300e82f8b12232d96979ea0a657f4f1aa515
+Section: Applications
+Description: Youtube 2.0.0 for Low iOS
+ Luu y: Muon chay duoc Ytb nay thi can cai them tweak tubereplacer_1.0.4.3 nua nhe
+Author: Build app to tweak by Tomkids
+Icon: http://tomkidss.github.io/cydia/icons/youtube.png
+
+Package: tomkids.youtube2.0.0
 Version: 2.0.0-5
 Architecture: iphoneos-arm
 Maintainer: Build tweak by Tomkids
