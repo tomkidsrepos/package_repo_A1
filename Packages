@@ -1419,25 +1419,6 @@ Version: 1.7.1
 Architecture: iphoneos-arm
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Depends: firmware (>= 5.0), mobilesubstrate, com.chpwn.weeloader, preferenceloader
-Filename: ./com.jamied360.ncsettings_1.7.1_iphoneos-arm.deb
-Size: 469838
-MD5sum: 6f472f4cf6b12e1b19ef28ac0fd47d97
-SHA1: 566fe499d697a809bf3b05572ca0d72c7461a500
-SHA256: dd8f4d64ca86378fe8b98346216983d274b611aa81b3ce572677595f4147fd18
-Section: Addons (NotificationCenter)
-Priority: extra
-Homepage: http://modmyi.com/info/ncsettings.php
-Description: NCSettings is a sleek Notification Center toggle widget
-Author: JamieD360 <jamied360support@live.co.uk>
-Depiction: http://modmyi.com/info/ncsettings.d.php
-Name: NCSettings
-Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
-
-Package: com.jamied360.ncsettings
-Version: 1.7.1
-Architecture: iphoneos-arm
-Maintainer: poetic_folly <poetic_folly@modmyi.com>
-Depends: firmware (>= 5.0), mobilesubstrate, com.chpwn.weeloader, preferenceloader
 Filename: ./tomkids.ncsettings_1.7.1_iphoneos-arm.deb
 Size: 469848
 MD5sum: e165cb7653f3923836b609ef54f15330
@@ -1452,20 +1433,24 @@ Depiction: http://modmyi.com/info/ncsettings.d.php
 Name: NCSettings
 Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
 
-Package: com.kjcracks.clutch
-Version: 2.0.4
+Package: com.jamied360.ncsettings
+Version: 1.7.1
 Architecture: iphoneos-arm
-Maintainer: KJCracks <unknown@unknown.com>
-Depends: firmware (>= 6.0), firmware (<= 10.3.4)
-Filename: ./tomkids.clutch_2.0.4_iphoneos-arm.deb
-Size: 457648
-MD5sum: f87af3b9bb9d7c69c5a5b6290697a9b3
-SHA1: ec6feae66de70bd39a1bbedea50b13dce5520720
-SHA256: d4a5bd485ec8cec21be0d9e9301a2952a5798d1f62a96b50f6ef7e99e82dbd97
-Section: Terminal Support
-Description: Clutch is a high-speed iOS decryption tool. It is used for decrypting apps currently installed and usable on the device.
-Author: KJCracks <unknown@unknown.com>
-Name: Clutch 2.0.4
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: firmware (>= 5.0), mobilesubstrate, com.chpwn.weeloader, preferenceloader
+Filename: ./com.jamied360.ncsettings_1.7.1_iphoneos-arm.deb
+Size: 469838
+MD5sum: 6f472f4cf6b12e1b19ef28ac0fd47d97
+SHA1: 566fe499d697a809bf3b05572ca0d72c7461a500
+SHA256: dd8f4d64ca86378fe8b98346216983d274b611aa81b3ce572677595f4147fd18
+Section: Addons (NotificationCenter)
+Priority: extra
+Homepage: http://modmyi.com/info/ncsettings.php
+Description: NCSettings is a sleek Notification Center toggle widget
+Author: JamieD360 <jamied360support@live.co.uk>
+Depiction: http://modmyi.com/info/ncsettings.d.php
+Name: NCSettings
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
 
 Package: com.kjcracks.clutch
 Version: 2.0.4
@@ -1482,6 +1467,21 @@ Description: Clutch is a high-speed iOS decryption tool. It is used for decrypti
 Author: KJCracks <unknown@unknown.com>
 Name: Clutch 2.0.4
 
+Package: com.kjcracks.clutch
+Version: 2.0.4
+Architecture: iphoneos-arm
+Maintainer: KJCracks <unknown@unknown.com>
+Depends: firmware (>= 6.0), firmware (<= 10.3.4)
+Filename: ./tomkids.clutch_2.0.4_iphoneos-arm.deb
+Size: 457648
+MD5sum: f87af3b9bb9d7c69c5a5b6290697a9b3
+SHA1: ec6feae66de70bd39a1bbedea50b13dce5520720
+SHA256: d4a5bd485ec8cec21be0d9e9301a2952a5798d1f62a96b50f6ef7e99e82dbd97
+Section: Terminal Support
+Description: Clutch is a high-speed iOS decryption tool. It is used for decrypting apps currently installed and usable on the device.
+Author: KJCracks <unknown@unknown.com>
+Name: Clutch 2.0.4
+
 Package: com.linusyang.ytbnoad
 Version: 0.1
 Architecture: iphoneos-arm
@@ -1489,7 +1489,7 @@ Maintainer: Linus Yang
 Installed-Size: 344
 Depends: mobilesubstrate
 Conflicts: me.alfhaily.adblockforyoutube
-Filename: ./tomkids.ytbnoad_0.1_iphoneos-arm.deb
+Filename: ./com.linusyang.ytbnoad_0.1_iphoneos-arm.deb
 Size: 50654
 MD5sum: 39e43deaa545fc126991b2fe2343d4c4
 SHA1: 848ecf5a0343fe1ac5e4b1cda292d2485938f2a5
@@ -1506,7 +1506,7 @@ Maintainer: Linus Yang
 Installed-Size: 344
 Depends: mobilesubstrate
 Conflicts: me.alfhaily.adblockforyoutube
-Filename: ./com.linusyang.ytbnoad_0.1_iphoneos-arm.deb
+Filename: ./tomkids.ytbnoad_0.1_iphoneos-arm.deb
 Size: 50654
 MD5sum: 39e43deaa545fc126991b2fe2343d4c4
 SHA1: 848ecf5a0343fe1ac5e4b1cda292d2485938f2a5
