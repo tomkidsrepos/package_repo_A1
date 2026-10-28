@@ -790,11 +790,11 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./com.arichardson.weepreferenceloader_1.1_iphoneos-arm.deb
-Size: 34562
-MD5sum: 1deaeb81dd1dcd9fe7f9521fa8be6524
-SHA1: 10b0ecae5a95031c1f7485e6e735ba64779fcf79
-SHA256: 4971aec5462de7fba3593fb18bf6091d9c40ef59e48d57725eedea95bb71cb7d
+Filename: ./tomkids.weepreferenceloader_1.1_iphoneos-arm.deb
+Size: 34568
+MD5sum: cef1b082bc028c22ae0eda383df0e491
+SHA1: f7e773071127ebc8910ca86b1f69b01301aa9f6e
+SHA256: 7ed9065b10acfd0d58c7ac01b69cd921639dc881f4b7087970d9f44ee455117a
 Section: Tweaks
 Priority: extra
 Homepage: http://modmyi.com/info/weepreferenceloader.php
@@ -809,11 +809,11 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./tomkids.weepreferenceloader_1.1_iphoneos-arm.deb
-Size: 34568
-MD5sum: cef1b082bc028c22ae0eda383df0e491
-SHA1: f7e773071127ebc8910ca86b1f69b01301aa9f6e
-SHA256: 7ed9065b10acfd0d58c7ac01b69cd921639dc881f4b7087970d9f44ee455117a
+Filename: ./com.arichardson.weepreferenceloader_1.1_iphoneos-arm.deb
+Size: 34562
+MD5sum: 1deaeb81dd1dcd9fe7f9521fa8be6524
+SHA1: 10b0ecae5a95031c1f7485e6e735ba64779fcf79
+SHA256: 4971aec5462de7fba3593fb18bf6091d9c40ef59e48d57725eedea95bb71cb7d
 Section: Tweaks
 Priority: extra
 Homepage: http://modmyi.com/info/weepreferenceloader.php
@@ -1218,6 +1218,22 @@ Package: com.himais0giiiin.ytnine
 Version: 1.1.1
 Architecture: iphoneos-arm
 Maintainer: himais0giiiin
+Depends: firmware (>= 6.0)
+Filename: ./com.himais0giiiin.youtubenine_1.1.1_iphoneos-arm.deb
+Size: 1045490
+MD5sum: 7ee6e67dea874fb24d8e318cba39b821
+SHA1: 0630b57a160603cca2bd03cbbd2eee3ad23749f8
+SHA256: 73119c06aff404a211b590597125fffc17cbb89a1154151bdaab84c15c51c2a4
+Section: Multimedia
+Description: The newly redesigned YouTube for iOS 6 - 9.
+ The newly redesigned YouTube for iOS 6 - 9.
+Author: himais0giiiin
+Name: YouTubeNine
+
+Package: com.himais0giiiin.ytnine
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: himais0giiiin
 Installed-Size: 2524
 Depends: firmware (>= 6.0)
 Filename: ./com.himais0giiiin.ytnine_1.1.1_iphoneos-arm.deb
@@ -1230,22 +1246,6 @@ Description: The newly redesigned YouTube for iOS 9.
 Tag: purpose::uikit
 Author: himais0giiiin
 Name: YTNine
-
-Package: com.himais0giiiin.ytnine
-Version: 1.1.1
-Architecture: iphoneos-arm
-Maintainer: himais0giiiin
-Depends: firmware (>= 6.0)
-Filename: ./com.himais0giiiin.youtubenine_1.1.1_iphoneos-arm.deb
-Size: 1045490
-MD5sum: 7ee6e67dea874fb24d8e318cba39b821
-SHA1: 0630b57a160603cca2bd03cbbd2eee3ad23749f8
-SHA256: 73119c06aff404a211b590597125fffc17cbb89a1154151bdaab84c15c51c2a4
-Section: Multimedia
-Description: The newly redesigned YouTube for iOS 6 - 9.
- The newly redesigned YouTube for iOS 6 - 9.
-Author: himais0giiiin
-Name: YouTubeNine
 
 Package: com.hzapptech.tetris-lite
 Version: 121
@@ -1369,11 +1369,11 @@ Package: com.isoftru.bochs
 Version: 1.0.0-1
 Architecture: iphoneos-arm
 Maintainer: isoftcom.com <isoftteamsupport@gmail.com>>
-Filename: ./com.isoftru.bochs_1.0.0-1_iphoneos-arm.deb
-Size: 36838638
-MD5sum: a3ba3f378dcbe1efeac6ca3362d52879
-SHA1: f54f48609fa60b16493455fb5bb0d36952e43537
-SHA256: d4f34ae79b80f85ebc29cb6e2ab0578a0c8e6df3859c95133c935d42900abd09
+Filename: ./bochs.deb
+Size: 36844432
+MD5sum: 2fc90234ca64aec8d45d14b938b722c9
+SHA1: a1aeb6638d3a14378b4eefca73e4e38ee1fb5275
+SHA256: b4b076aa5fe88dc2dad22b3da9a329043b5efbc3c4eefb96f57f45a0273fc382
 Section: System
 Homepage: http://isoftcom.com/
 Description: Run Windows 3.11 and Windows 95 on your iPhone. It's slow, but worked.
@@ -1385,11 +1385,11 @@ Package: com.isoftru.bochs
 Version: 1.0.0-1
 Architecture: iphoneos-arm
 Maintainer: isoftcom.com <isoftteamsupport@gmail.com>>
-Filename: ./bochs.deb
-Size: 36844432
-MD5sum: 2fc90234ca64aec8d45d14b938b722c9
-SHA1: a1aeb6638d3a14378b4eefca73e4e38ee1fb5275
-SHA256: b4b076aa5fe88dc2dad22b3da9a329043b5efbc3c4eefb96f57f45a0273fc382
+Filename: ./com.isoftru.bochs_1.0.0-1_iphoneos-arm.deb
+Size: 36838638
+MD5sum: a3ba3f378dcbe1efeac6ca3362d52879
+SHA1: f54f48609fa60b16493455fb5bb0d36952e43537
+SHA256: d4f34ae79b80f85ebc29cb6e2ab0578a0c8e6df3859c95133c935d42900abd09
 Section: System
 Homepage: http://isoftcom.com/
 Description: Run Windows 3.11 and Windows 95 on your iPhone. It's slow, but worked.
@@ -1489,7 +1489,7 @@ Maintainer: Linus Yang
 Installed-Size: 344
 Depends: mobilesubstrate
 Conflicts: me.alfhaily.adblockforyoutube
-Filename: ./tomkids.ytbnoad_0.1_iphoneos-arm.deb
+Filename: ./com.linusyang.ytbnoad_0.1_iphoneos-arm.deb
 Size: 50654
 MD5sum: 39e43deaa545fc126991b2fe2343d4c4
 SHA1: 848ecf5a0343fe1ac5e4b1cda292d2485938f2a5
@@ -1506,7 +1506,7 @@ Maintainer: Linus Yang
 Installed-Size: 344
 Depends: mobilesubstrate
 Conflicts: me.alfhaily.adblockforyoutube
-Filename: ./com.linusyang.ytbnoad_0.1_iphoneos-arm.deb
+Filename: ./tomkids.ytbnoad_0.1_iphoneos-arm.deb
 Size: 50654
 MD5sum: 39e43deaa545fc126991b2fe2343d4c4
 SHA1: 848ecf5a0343fe1ac5e4b1cda292d2485938f2a5
@@ -2080,11 +2080,11 @@ Architecture: iphoneos-arm
 Maintainer: Requis
 Depends: mobilesubstrate (>= 0.9.2586), firmware (>= 2.0), firmware (<= 7.9), preferenceloader
 Conflicts: com.ixmoe.1pwn.weatherx, com.skyglow.stocksx
-Filename: ./com.skyglow.weatherx_3.5_iphoneos-arm.deb
-Size: 155742
-MD5sum: 689171cd5f391aed223f3c0ad7e4ce3b
-SHA1: cef43a162338ef6001d56d4a4085a97e234d0340
-SHA256: 2da0aab5c140809c5d461a13a2c69029a1e4f8db9c56695c222648c37e04d9ea
+Filename: ./WeatherX-Legacy.deb
+Size: 155622
+MD5sum: a6d5f494a673da237ffa95d289538447
+SHA1: 9fb97aee0ce011ea1b6bf8224e8da0ef5af2652b
+SHA256: b530eb8231e01a11562e16f23767c925f548e3261b224aaf3f7047afa514a6a0
 Section: Tweaks
 Description: Fix iOS's Weather & Stocks apps from iPhoneOS 2 to iOS 7, the widgets in the notification center, and the temperature in the iPad clock app!
 Author: Requis, Electimon
@@ -2097,11 +2097,11 @@ Architecture: iphoneos-arm
 Maintainer: Requis
 Depends: mobilesubstrate (>= 0.9.2586), firmware (>= 2.0), firmware (<= 7.9), preferenceloader
 Conflicts: com.ixmoe.1pwn.weatherx, com.skyglow.stocksx
-Filename: ./WeatherX-Legacy.deb
-Size: 155622
-MD5sum: a6d5f494a673da237ffa95d289538447
-SHA1: 9fb97aee0ce011ea1b6bf8224e8da0ef5af2652b
-SHA256: b530eb8231e01a11562e16f23767c925f548e3261b224aaf3f7047afa514a6a0
+Filename: ./com.skyglow.weatherx_3.5_iphoneos-arm.deb
+Size: 155742
+MD5sum: 689171cd5f391aed223f3c0ad7e4ce3b
+SHA1: cef43a162338ef6001d56d4a4085a97e234d0340
+SHA256: 2da0aab5c140809c5d461a13a2c69029a1e4f8db9c56695c222648c37e04d9ea
 Section: Tweaks
 Description: Fix iOS's Weather & Stocks apps from iPhoneOS 2 to iOS 7, the widgets in the notification center, and the temperature in the iPad clock app!
 Author: Requis, Electimon
@@ -2398,11 +2398,11 @@ Version: 1.0-1+debug
 Architecture: iphoneos-arm
 Maintainer: tuanem
 Installed-Size: 1444
-Filename: ./com.tuanem.shshchecker_1.0-1+debug_iphoneos-arm.deb
-Size: 420726
-MD5sum: 407a423a7e2b003c3cb8426aec6bcd73
-SHA1: ef3b74e6686b13af31f0f02c9cb3b7d46270a217
-SHA256: 08ab6a5c119891fafff801d0d5400fc8464837311291fe0f86a20d2a6d3a27fe
+Filename: ./com.tuanem.shshchecker_1.0_iphoneos-arm.deb
+Size: 340310
+MD5sum: d893f5ffde5f8a14cbd3537d868f0e3b
+SHA1: e373d21046327e5ab5e7e07cad4fc05e246fc1a8
+SHA256: 6bbe1037e19f0ad951e7241617e549ffe4dc8bbb439d6c902d85c70d3e629d8a
 Section: System
 Description: check SHSH Blobs on Mterminal
 Tag: role::hacker
@@ -2414,11 +2414,11 @@ Version: 1.0-1+debug
 Architecture: iphoneos-arm
 Maintainer: tuanem
 Installed-Size: 1444
-Filename: ./com.tuanem.shshchecker_1.0_iphoneos-arm.deb
-Size: 340310
-MD5sum: d893f5ffde5f8a14cbd3537d868f0e3b
-SHA1: e373d21046327e5ab5e7e07cad4fc05e246fc1a8
-SHA256: 6bbe1037e19f0ad951e7241617e549ffe4dc8bbb439d6c902d85c70d3e629d8a
+Filename: ./com.tuanem.shshchecker_1.0-1+debug_iphoneos-arm.deb
+Size: 420726
+MD5sum: 407a423a7e2b003c3cb8426aec6bcd73
+SHA1: ef3b74e6686b13af31f0f02c9cb3b7d46270a217
+SHA256: 08ab6a5c119891fafff801d0d5400fc8464837311291fe0f86a20d2a6d3a27fe
 Section: System
 Description: check SHSH Blobs on Mterminal
 Tag: role::hacker
@@ -3575,20 +3575,6 @@ Name: Phoenix6
 Package: tomkids.soundwave
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Unknown
-Filename: ./codevn-com.soundwave.app_1.0.0-102+debug_iphoneos-arm_Deb.deb
-Size: 819398
-MD5sum: da4d2cee9adf95a7d7475ba9a6e14961
-SHA1: 665939129dfcf95d9365251aef4a3c5d366bba08
-SHA256: 222ac094feff2640f7f5ee83b09e1ef9d1d82945405226b47ac9efe42553777e
-Section: Applications
-Description: Converted from IPA
-Author: Unknown
-Name: Sound Cloud
-
-Package: tomkids.soundwave
-Version: 1.0
-Architecture: iphoneos-arm
 Maintainer: Build tweak by Tomkids
 Filename: ./tomkids.app.soundwave.deb
 Size: 1113068
@@ -3599,6 +3585,20 @@ Section: Applications
 Description: soundwave 1.0.0 for Low iOS
 Author: Build app to tweak by Tomkids
 Icon: http://tomkidss.github.io/cydia/icons/SoundWave.png
+
+Package: tomkids.soundwave
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./codevn-com.soundwave.app_1.0.0-102+debug_iphoneos-arm_Deb.deb
+Size: 819398
+MD5sum: da4d2cee9adf95a7d7475ba9a6e14961
+SHA1: 665939129dfcf95d9365251aef4a3c5d366bba08
+SHA256: 222ac094feff2640f7f5ee83b09e1ef9d1d82945405226b47ac9efe42553777e
+Section: Applications
+Description: Converted from IPA
+Author: Unknown
+Name: Sound Cloud
 
 Package: tomkids.tiktokfix
 Version: 2.0-2
@@ -4234,12 +4234,12 @@ Version: 5.0.3
 Architecture: iphoneos-arm
 Maintainer: Thieu.Bocap <support@gsm.vn>
 Depends: gsmicon, mobilesubstrate, preferenceloader
-Conflicts: jp.novi.FakeClockUp, com.hackyouriphone.fakeclockup, com.hackyouriphone.fakeclockupita, com.xsellize.fakeclockup, vn.gsm.fakeclockup
-Filename: ./SpeedIntensifier_5.0.3.deb
-Size: 8610
-MD5sum: 19ff53d3012170575be66d45738c49c6
-SHA1: 90358d95b1f6776fd897f360f6ac2e99bdeb074c
-SHA256: fda4579169c9509b268ec891a7c79237311db8f1ffed5b8fda8b24007a6ad008
+Conflicts: jp.novi.fakeclockup, com.hackyouriphone.fakeclockup, com.hackyouriphone.fakeclockupita, com.xsellize.fakeclockup, vn.gsm.fakeclockup
+Filename: ./tomkids.speedintensifier_5.0.3_iphoneos-arm.deb
+Size: 8598
+MD5sum: f59bb3febe49689bba796d44f9da25ac
+SHA1: c0c8b044ba894dc496a81e4838079f462b61f8f9
+SHA256: 035eac1464b959fcbac50bb2ad20ba46fab8a49baae15e5befbbd9561c65c829
 Section: !GSMVN-Tools
 Homepage: http://cydia.vn/
 Description: This tweak will speed up the animation transitions to make your device Look faster.
@@ -4254,12 +4254,12 @@ Version: 5.0.3
 Architecture: iphoneos-arm
 Maintainer: Thieu.Bocap <support@gsm.vn>
 Depends: gsmicon, mobilesubstrate, preferenceloader
-Conflicts: jp.novi.fakeclockup, com.hackyouriphone.fakeclockup, com.hackyouriphone.fakeclockupita, com.xsellize.fakeclockup, vn.gsm.fakeclockup
-Filename: ./tomkids.speedintensifier_5.0.3_iphoneos-arm.deb
-Size: 8598
-MD5sum: f59bb3febe49689bba796d44f9da25ac
-SHA1: c0c8b044ba894dc496a81e4838079f462b61f8f9
-SHA256: 035eac1464b959fcbac50bb2ad20ba46fab8a49baae15e5befbbd9561c65c829
+Conflicts: jp.novi.FakeClockUp, com.hackyouriphone.fakeclockup, com.hackyouriphone.fakeclockupita, com.xsellize.fakeclockup, vn.gsm.fakeclockup
+Filename: ./SpeedIntensifier_5.0.3.deb
+Size: 8610
+MD5sum: 19ff53d3012170575be66d45738c49c6
+SHA1: 90358d95b1f6776fd897f360f6ac2e99bdeb074c
+SHA256: fda4579169c9509b268ec891a7c79237311db8f1ffed5b8fda8b24007a6ad008
 Section: !GSMVN-Tools
 Homepage: http://cydia.vn/
 Description: This tweak will speed up the animation transitions to make your device Look faster.
