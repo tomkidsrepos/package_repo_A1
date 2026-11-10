@@ -2350,6 +2350,23 @@ Description: App Telegram
 Author: Converted ipa to deb by Tomkids's tool
 Name: Telegram
 
+Package: com.tomkids.youtube2.0fix
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Tomkids
+Depends: firmware (>= 5), mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 5.0), firmware (<< 11.0)
+Filename: ./tomkids.App.youtube2.0-tubereplacer2.0-fix.deb
+Size: 10578810
+MD5sum: 0b1b16baead8fd424c47eab121642040
+SHA1: e9cefe4a8a778218b38d88a0a62e489c6a67f181
+SHA256: a61a3ae078ff56059cf56a02d1e147463e2098f0cc663192e2b678a90c7e9271
+Section: Applications
+Description: Cai Youtube 2.0 chay nen
+ Cai Youtube 2.0 chay nen
+ Cai Youtube 2.0 chay nen
+Author: Tomkids
+Name: Youtube 2.0 & Tubereplacer 2.0 Fix
+
 Package: com.tomkids.youtubefix
 Version: 1.3.6
 Architecture: iphoneos-arm
@@ -4582,38 +4599,6 @@ Description: theme manager, used by most themes
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/winterboard/
 Name: WinterBoard
-
-Package: youtube2.0&tubereplacer2.0
-Version: 2.0
-Architecture: iphoneos-arm
-Maintainer: Tomkids
-Depends: firmware (>= 5), mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 5.0), firmware (<< 11.0)
-Filename: ./youtube2.0&tubereplacer2.0_2.0_iphoneos-arm.deb
-Size: 10578800
-MD5sum: d5bcb4e037db717f23b759ec06176a9a
-SHA1: 253005c39d81dad89ec5f1da78dbffb3b8f66c8c
-SHA256: 37e4d9ce69d2fab564a8f1530713bb003f394f559d6587ce1e2554bac20a0fa3
-Section: Applications
-Description: Cai Youtube 2.0 chay nen
- Cai Youtube 2.0 chay nen
-Author: Tomkids
-Name: Youtube 2.0 & Tubereplacer 2.0
-
-Package: youtube2.0&tubereplacer2.0
-Version: 2.0
-Architecture: iphoneos-arm
-Maintainer: Tomkids
-Depends: firmware (>= 5), mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 5.0), firmware (<< 11.0)
-Filename: ./tomkids.App.youtube2.0-tubereplacer2.0-fix.deb
-Size: 10578800
-MD5sum: d5bcb4e037db717f23b759ec06176a9a
-SHA1: 253005c39d81dad89ec5f1da78dbffb3b8f66c8c
-SHA256: 37e4d9ce69d2fab564a8f1530713bb003f394f559d6587ce1e2554bac20a0fa3
-Section: Applications
-Description: Cai Youtube 2.0 chay nen
- Cai Youtube 2.0 chay nen
-Author: Tomkids
-Name: Youtube 2.0 & Tubereplacer 2.0
 
 Package: zip
 Version: 2.32-6
