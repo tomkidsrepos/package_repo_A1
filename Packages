@@ -832,11 +832,11 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./com.arichardson.weepreferenceloader_1.1_iphoneos-arm.deb
-Size: 34562
-MD5sum: 1deaeb81dd1dcd9fe7f9521fa8be6524
-SHA1: 10b0ecae5a95031c1f7485e6e735ba64779fcf79
-SHA256: 4971aec5462de7fba3593fb18bf6091d9c40ef59e48d57725eedea95bb71cb7d
+Filename: ./tomkids.weepreferenceloader_1.1_iphoneos-arm.deb
+Size: 34568
+MD5sum: cef1b082bc028c22ae0eda383df0e491
+SHA1: f7e773071127ebc8910ca86b1f69b01301aa9f6e
+SHA256: 7ed9065b10acfd0d58c7ac01b69cd921639dc881f4b7087970d9f44ee455117a
 Section: Tweaks
 Priority: extra
 Homepage: http://modmyi.com/info/weepreferenceloader.php
@@ -851,11 +851,11 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./tomkids.weepreferenceloader_1.1_iphoneos-arm.deb
-Size: 34568
-MD5sum: cef1b082bc028c22ae0eda383df0e491
-SHA1: f7e773071127ebc8910ca86b1f69b01301aa9f6e
-SHA256: 7ed9065b10acfd0d58c7ac01b69cd921639dc881f4b7087970d9f44ee455117a
+Filename: ./com.arichardson.weepreferenceloader_1.1_iphoneos-arm.deb
+Size: 34562
+MD5sum: 1deaeb81dd1dcd9fe7f9521fa8be6524
+SHA1: 10b0ecae5a95031c1f7485e6e735ba64779fcf79
+SHA256: 4971aec5462de7fba3593fb18bf6091d9c40ef59e48d57725eedea95bb71cb7d
 Section: Tweaks
 Priority: extra
 Homepage: http://modmyi.com/info/weepreferenceloader.php
@@ -1461,11 +1461,11 @@ Version: 1.7.1
 Architecture: iphoneos-arm
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Depends: firmware (>= 5.0), mobilesubstrate, com.chpwn.weeloader, preferenceloader
-Filename: ./tomkids.ncsettings_1.7.1_iphoneos-arm.deb
-Size: 469848
-MD5sum: e165cb7653f3923836b609ef54f15330
-SHA1: e06127303117b9beabf6fe69304e20a56f3f534e
-SHA256: ff99ee1c9dc9f2df97b4b3fc3b095b8f7eff401916830129866b9ad564edbcc4
+Filename: ./com.jamied360.ncsettings_1.7.1_iphoneos-arm.deb
+Size: 469838
+MD5sum: 6f472f4cf6b12e1b19ef28ac0fd47d97
+SHA1: 566fe499d697a809bf3b05572ca0d72c7461a500
+SHA256: dd8f4d64ca86378fe8b98346216983d274b611aa81b3ce572677595f4147fd18
 Section: Addons (NotificationCenter)
 Priority: extra
 Homepage: http://modmyi.com/info/ncsettings.php
@@ -1480,11 +1480,11 @@ Version: 1.7.1
 Architecture: iphoneos-arm
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Depends: firmware (>= 5.0), mobilesubstrate, com.chpwn.weeloader, preferenceloader
-Filename: ./com.jamied360.ncsettings_1.7.1_iphoneos-arm.deb
-Size: 469838
-MD5sum: 6f472f4cf6b12e1b19ef28ac0fd47d97
-SHA1: 566fe499d697a809bf3b05572ca0d72c7461a500
-SHA256: dd8f4d64ca86378fe8b98346216983d274b611aa81b3ce572677595f4147fd18
+Filename: ./tomkids.ncsettings_1.7.1_iphoneos-arm.deb
+Size: 469848
+MD5sum: e165cb7653f3923836b609ef54f15330
+SHA1: e06127303117b9beabf6fe69304e20a56f3f534e
+SHA256: ff99ee1c9dc9f2df97b4b3fc3b095b8f7eff401916830129866b9ad564edbcc4
 Section: Addons (NotificationCenter)
 Priority: extra
 Homepage: http://modmyi.com/info/ncsettings.php
@@ -1771,7 +1771,7 @@ Version: 13454
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 4.3), uikittools, appsync
-Filename: ./com.ninjakiwi.bloonstd5-13454-iOS-4.3.deb
+Filename: ./com.ninjakiwi.bloonstd5-13454-iOS-4.3 (1).deb
 Size: 93077588
 MD5sum: 7172c13412fa10a55329fe8fb8ac65d2
 SHA1: b30d32a2bd5152b9ef3f1123279d3c6b051a4f99
@@ -1789,7 +1789,7 @@ Version: 13454
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 4.3), uikittools, appsync
-Filename: ./com.ninjakiwi.bloonstd5-13454-iOS-4.3 (1).deb
+Filename: ./com.ninjakiwi.bloonstd5-13454-iOS-4.3.deb
 Size: 93077588
 MD5sum: 7172c13412fa10a55329fe8fb8ac65d2
 SHA1: b30d32a2bd5152b9ef3f1123279d3c6b051a4f99
@@ -2412,7 +2412,7 @@ Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: Tomkids
 Depends: firmware (>= 5), mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 5.0), firmware (<< 11.0)
-Filename: ./tomkids.App.youtube2.0-tubereplacer2.0-fix.deb
+Filename: ./com.tomkids.youtube2.0fix_2.0_iphoneos-arm.deb
 Size: 10578810
 MD5sum: 0b1b16baead8fd424c47eab121642040
 SHA1: e9cefe4a8a778218b38d88a0a62e489c6a67f181
@@ -2429,7 +2429,7 @@ Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: Tomkids
 Depends: firmware (>= 5), mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 5.0), firmware (<< 11.0)
-Filename: ./com.tomkids.youtube2.0fix_2.0_iphoneos-arm.deb
+Filename: ./tomkids.App.youtube2.0-tubereplacer2.0-fix.deb
 Size: 10578810
 MD5sum: 0b1b16baead8fd424c47eab121642040
 SHA1: e9cefe4a8a778218b38d88a0a62e489c6a67f181
@@ -2522,11 +2522,11 @@ Version: 1.0-1+debug
 Architecture: iphoneos-arm
 Maintainer: tuanem
 Installed-Size: 1444
-Filename: ./com.tuanem.shshchecker_1.0-1+debug_iphoneos-arm.deb
-Size: 420726
-MD5sum: 407a423a7e2b003c3cb8426aec6bcd73
-SHA1: ef3b74e6686b13af31f0f02c9cb3b7d46270a217
-SHA256: 08ab6a5c119891fafff801d0d5400fc8464837311291fe0f86a20d2a6d3a27fe
+Filename: ./com.tuanem.shshchecker_1.0_iphoneos-arm.deb
+Size: 340310
+MD5sum: d893f5ffde5f8a14cbd3537d868f0e3b
+SHA1: e373d21046327e5ab5e7e07cad4fc05e246fc1a8
+SHA256: 6bbe1037e19f0ad951e7241617e549ffe4dc8bbb439d6c902d85c70d3e629d8a
 Section: System
 Description: check SHSH Blobs on Mterminal
 Tag: role::hacker
@@ -2538,11 +2538,11 @@ Version: 1.0-1+debug
 Architecture: iphoneos-arm
 Maintainer: tuanem
 Installed-Size: 1444
-Filename: ./com.tuanem.shshchecker_1.0_iphoneos-arm.deb
-Size: 340310
-MD5sum: d893f5ffde5f8a14cbd3537d868f0e3b
-SHA1: e373d21046327e5ab5e7e07cad4fc05e246fc1a8
-SHA256: 6bbe1037e19f0ad951e7241617e549ffe4dc8bbb439d6c902d85c70d3e629d8a
+Filename: ./com.tuanem.shshchecker_1.0-1+debug_iphoneos-arm.deb
+Size: 420726
+MD5sum: 407a423a7e2b003c3cb8426aec6bcd73
+SHA1: ef3b74e6686b13af31f0f02c9cb3b7d46270a217
+SHA256: 08ab6a5c119891fafff801d0d5400fc8464837311291fe0f86a20d2a6d3a27fe
 Section: System
 Description: check SHSH Blobs on Mterminal
 Tag: role::hacker
@@ -3064,11 +3064,11 @@ Depends: com.saurik.substrate.safemode
 Conflicts: me.devbug.msreloadfix, com.r3pwn.startsubstrate, com.ragemasta.bootstrap
 Breaks: uikittools (<< 1.1.1), com.mywi4 (<= 5.03.2), com.phoenix.pandoracontrols (<= 1.1.0-1), com.intelliborn.intelliscreenx (<= 1.0.110), com.evad3rs.evasi0n7 (<< 0.2)
 Replaces: cycript (<= 0.9.594)
-Filename: ./mobilesubstrate_0.9.6301_iphoneos-arm.deb
-Size: 382844
-MD5sum: c36a7004897a60ef1e0e37f40a8b93f9
-SHA1: eae5a63f55e0f91504340aa8a20d0b16b09c315d
-SHA256: 489ef2042bee48806d88bc977abfb2ad0d50be4620fd450d8b7dd76aa3611d5f
+Filename: ./tomkids.mobilesubstrate_0.9.6301_iphoneos-arm.deb
+Size: 382884
+MD5sum: 7a56f8602e63fc77449d0fdb6b6579c0
+SHA1: 76f49e0d3a601e1c23310412014669284db93359
+SHA256: e6adeb10715fa0bfa8130a24d06de55d0efaaf08afb45c8279b7e19e816d0f57
 Section: System
 Priority: optional
 Description: powerful code insertion platform
@@ -3085,11 +3085,11 @@ Depends: com.saurik.substrate.safemode
 Conflicts: me.devbug.msreloadfix, com.r3pwn.startsubstrate, com.ragemasta.bootstrap
 Breaks: uikittools (<< 1.1.1), com.mywi4 (<= 5.03.2), com.phoenix.pandoracontrols (<= 1.1.0-1), com.intelliborn.intelliscreenx (<= 1.0.110), com.evad3rs.evasi0n7 (<< 0.2)
 Replaces: cycript (<= 0.9.594)
-Filename: ./tomkids.mobilesubstrate_0.9.6301_iphoneos-arm.deb
-Size: 382884
-MD5sum: 7a56f8602e63fc77449d0fdb6b6579c0
-SHA1: 76f49e0d3a601e1c23310412014669284db93359
-SHA256: e6adeb10715fa0bfa8130a24d06de55d0efaaf08afb45c8279b7e19e816d0f57
+Filename: ./mobilesubstrate_0.9.6301_iphoneos-arm.deb
+Size: 382844
+MD5sum: c36a7004897a60ef1e0e37f40a8b93f9
+SHA1: eae5a63f55e0f91504340aa8a20d0b16b09c315d
+SHA256: 489ef2042bee48806d88bc977abfb2ad0d50be4620fd450d8b7dd76aa3611d5f
 Section: System
 Priority: optional
 Description: powerful code insertion platform
@@ -3699,20 +3699,6 @@ Name: Phoenix6
 Package: tomkids.soundwave
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Unknown
-Filename: ./codevn-com.soundwave.app_1.0.0-102+debug_iphoneos-arm_Deb.deb
-Size: 819398
-MD5sum: da4d2cee9adf95a7d7475ba9a6e14961
-SHA1: 665939129dfcf95d9365251aef4a3c5d366bba08
-SHA256: 222ac094feff2640f7f5ee83b09e1ef9d1d82945405226b47ac9efe42553777e
-Section: Applications
-Description: Converted from IPA
-Author: Unknown
-Name: Sound Cloud
-
-Package: tomkids.soundwave
-Version: 1.0
-Architecture: iphoneos-arm
 Maintainer: Build tweak by Tomkids
 Filename: ./tomkids.app.soundwave.deb
 Size: 1113068
@@ -3723,6 +3709,20 @@ Section: Applications
 Description: soundwave 1.0.0 for Low iOS
 Author: Build app to tweak by Tomkids
 Icon: http://tomkidss.github.io/cydia/icons/SoundWave.png
+
+Package: tomkids.soundwave
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./codevn-com.soundwave.app_1.0.0-102+debug_iphoneos-arm_Deb.deb
+Size: 819398
+MD5sum: da4d2cee9adf95a7d7475ba9a6e14961
+SHA1: 665939129dfcf95d9365251aef4a3c5d366bba08
+SHA256: 222ac094feff2640f7f5ee83b09e1ef9d1d82945405226b47ac9efe42553777e
+Section: Applications
+Description: Converted from IPA
+Author: Unknown
+Name: Sound Cloud
 
 Package: tomkids.tiktokfix
 Version: 2.0-2
@@ -4358,12 +4358,12 @@ Version: 5.0.3
 Architecture: iphoneos-arm
 Maintainer: Thieu.Bocap <support@gsm.vn>
 Depends: gsmicon, mobilesubstrate, preferenceloader
-Conflicts: jp.novi.FakeClockUp, com.hackyouriphone.fakeclockup, com.hackyouriphone.fakeclockupita, com.xsellize.fakeclockup, vn.gsm.fakeclockup
-Filename: ./SpeedIntensifier_5.0.3.deb
-Size: 8610
-MD5sum: 19ff53d3012170575be66d45738c49c6
-SHA1: 90358d95b1f6776fd897f360f6ac2e99bdeb074c
-SHA256: fda4579169c9509b268ec891a7c79237311db8f1ffed5b8fda8b24007a6ad008
+Conflicts: jp.novi.fakeclockup, com.hackyouriphone.fakeclockup, com.hackyouriphone.fakeclockupita, com.xsellize.fakeclockup, vn.gsm.fakeclockup
+Filename: ./tomkids.speedintensifier_5.0.3_iphoneos-arm.deb
+Size: 8598
+MD5sum: f59bb3febe49689bba796d44f9da25ac
+SHA1: c0c8b044ba894dc496a81e4838079f462b61f8f9
+SHA256: 035eac1464b959fcbac50bb2ad20ba46fab8a49baae15e5befbbd9561c65c829
 Section: !GSMVN-Tools
 Homepage: http://cydia.vn/
 Description: This tweak will speed up the animation transitions to make your device Look faster.
@@ -4378,12 +4378,12 @@ Version: 5.0.3
 Architecture: iphoneos-arm
 Maintainer: Thieu.Bocap <support@gsm.vn>
 Depends: gsmicon, mobilesubstrate, preferenceloader
-Conflicts: jp.novi.fakeclockup, com.hackyouriphone.fakeclockup, com.hackyouriphone.fakeclockupita, com.xsellize.fakeclockup, vn.gsm.fakeclockup
-Filename: ./tomkids.speedintensifier_5.0.3_iphoneos-arm.deb
-Size: 8598
-MD5sum: f59bb3febe49689bba796d44f9da25ac
-SHA1: c0c8b044ba894dc496a81e4838079f462b61f8f9
-SHA256: 035eac1464b959fcbac50bb2ad20ba46fab8a49baae15e5befbbd9561c65c829
+Conflicts: jp.novi.FakeClockUp, com.hackyouriphone.fakeclockup, com.hackyouriphone.fakeclockupita, com.xsellize.fakeclockup, vn.gsm.fakeclockup
+Filename: ./SpeedIntensifier_5.0.3.deb
+Size: 8610
+MD5sum: 19ff53d3012170575be66d45738c49c6
+SHA1: 90358d95b1f6776fd897f360f6ac2e99bdeb074c
+SHA256: fda4579169c9509b268ec891a7c79237311db8f1ffed5b8fda8b24007a6ad008
 Section: !GSMVN-Tools
 Homepage: http://cydia.vn/
 Description: This tweak will speed up the animation transitions to make your device Look faster.
