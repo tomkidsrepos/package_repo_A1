@@ -3374,6 +3374,23 @@ Icon: https://tomkidsrepo.cloud/CydiaIcon.png?v=2
 Name: Troubadour v1.3 (iOS 5.1)
 Sponsor: Tomkids
 
+Package: ru.computershik.venetium
+Version: 150.7871.222.1
+Architecture: iphoneos-arm
+Maintainer: computershik
+Installed-Size: 144080
+Depends: firmware (>= 5.0), firmware (<< 11.0)
+Filename: ./ru.computershik.venetium_150.7871.222.1_iphoneos-arm.deb
+Size: 52480064
+MD5sum: 317d2f56ff42de3e6de70a6a0cce7b71
+SHA1: 09a84c8c5a649f704cd80b99f8f572f0daafeb48
+SHA256: 7b7881b5b7f1ad1c8cab77af27fe90e79a7f764b260a1848fa45f89dadc7b310
+Section: Networking
+Homepage: https://github.com/Computershik73/Venetium-iOS
+Description: Браузер на Chromium 150 (Blink и V8 с JIT) для iOS 5–10 с джейлбрейком: интерфейс Chrome для Android, блокировка рекламы, 30 языков
+Author: computershik
+Name: Venetium
+
 Package: sbsettings
 Version: 6.0.5-1
 Architecture: iphoneos-arm
