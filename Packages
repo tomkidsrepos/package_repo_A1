@@ -832,11 +832,11 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./tomkids.weepreferenceloader_1.1_iphoneos-arm.deb
-Size: 34568
-MD5sum: cef1b082bc028c22ae0eda383df0e491
-SHA1: f7e773071127ebc8910ca86b1f69b01301aa9f6e
-SHA256: 7ed9065b10acfd0d58c7ac01b69cd921639dc881f4b7087970d9f44ee455117a
+Filename: ./com.arichardson.weepreferenceloader_1.1_iphoneos-arm.deb
+Size: 34562
+MD5sum: 1deaeb81dd1dcd9fe7f9521fa8be6524
+SHA1: 10b0ecae5a95031c1f7485e6e735ba64779fcf79
+SHA256: 4971aec5462de7fba3593fb18bf6091d9c40ef59e48d57725eedea95bb71cb7d
 Section: Tweaks
 Priority: extra
 Homepage: http://modmyi.com/info/weepreferenceloader.php
@@ -851,11 +851,11 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./com.arichardson.weepreferenceloader_1.1_iphoneos-arm.deb
-Size: 34562
-MD5sum: 1deaeb81dd1dcd9fe7f9521fa8be6524
-SHA1: 10b0ecae5a95031c1f7485e6e735ba64779fcf79
-SHA256: 4971aec5462de7fba3593fb18bf6091d9c40ef59e48d57725eedea95bb71cb7d
+Filename: ./tomkids.weepreferenceloader_1.1_iphoneos-arm.deb
+Size: 34568
+MD5sum: cef1b082bc028c22ae0eda383df0e491
+SHA1: f7e773071127ebc8910ca86b1f69b01301aa9f6e
+SHA256: 7ed9065b10acfd0d58c7ac01b69cd921639dc881f4b7087970d9f44ee455117a
 Section: Tweaks
 Priority: extra
 Homepage: http://modmyi.com/info/weepreferenceloader.php
@@ -1499,7 +1499,7 @@ Version: 2.0.4
 Architecture: iphoneos-arm
 Maintainer: KJCracks <unknown@unknown.com>
 Depends: firmware (>= 6.0), firmware (<= 10.3.4)
-Filename: ./com.kjcracks.clutch_2.0.4_iphoneos-arm.deb
+Filename: ./tomkids.clutch_2.0.4_iphoneos-arm.deb
 Size: 457648
 MD5sum: f87af3b9bb9d7c69c5a5b6290697a9b3
 SHA1: ec6feae66de70bd39a1bbedea50b13dce5520720
@@ -1514,7 +1514,7 @@ Version: 2.0.4
 Architecture: iphoneos-arm
 Maintainer: KJCracks <unknown@unknown.com>
 Depends: firmware (>= 6.0), firmware (<= 10.3.4)
-Filename: ./tomkids.clutch_2.0.4_iphoneos-arm.deb
+Filename: ./com.kjcracks.clutch_2.0.4_iphoneos-arm.deb
 Size: 457648
 MD5sum: f87af3b9bb9d7c69c5a5b6290697a9b3
 SHA1: ec6feae66de70bd39a1bbedea50b13dce5520720
@@ -1771,7 +1771,7 @@ Version: 13454
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 4.3), uikittools, appsync
-Filename: ./com.ninjakiwi.bloonstd5-13454-iOS-4.3 (1).deb
+Filename: ./com.ninjakiwi.bloonstd5-13454-iOS-4.3.deb
 Size: 93077588
 MD5sum: 7172c13412fa10a55329fe8fb8ac65d2
 SHA1: b30d32a2bd5152b9ef3f1123279d3c6b051a4f99
@@ -1789,7 +1789,7 @@ Version: 13454
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 4.3), uikittools, appsync
-Filename: ./com.ninjakiwi.bloonstd5-13454-iOS-4.3.deb
+Filename: ./com.ninjakiwi.bloonstd5-13454-iOS-4.3 (1).deb
 Size: 93077588
 MD5sum: 7172c13412fa10a55329fe8fb8ac65d2
 SHA1: b30d32a2bd5152b9ef3f1123279d3c6b051a4f99
@@ -2412,7 +2412,7 @@ Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: Tomkids
 Depends: firmware (>= 5), mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 5.0), firmware (<< 11.0)
-Filename: ./com.tomkids.youtube2.0fix_2.0_iphoneos-arm.deb
+Filename: ./tomkids.App.youtube2.0-tubereplacer2.0-fix.deb
 Size: 10578810
 MD5sum: 0b1b16baead8fd424c47eab121642040
 SHA1: e9cefe4a8a778218b38d88a0a62e489c6a67f181
@@ -2429,7 +2429,7 @@ Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: Tomkids
 Depends: firmware (>= 5), mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 5.0), firmware (<< 11.0)
-Filename: ./tomkids.App.youtube2.0-tubereplacer2.0-fix.deb
+Filename: ./com.tomkids.youtube2.0fix_2.0_iphoneos-arm.deb
 Size: 10578810
 MD5sum: 0b1b16baead8fd424c47eab121642040
 SHA1: e9cefe4a8a778218b38d88a0a62e489c6a67f181
@@ -3064,11 +3064,11 @@ Depends: com.saurik.substrate.safemode
 Conflicts: me.devbug.msreloadfix, com.r3pwn.startsubstrate, com.ragemasta.bootstrap
 Breaks: uikittools (<< 1.1.1), com.mywi4 (<= 5.03.2), com.phoenix.pandoracontrols (<= 1.1.0-1), com.intelliborn.intelliscreenx (<= 1.0.110), com.evad3rs.evasi0n7 (<< 0.2)
 Replaces: cycript (<= 0.9.594)
-Filename: ./tomkids.mobilesubstrate_0.9.6301_iphoneos-arm.deb
-Size: 382884
-MD5sum: 7a56f8602e63fc77449d0fdb6b6579c0
-SHA1: 76f49e0d3a601e1c23310412014669284db93359
-SHA256: e6adeb10715fa0bfa8130a24d06de55d0efaaf08afb45c8279b7e19e816d0f57
+Filename: ./mobilesubstrate_0.9.6301_iphoneos-arm.deb
+Size: 382844
+MD5sum: c36a7004897a60ef1e0e37f40a8b93f9
+SHA1: eae5a63f55e0f91504340aa8a20d0b16b09c315d
+SHA256: 489ef2042bee48806d88bc977abfb2ad0d50be4620fd450d8b7dd76aa3611d5f
 Section: System
 Priority: optional
 Description: powerful code insertion platform
@@ -3085,11 +3085,11 @@ Depends: com.saurik.substrate.safemode
 Conflicts: me.devbug.msreloadfix, com.r3pwn.startsubstrate, com.ragemasta.bootstrap
 Breaks: uikittools (<< 1.1.1), com.mywi4 (<= 5.03.2), com.phoenix.pandoracontrols (<= 1.1.0-1), com.intelliborn.intelliscreenx (<= 1.0.110), com.evad3rs.evasi0n7 (<< 0.2)
 Replaces: cycript (<= 0.9.594)
-Filename: ./mobilesubstrate_0.9.6301_iphoneos-arm.deb
-Size: 382844
-MD5sum: c36a7004897a60ef1e0e37f40a8b93f9
-SHA1: eae5a63f55e0f91504340aa8a20d0b16b09c315d
-SHA256: 489ef2042bee48806d88bc977abfb2ad0d50be4620fd450d8b7dd76aa3611d5f
+Filename: ./tomkids.mobilesubstrate_0.9.6301_iphoneos-arm.deb
+Size: 382884
+MD5sum: 7a56f8602e63fc77449d0fdb6b6579c0
+SHA1: 76f49e0d3a601e1c23310412014669284db93359
+SHA256: e6adeb10715fa0bfa8130a24d06de55d0efaaf08afb45c8279b7e19e816d0f57
 Section: System
 Priority: optional
 Description: powerful code insertion platform
