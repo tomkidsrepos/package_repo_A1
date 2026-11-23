@@ -3869,6 +3869,25 @@ Depiction: https://github.com/tomkidss/cydia
 Name: BáoMới v240117.2200.01 (iOS 6.0)
 Sponsor: Admin <admin@localhost>
 
+Package: vn.conbangtv.legacy
+Version: 0.6.1
+Architecture: iphoneos-arm
+Maintainer: Côn Bằng TV Legacy
+Installed-Size: 12476
+Depends: firmware (>= 5.0), uikittools
+Filename: ./vn.conbangtv.legacy_0.6.1_iphoneos-arm.deb
+Size: 6423668
+MD5sum: 443a5ce8205ae7cab919a0f5608ec8cd
+SHA1: 0134e82f34cd99f1d9b3b16977b38c3fd1ef954e
+SHA256: d6ea989c46d3835fca0060a7723d74c833a356e12c557fc93761b63a30e154de
+Section: Multimedia
+Homepage: https://conbangtvlegacy.github.io/
+Description: Xem phim tu nhieu trang phim, gom ve mot trang chu - Con Bang TV cho iPhone / iPad iOS 5 / iOS 6. Tu cap nhat, dong bo voi tivi.
+Author: Côn Bằng TV Legacy
+Depiction: https://conbangtvlegacy.github.io/repo/depiction.html
+Icon: file:///Applications/ConBangTV.app/Icon@2x.png
+Name: Côn Bằng TV Legacy
+
 Package: vn.dinhle.tweaks.saybye
 Version: 2.0.0-1+debug
 Architecture: iphoneos-arm
