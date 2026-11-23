@@ -2599,6 +2599,40 @@ Depiction: https://github.com/tomkidss/cydia
 Name: UC Browser v10.6.1.760 (iOS 6.0)
 Sponsor: Admin <admin@localhost>
 
+Package: com.user.homebarx
+Version: 1.7
+Architecture: iphoneos-arm
+Maintainer: Boom
+Installed-Size: 276
+Depends: mobilesubstrate, firmware (>= 6.0)
+Suggests: preferenceloader
+Filename: ./com.user.homebarx_1.7_iphoneos-arm.deb
+Size: 102716
+MD5sum: 01450f1e82234e6f06fffbcb8ecf3d39
+SHA1: 97429444ce14baa97ea8cc9ab402660b04cd8814
+SHA256: ad8c136e47971306fdf85ce24d2d353b673d259ceec3bb5e6d1123130a5c67ae
+Section: Tweaks
+Description: iPhone X style home bar, gestures and top bar for iOS 10
+Author: Boom
+Name: HomeBarX
+
+Package: com.user.homebarx6
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Tomkids
+Installed-Size: 156
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0)
+Suggests: preferenceloader
+Filename: ./com.user.homebarx6_1.0_iphoneos-arm.deb
+Size: 57588
+MD5sum: af709e59b8fe85a3e33a6ed7988df996
+SHA1: ca9c51f7b2a9cddaa28b368561a0b74101b78302
+SHA256: 1fb9e4d01c9d7d50eea4f006effcb76fbbf19585ab07732ba0293a49dd1d78dd
+Section: Tweaks
+Description: Thanh HomeBar va cu chi iPhone X chuyen dung cho iOS 6 (A4/A5/A6). Da duoc toi uu 32-bit (armv7), ho tro SBAwayController va SpringBoard iOS 6.
+Author: Tomkids
+Name: HomeBarX (iOS 6 Edition)
+
 Package: com.victorlobe.appstorefix
 Version: 1.0.2
 Architecture: iphoneos-arm
