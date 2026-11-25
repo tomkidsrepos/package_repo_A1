@@ -931,6 +931,22 @@ Dev: blackcrafter
 Name: SlideMyName
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.bun.tubepro
+Version: 1.17.7
+Architecture: iphoneos-arm
+Maintainer: Bun
+Installed-Size: 4056
+Filename: ./com.bun.tubepro_1.17.7_iphoneos-arm.deb
+Size: 2967998
+MD5sum: 9e5a2d9ef97a8d3ec9f8ea5e124ea6c1
+SHA1: 53916c9e7e712a9d1821e09f927787e7bc34807b
+SHA256: 8f1b4a97cef6522272003009aab3a3bc0ef81a5313b952200e2f6fa530c42043
+Description: YouTube cho iPhone/iPad cu (iOS 5 tro len) — xem 1080p, mini player, PiP, phat nen, hen gio tat, 10 ngon ngu. 1.17.7: video ghim co dinh phia tren khi luot binh luan, thanh phat khong con troi giua man hinh.
+Depiction: https://twosix11d.github.io/turboasi4n/depiction.html
+Icon: https://twosix11d.github.io/turboasi4n/CydiaIcon.png
+Name: TurboTV
+Sileodepiction: https://twosix11d.github.io/turboasi4n/depiction.json
+
 Package: com.burbn.instagram
 Version: 361522
 Architecture: iphoneos-arm
