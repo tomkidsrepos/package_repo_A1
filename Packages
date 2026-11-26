@@ -2961,6 +2961,25 @@ Author: Victor <contact@victorlobe.me>
 Depiction: http://repo.victorlobe.me/depictions/depiction.html?id=com.victorlobe.appstorefix
 Name: AppStoreFix
 
+Package: com.victorlobe.appstorefix
+Version: 3.1.2
+Architecture: iphoneos-arm
+Maintainer: Victor <contact@victorlobe.me>
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.skyglow.itunesstorex, net.nekokawa.appstorefix
+Filename: ./com.victorlobe.appstorefix_3.1.2_iphoneos-arm.deb
+Size: 115162
+MD5sum: 9c700d58e836efb169679b8dbe14368a
+SHA1: c5f95eb0a71a93b7a74181382f4938270dee8a59
+SHA256: 64925b53513cb79eeadb15d7f99fb34b848aa54affb321bf9409067425ea3676
+Section: Tweaks
+Description: Fixes the App Store, iTunes Store, iBooks and Podcasts on iOS 3,5 and 6!
+Author: Victor <contact@victorlobe.me>
+Depiction: http://repo.victorlobe.me/depictions/depiction.html?id=com.victorlobe.appstorefix
+Icon: file:///Library/Application%20Support/com.victorlobe.appstorefix/icon.png
+Name: AppStoreFix
+
 Package: com.victorlobe.googlefix
 Version: 1.0.2
 Architecture: iphoneos-arm
@@ -2977,6 +2996,61 @@ Description: Fixes Google on iOS 6
 Author: Victor
 Depiction: http://repo.victorlobe.me/depictions/depiction.html?id=com.victorlobe.googlefix
 Name: GoogleFix
+
+Package: com.victorlobe.googlefix
+Version: 2.0.1
+Architecture: iphoneos-arm
+Maintainer: Victor
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./com.victorlobe.googlefix_2.0.1_iphoneos-arm.deb
+Size: 138216
+MD5sum: 229b99b0f7176c2b44ce87640a9371b3
+SHA1: 068e0ff076c7752039e732f35bfce2c7411c3521
+SHA256: 3015c360234f31dd698eebf52a66f0df5d23951c925a266e6fd2376fc467f3c4
+Section: Tweaks
+Description: Fixes Google on iOS 6
+Author: Victor
+Depiction: http://repo.victorlobe.me/depictions/depiction.html?id=com.victorlobe.googlefix
+Icon: file:///Library/Application%20Support/com.victorlobe.googlefix/icon.png
+Name: GoogleFix
+
+Package: com.victorlobe.icloudmailfix
+Version: 2.0.3
+Architecture: iphoneos-arm
+Maintainer: Victor <contact@victorlobe.me>
+Installed-Size: 1884
+Depends: mobilesubstrate, preferenceloader, firmware (>= 6.0)
+Filename: ./com.victorlobe.icloudmailfix_2.0.3_iphoneos-arm.deb
+Size: 906168
+MD5sum: 47d2a688283f4c3d72e6583d06a55ac8
+SHA1: a8401c849ca53347f987f50efc3defd1801bdb57
+SHA256: ab0e738c886bf3f508519b3bbd76ba039496f5be1cb17903eb82f1176a11859a
+Section: Tweaks
+Priority: optional
+Description: Fix iCloud Mail and Notes!
+Author: Victor <contact@victorlobe.me>
+Compatibility: iOS 6.0+
+Depiction: http://repo.victorlobe.me/depictions/depiction.html?id=com.victorlobe.icloudmailfix
+Icon: file:///Library/Application%20Support/com.victorlobe.icloudmailfix/icon.png
+Name: iCloudMailFix
+
+Package: com.victorlobe.safarioldreddit
+Version: 1.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Victor
+Installed-Size: 44
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.victorlobe.safarioldreddit_1.0.1-1+debug_iphoneos-arm.deb
+Size: 4808
+MD5sum: 835a3c3504a66a3298d503675769ec02
+SHA1: 7fbaf38b781f7cdd0d1757c1065be5b40eb6fe15
+SHA256: 15a6ad8ae9150333b508565c1c379474d06ae650731cc1b0696a87f6601dc80c
+Section: Tweaks
+Description: Redirects all Reddit URLs to old.reddit.com. Currently works on iOS 6.0 and upwards. Later versions will support older iOS Versions since I need to find the SDKs.
+Author: Victor
+Depiction: http://repo.victorlobe.me/depictions/depiction.html?id=com.victorlobe.safarioldreddit
+Name: SafariOldReddit
 
 Package: com.void.themeready
 Version: 0.9.1-59
