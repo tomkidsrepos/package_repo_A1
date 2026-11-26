@@ -1041,6 +1041,24 @@ Dev: joejordan
 Name: WeeLoader
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.cleanroom.colorkeyboard
+Version: 1.1.9
+Architecture: iphoneos-arm
+Maintainer: CleanRoom
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), preferenceloader
+Conflicts: net.9eye.colorkeyboard
+Replaces: net.9eye.colorkeyboard
+Provides: net.9eye.colorkeyboard
+Filename: ./com.cleanroom.colorkeyboard_1.1.9_iphoneos-arm.deb
+Size: 129814
+MD5sum: 6ab90aae1a522e550c01095b2ee12e6c
+SHA1: 22c83994f2a0a5dde094f02fc8cb31425be7f270
+SHA256: c63605fd021802cc29ccfb47119067aebfeb0b3baf76b48fb9bdd4a59c4b349e
+Section: Tweaks
+Description: Clean-room iOS 6 keyboard theming engine compatible with classic ColorKeyboard.plist themes (CustomColor, CustomLinearGradient, BackgroundImages, BackgroundGradients, Styles, Popups, Backgrounds, and Plugins).
+Author: CleanRoom
+Name: ColorKeyboard (iOS 6 Clean Room)
+
 Package: com.coolbooter.cbuntether
 Version: 1.0-release
 Architecture: iphoneos-arm
@@ -1322,6 +1340,29 @@ Author: dopaemon <polarisdp@gmail.com>
 Depiction: https://github.com/CydiaBlock/AppStore
 Name: MyTetris-Lite v121 (iOS 5.0)
 Sponsor: dopaemon <polarisdp@gmail.com>
+
+Package: com.ia.iconbounce
+Version: 3.0.0-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 433
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 5.0), preferenceloader
+Filename: ./com.ia.iconbounce_3.0.0-1_iphoneos-arm.deb
+Size: 126034
+MD5sum: 0284bc828dd29c9b70a192082f135c57
+SHA1: db750cfc801ae5963fac666220662748341aa5a9
+SHA256: 80d59cee264a584ce6ac962e8be971cfdb237d7ee84551f92772c802df09847f
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iconbounceDp
+Description: dock icons randomly bounce & animate
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Author: Evan Lucas <evanlucas@me.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iconbounceDp
+Dev: evanlucas
+Icon: file:///Library/PreferenceBundles/IconBouncePreferences.bundle/Icon@2x.png
+Name: IconBounce
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.ihacksrepo.reposetupfiles
 Version: 2.0
@@ -2088,6 +2129,209 @@ Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
 Support: http://support.rockyourphone.com
 Versionssupported: 2.01,2.1,2.2,2.21
 
+Package: com.samcejko.artlight
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: samcejko
+Installed-Size: 1752
+Depends: firmware (>= 6.0), firmware (<< 7.0)
+Filename: ./com.samcejko.artlight_0.1.0_iphoneos-arm.deb
+Size: 1099522
+MD5sum: 5cbc5998995f14167cb8ca61f13bb6a8
+SHA1: f0b2e0b3cd0e66a43ccc2fe46ddeaa2b017114ae
+SHA256: 5f515f4453776e158036afda8db778a43fb6085b8c98b4e1b5e9594c8a45c970
+Section: Games
+Description: Game streaming from your own PC for iOS 6 (universal): plays games from Sunshine and Apollo hosts (the protocol of Moonlight and Artemis), PIN and one-time-PIN pairing, app list with box art, hardware H.264 decoding, touch gamepad, mouse and keyboard
+Author: samcejko
+Name: Artlight
+
+Package: com.samcejko.browser
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: samcejko
+Installed-Size: 6240
+Depends: firmware (>= 6.0), firmware (<< 7.0)
+Filename: ./com.samcejko.browser_1.2.2_iphoneos-arm.deb
+Size: 2491336
+MD5sum: 429ff7e9188421eb3fe018411821a892
+SHA1: 1432381149dd665615bf898b512a2ffdc0b2c9de
+SHA256: 167f750bc0bc93701c9157c400955acd526fd730aa9d89827de0619e4d36166c
+Section: Networking
+Homepage: https://github.com/samcejko/surfari
+Description: A modern-web browser for jailbroken iOS 6
+ Surfari opens today's websites on iOS 6 devices. It brings its own TLS 1.2
+ connections with current root certificates, rewrites modern CSS and
+ JavaScript for the iOS 6 engine, and adds ad blocking, a reader view, saved
+ passwords and private browsing. Made for iOS 6.x on armv7 devices (tested on
+ an iPad 2 with iOS 6.1.2). The page engine is iOS 6's own WebKit, which gets
+ no security updates: read the security notice in the README.
+Author: samcejko
+Icon: file:///Applications/Surfari.app/Icon.png
+Name: Surfari
+
+Package: com.samcejko.chirpie
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: samcejko
+Installed-Size: 1448
+Depends: firmware (>= 6.0), firmware (<< 7.0)
+Filename: ./com.samcejko.chirpie_0.1.0_iphoneos-arm.deb
+Size: 796396
+MD5sum: a4f9490ec5663fdab9a5f93cd257b2ec
+SHA1: 098979d70b8b0e390b4abbd819f1e4bb776cadd9
+SHA256: 1646fe8a625ab658aaf5065fda77ab5571dc78b5eac872d6bfe601e42fcda0b7
+Section: Social
+Description: Unofficial X / Twitter reader for iOS 6 (universal), in English and Czech: your home timeline (For You and Following), tweet threads, profiles with tweets, replies, media and likes, search (Top, Latest, People), trends, photos and videos, and bookmarks kept on the device. Needs its helper on your own server.
+Author: samcejko
+Name: Chirpie
+
+Package: com.samcejko.cityvod
+Version: 0.1.4
+Architecture: iphoneos-arm
+Maintainer: samcejko
+Installed-Size: 1728
+Depends: firmware (>= 6.0), firmware (<< 7.0)
+Filename: ./com.samcejko.cityvod_0.1.4_iphoneos-arm.deb
+Size: 1003646
+MD5sum: b89ce88b82823f1935504799a581ea98
+SHA1: c7a2552139c87cdfd93e17dd68eca9552e55f906
+SHA256: 3a5f72bcada7a28a47083111c56baffbfd2fc591041410f70aeaa8add959ced4
+Section: Multimedia
+Description: Unofficial South Park Studios client for iOS 6 (universal): episodes, clips and subtitles
+Author: samcejko
+Name: City VOD
+
+Package: com.samcejko.kostka
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: samcejko
+Installed-Size: 86416
+Depends: firmware (>= 6.0), firmware (<< 7.0)
+Filename: ./com.samcejko.kostka_0.0.4_iphoneos-arm.deb
+Size: 32248922
+MD5sum: bd403b922c9a768696c00ab249a0f0b6
+SHA1: 6efb0b1b42f712f93d9ebfb86f1c20bd84c173a0
+SHA256: 6f398f477c5f27f32daea82fb433dda522737e44762302869483926beb02ef5a
+Section: Games
+Description: Launcher of Minecraft: Java Edition for iOS 6 (the game's own files from Mojang, run by a Java VM ported to 32-bit iOS). Unofficial, not affiliated with Mojang or Microsoft.
+Author: samcejko
+Name: MC6
+
+Package: com.samcejko.muzika
+Version: 0.1.4
+Architecture: iphoneos-arm
+Maintainer: samcejko
+Installed-Size: 1888
+Depends: firmware (>= 5.0), firmware (<< 11.0)
+Filename: ./com.samcejko.muzika_0.1.4_iphoneos-arm.deb
+Size: 1119926
+MD5sum: 0d35e7f3695a9661efb60b69db749388
+SHA1: 68ee30a5992a0a1b27f4bcdc6f89bfbac7634c18
+SHA256: 07ab9e6e488ee30d09055fa7f1713db34fd8e8e4038eff816b85e8b13e87de51
+Section: Multimedia
+Description: Unofficial YouTube Music client for iOS 6 (universal), in English and Czech, that plays your Apple Music library too: Home, Explore, moods and charts, Apple Music charts, search, albums, artists, playlists, song radio, synced lyrics, downloads to play offline, your own playlists, Spotify and YouTube playlist import, crossfade, sleep timer, data saver, an editable queue kept between launches, the lock screen controls. No account needed for YouTube Music.
+Author: samcejko
+Name: Muzika
+
+Package: com.samcejko.nasa
+Version: 3.12-1
+Architecture: iphoneos-arm
+Maintainer: samcejko <samuelkouba07@gmail.com>
+Depends: firmware (>= 5.0), firmware (<< 11.0)
+Filename: ./com.samcejko.nasa_3.12-1_iphoneos-arm.deb
+Size: 8740334
+MD5sum: 62a15b9ce7061dbf0e4bc0361880c075
+SHA1: bcb8e181dcdacdb348ac06c4b49f7d3592129014
+SHA256: 1014bc7e7936c49cba63a0d1d62519ce262314e3dd2ba2f55f6677cc26d03abb
+Section: Education
+Priority: optional
+Homepage: https://github.com/samcejko/nasa-ios6
+Description: The official NASA app of 2013 (3.12), revived: missions, images, videos, news, NASA TV and Third Rock Radio through a proxy
+Tag: purpose::uikit
+Author: NASA Ames Research Center; revived by samcejko
+Name: NASA
+
+Package: com.samcejko.revine
+Version: 0.3.0
+Architecture: iphoneos-arm
+Maintainer: samcejko
+Installed-Size: 916
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 11.0)
+Conflicts: bag.xml.vineredirect
+Filename: ./com.samcejko.revine_0.3.0_iphoneos-arm.deb
+Size: 502986
+MD5sum: b7f8bf69738fe57c9c3bfd6d687d8090
+SHA1: 0b14ef4c511f92ed1fb5d720407544749601323e
+SHA256: e9247d84ba179989bfddbb21cde0b4658b70ec248cc5c87df86cb8237474c984
+Section: Tweaks
+Description: Connects original Vine to diVine: real login, videos, social actions, profile editing and native six-second video uploads. Requires an original compatible Vine IPA installed separately.
+Author: samcejko
+Name: Revine
+
+Package: com.samcejko.shazamer
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: samcejko
+Installed-Size: 1072
+Depends: firmware (>= 5.0), firmware (<< 11.0)
+Filename: ./com.samcejko.shazamer_1.0.6_iphoneos-arm.deb
+Size: 631088
+MD5sum: 6cc67889c05ceac8547768fa1b7a2204
+SHA1: 8be18204e4296af0e99dc9085aa13baad4aa191d
+SHA256: a67bbb3391b0ea0161734c557f78622873c931fdecb31fd85561ca7ff0074ad5
+Section: Multimedia
+Description: Music recognition client for iOS 6 with direct-from-device Shazam API integration and lyrics
+Author: samcejko
+Name: Shazamer
+
+Package: com.samcejko.shutter
+Version: 0.3.21
+Architecture: iphoneos-arm
+Maintainer: samcejko
+Installed-Size: 3160
+Depends: firmware (>= 5.0), firmware (<< 11.0)
+Filename: ./com.samcejko.shutter_0.3.21_iphoneos-arm.deb
+Size: 2234478
+MD5sum: e4602589f5f4b22c979fcb1fce6098a1
+SHA1: 1287e8bab15e708eb4915304486e3b89ebcd523c
+SHA256: a1aef4da64aa0cfcd80ad1c5f82f482bd40f87ae48d1ad124999003f8159cf93
+Section: Social
+Description: Unofficial photo, video and chat client for iOS 5–10 (universal), in English and Czech: sign in with your account, home feed, stories and highlights, reels, profiles, likes, comments and direct messages with photos and voice messages.
+Author: samcejko
+Name: Gramify
+
+Package: com.samcejko.shuttercalc
+Version: 1.0.8
+Architecture: iphoneos-arm
+Maintainer: samcejko
+Installed-Size: 2200
+Depends: firmware (>= 5.0), firmware (<< 11.0)
+Filename: ./com.samcejko.shuttercalc_1.0.8_iphoneos-arm.deb
+Size: 1187588
+MD5sum: f8ef074bfecc339dbf510b21e660373a
+SHA1: 0c18a9117d317dc3f756b331e41a408e4e37b573
+SHA256: 7da55744cbdf61bd8250833947b87d41301476cad359625e6720fef7c25f6bc5
+Section: Education
+Description: Camera math scanner and solver for iOS 5-10 with step-by-step solutions
+Author: samcejko
+Name: ShutterCalc
+
+Package: com.samcejko.tikie
+Version: 0.3.1
+Architecture: iphoneos-arm
+Maintainer: samcejko
+Installed-Size: 1692
+Depends: firmware (>= 6.0), firmware (<< 7.0)
+Filename: ./com.samcejko.tikie_0.3.1_iphoneos-arm.deb
+Size: 997954
+MD5sum: 5ee16d1a211a1629b98cf8ee027092e4
+SHA1: 5ab4de2df059c4b9cf31086cd632ab7b735e32a3
+SHA256: 4456d4c713da09eea3874abaed46afc11157a45a7d883d64e3cf883ea72c6c2e
+Section: Multimedia
+Description: Unofficial TikTok viewer for iOS 6 (universal), in English and Czech: a For You feed that learns what you like, search, hashtags and sounds, captions, photo posts, TikTok LIVE, comments with replies, creator profiles and saved videos. Needs its helper on your own server.
+Author: samcejko
+Name: TikTak
+
 Package: com.samcejko.tikieplus
 Version: 0.5.1
 Architecture: iphoneos-arm
@@ -2103,6 +2347,38 @@ Section: Multimedia
 Description: Direct TikTok viewer with Explore, public profiles, video and photo playback, comments, saved posts and verified local session import. No helper server required; some TikTok account/search endpoints may be unavailable.
 Author: samcejko
 Name: TikTak+
+
+Package: com.samcejko.tubie
+Version: 0.5.7
+Architecture: iphoneos-arm
+Maintainer: samcejko
+Installed-Size: 2060
+Depends: firmware (>= 5.0), firmware (<< 11.0)
+Filename: ./com.samcejko.tubie_0.5.7_iphoneos-arm.deb
+Size: 1131028
+MD5sum: f488aefb479a446e67817edd7b452882
+SHA1: c827b36c53b7ed576381bf86480ae95c737fb86e
+SHA256: e1267ff015cf6c2503d474d1c54ec392e112cf9cc390e582d8823e9a178d71f7
+Section: Multimedia
+Description: YouTube client for iOS 5-10 (universal): videos, shorts, live streams, channels, playlists, comments
+Author: samcejko
+Name: Tubie
+
+Package: com.samcejko.twitcher
+Version: 0.2.3
+Architecture: iphoneos-arm
+Maintainer: samcejko
+Installed-Size: 1716
+Depends: firmware (>= 5.0), firmware (<< 11.0)
+Filename: ./com.samcejko.twitcher_0.2.3_iphoneos-arm.deb
+Size: 948302
+MD5sum: 4c10ddbdebb4a96b6f2819decdb9769b
+SHA1: 5c440c64b2ada5d30a209bd72aa26724c1b9607e
+SHA256: 35052043aa23ea007a3c5a6466ff775228df49f3e62fa686544a6a681fb422fc
+Section: Multimedia
+Description: Twitch client for iOS 5–10 (universal): live streams, videos, clips and chat
+Author: samcejko
+Name: Twitcher
 
 Package: com.saurik.afc2d
 Version: 1.2
@@ -2471,6 +2747,24 @@ Section: Applications
 Description: Cai app Youtube 1.3.0 (cho Ios 5.1 -  10) va Fix chay nen cho Ios 6  - 10
 Author: Tomkids
 Name: Youtube 1.3 & Tubereplacer 1.0.6 Fix
+
+Package: com.tqm-mos.aquaboard
+Version: 1.0-21
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), firmware (>= 5.0)
+Conflicts: com.fuyuchi.unlockize
+Filename: ./com.tqm-mos.aquaboard_1.0-21_iphoneos-arm.deb
+Size: 86186
+MD5sum: ae8b0ef877124fa89e880a4d6980d6ec
+SHA1: 4965e4583853f2f36355bd8d536a4c9be4d3a208
+SHA256: b9ceff542dd6f690820cb0057b2adf75e59570cc9bf06f23f19e353c4af4630a
+Section: Tweaks
+Description: Hiệu ứng nước tuyệt vời trên thiết bị.
+Author: Elias Limneos
+Depiction: https://tqm-mos.com/repo/info.html?id=com.tqm-mos.aquaboard
+Name: AquaBoard (iOS 5/6/7)
+Sileodepiction: https://tqm-mos.com/repo/info/com.tqm-mos.aquaboard.json
 
 Package: com.tqm-mos.batterydragon
 Version: 1.0
@@ -3291,6 +3585,28 @@ Description: A fix for the iOS 7 AppStore! credits to bag.xml and requis for the
 Author: Jyvee <jyveeanimate@jyveegames.org>
 Icon: file:///Library/Application%20Support/org.jyvee8games.itunesfix/Icon.png
 Name: iTunesStoreX7 (BETA)
+
+Package: org.thebigboss.blurriedncbackground
+Version: 3.0-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 24
+Depends: mobilesubstrate, firmware (>= 5.0), preferenceloader
+Filename: ./org.thebigboss.blurriedncbackground_3.0-1_iphoneos-arm.deb
+Size: 12940
+MD5sum: 221f1365465f94e526cc5b02f40d87e2
+SHA1: ee498945007e6e6c7c0a168f43be3ed431156203
+SHA256: 14c3954c69ac21fb5a3f553462d4c2a0ed6d5c1ae3a9bc3672bf1b5b8c63d4de
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=blurriedncbackgroundDp
+Description: blurred wallpaper behind NotificationCenter
+Tag: purpose::extension
+Author: Philippe <philippemail1@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=blurriedncbackgroundDp
+Dev: philippemail1
+Icon: file:///Library/PreferenceLoader/Preferences/bncb/bncb@2x.png
+Name: BlurriedNCBackground
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: org.thebigboss.tvlockerpro
 Version: 1.4.1-1
