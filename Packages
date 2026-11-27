@@ -789,6 +789,28 @@ Depiction: https://adrienrl1.github.io/cydia/depiction.html
 Icon: https://adrienrl1.github.io/cydia/PackageIcon.png
 Name: AppDrop
 
+Package: codes.wilma24.spotifix
+Version: 0.1.48-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 10240
+Depends: mobilesubstrate, firmware (>= 2.0), firmware (<< 13.0)
+Filename: ./codes.wilma24.spotifix_0.1.48-1_iphoneos-arm.deb
+Size: 5864410
+MD5sum: b2efb08d978391ffe576f2b253313727
+SHA1: ff6008f6948b26dbb1bae22a4d71a9614b549d17
+SHA256: 47f1c0df60f48d0b1d1ad812b820b2842b1fe1a90023462f132f5678df2529dd
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=euphoraDp
+Description: Restores Spotify on iOS 2–12. Recommends Premium.
+Tag: purpose::extension
+Author: wilma242008 <wilmas3548@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=euphoraDp
+Dev: wilma242008
+Name: Euphora (Spotifix)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.aoi.storefix
 Version: 1.0-6
 Architecture: iphoneos-arm
